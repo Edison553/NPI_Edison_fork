@@ -1,0 +1,738 @@
+2026-01-30 16:16:56,262 [INFO] 开始训练被试 0...
+2026-01-30 16:17:03,468 [INFO] 被试 0 训练完成并保存。Final Test Loss: 0.239303
+2026-01-30 16:17:03,470 [INFO] 所有预定训练任务已结束。
+2026-01-30 16:18:00,471 [INFO] 被试 0 已有训练好的模型，跳过。
+2026-01-30 16:18:00,472 [INFO] 开始训练被试 1...
+2026-01-30 16:18:03,521 [INFO] 被试 1 训练完成并保存。Final Test Loss: 2.767792
+2026-01-30 16:18:03,523 [INFO] 所有预定训练任务已结束。
+2026-01-30 16:18:11,018 [INFO] 被试 0 已有训练好的模型，跳过。
+2026-01-30 16:18:11,019 [INFO] 被试 1 已有训练好的模型，跳过。
+2026-01-30 16:18:11,019 [INFO] 开始训练被试 2...
+2026-01-30 16:18:14,074 [INFO] 被试 2 训练完成并保存。Final Test Loss: 4.820319
+2026-01-30 16:18:14,075 [INFO] 开始训练被试 3...
+2026-01-30 16:18:17,005 [INFO] 被试 3 训练完成并保存。Final Test Loss: 4.085911
+2026-01-30 16:18:17,008 [INFO] 开始训练被试 4...
+2026-01-30 16:18:19,924 [INFO] 被试 4 训练完成并保存。Final Test Loss: 7.402676
+2026-01-30 16:18:19,925 [INFO] 所有预定训练任务已结束。
+2026-01-30 18:12:36,621 [INFO] Skipping Subject 0: Model already exists.
+2026-01-30 18:12:36,622 [INFO] Skipping Subject 1: Model already exists.
+2026-01-30 18:12:36,622 [INFO] Skipping Subject 2: Model already exists.
+2026-01-30 18:12:36,623 [INFO] Skipping Subject 3: Model already exists.
+2026-01-30 18:12:36,624 [INFO] Skipping Subject 4: Model already exists.
+2026-01-30 18:12:36,624 [INFO] Starting Subject 5...
+2026-01-30 18:12:41,803 [INFO] 被试 5 训练完成并保存。Final Test Loss: 0.421385
+2026-01-30 18:12:41,805 [INFO] Starting Subject 6...
+2026-01-30 18:12:44,935 [INFO] 被试 6 训练完成并保存。Final Test Loss: 2.228847
+2026-01-30 18:12:44,937 [INFO] Starting Subject 7...
+2026-01-30 18:12:48,068 [INFO] 被试 7 训练完成并保存。Final Test Loss: 2.651368
+2026-01-30 18:12:48,069 [INFO] Starting Subject 8...
+2026-01-30 18:12:51,269 [INFO] 被试 8 训练完成并保存。Final Test Loss: 5.690776
+2026-01-30 18:12:51,271 [INFO] Starting Subject 9...
+2026-01-30 18:12:54,475 [INFO] 被试 9 训练完成并保存。Final Test Loss: 3.645752
+2026-01-30 18:12:54,476 [INFO] Starting Subject 10...
+2026-01-30 18:12:57,673 [INFO] 被试 10 训练完成并保存。Final Test Loss: 3.845188
+2026-01-30 18:12:57,674 [INFO] Starting Subject 11...
+2026-01-30 18:13:00,819 [INFO] 被试 11 训练完成并保存。Final Test Loss: 3.351841
+2026-01-30 18:13:00,821 [INFO] Starting Subject 12...
+2026-01-30 18:13:03,996 [INFO] 被试 12 训练完成并保存。Final Test Loss: 6.109914
+2026-01-30 18:13:03,997 [INFO] Starting Subject 13...
+2026-01-30 18:13:07,182 [INFO] 被试 13 训练完成并保存。Final Test Loss: 4.700896
+2026-01-30 18:13:07,184 [INFO] Starting Subject 14...
+2026-01-30 18:13:10,394 [INFO] 被试 14 训练完成并保存。Final Test Loss: 6.666914
+2026-01-30 18:13:10,396 [INFO] Starting Subject 15...
+2026-01-30 18:13:13,584 [INFO] 被试 15 训练完成并保存。Final Test Loss: 6.007728
+2026-01-30 18:13:13,586 [INFO] Starting Subject 16...
+2026-01-30 18:13:16,775 [INFO] 被试 16 训练完成并保存。Final Test Loss: 3.921427
+2026-01-30 18:13:16,777 [INFO] Starting Subject 17...
+2026-01-30 18:13:19,951 [INFO] 被试 17 训练完成并保存。Final Test Loss: 6.422393
+2026-01-30 18:13:19,953 [INFO] Starting Subject 18...
+2026-01-30 18:13:23,100 [INFO] 被试 18 训练完成并保存。Final Test Loss: 6.429278
+2026-01-30 18:13:23,102 [INFO] Starting Subject 19...
+2026-01-30 18:13:26,258 [INFO] 被试 19 训练完成并保存。Final Test Loss: 13.872117
+2026-01-30 18:13:26,260 [INFO] Starting Subject 20...
+2026-01-30 18:13:29,447 [INFO] 被试 20 训练完成并保存。Final Test Loss: 0.982066
+2026-01-30 18:13:29,448 [INFO] Starting Subject 21...
+2026-01-30 18:13:32,636 [INFO] 被试 21 训练完成并保存。Final Test Loss: 4.528478
+2026-01-30 18:13:32,638 [INFO] Starting Subject 22...
+2026-01-30 18:13:35,799 [INFO] 被试 22 训练完成并保存。Final Test Loss: 5.290783
+2026-01-30 18:13:35,800 [INFO] Starting Subject 23...
+2026-01-30 18:13:39,030 [INFO] 被试 23 训练完成并保存。Final Test Loss: 7.789042
+2026-01-30 18:13:39,031 [INFO] Starting Subject 24...
+2026-01-30 18:13:42,205 [INFO] 被试 24 训练完成并保存。Final Test Loss: 6.545723
+2026-01-30 18:13:42,206 [INFO] Starting Subject 25...
+2026-01-30 18:13:45,348 [INFO] 被试 25 训练完成并保存。Final Test Loss: 6.675721
+2026-01-30 18:13:45,349 [INFO] Starting Subject 26...
+2026-01-30 18:13:48,485 [INFO] 被试 26 训练完成并保存。Final Test Loss: 5.788886
+2026-01-30 18:13:48,487 [INFO] Starting Subject 27...
+2026-01-30 18:13:51,670 [INFO] 被试 27 训练完成并保存。Final Test Loss: 4.480308
+2026-01-30 18:13:51,672 [INFO] Starting Subject 28...
+2026-01-30 18:13:55,233 [INFO] 被试 28 训练完成并保存。Final Test Loss: 19.862108
+2026-01-30 18:13:55,236 [INFO] Starting Subject 29...
+2026-01-30 18:13:58,980 [INFO] 被试 29 训练完成并保存。Final Test Loss: 10.535136
+2026-01-30 18:13:58,982 [INFO] Starting Subject 30...
+2026-01-30 18:14:02,867 [INFO] 被试 30 训练完成并保存。Final Test Loss: 7.597358
+2026-01-30 18:14:02,869 [INFO] Starting Subject 31...
+2026-01-30 18:14:06,732 [INFO] 被试 31 训练完成并保存。Final Test Loss: 6.742159
+2026-01-30 18:14:06,734 [INFO] Starting Subject 32...
+2026-01-30 18:14:10,616 [INFO] 被试 32 训练完成并保存。Final Test Loss: 4.754122
+2026-01-30 18:14:10,617 [INFO] Starting Subject 33...
+2026-01-30 18:14:14,537 [INFO] 被试 33 训练完成并保存。Final Test Loss: 6.863504
+2026-01-30 18:14:14,538 [INFO] Starting Subject 34...
+2026-01-30 18:14:18,473 [INFO] 被试 34 训练完成并保存。Final Test Loss: 5.277505
+2026-01-30 18:14:18,475 [INFO] Starting Subject 35...
+2026-01-30 18:14:22,345 [INFO] 被试 35 训练完成并保存。Final Test Loss: 6.389900
+2026-01-30 18:14:22,347 [INFO] Starting Subject 36...
+2026-01-30 18:14:26,244 [INFO] 被试 36 训练完成并保存。Final Test Loss: 10.157062
+2026-01-30 18:14:26,246 [INFO] Starting Subject 37...
+2026-01-30 18:14:30,124 [INFO] 被试 37 训练完成并保存。Final Test Loss: 8.813479
+2026-01-30 18:14:30,126 [INFO] Starting Subject 38...
+2026-01-30 18:14:34,012 [INFO] 被试 38 训练完成并保存。Final Test Loss: 3.473962
+2026-01-30 18:14:34,014 [INFO] Starting Subject 39...
+2026-01-30 18:14:37,891 [INFO] 被试 39 训练完成并保存。Final Test Loss: 5.122533
+2026-01-30 18:14:37,892 [INFO] Starting Subject 40...
+2026-01-30 18:14:41,763 [INFO] 被试 40 训练完成并保存。Final Test Loss: 5.399106
+2026-01-30 18:14:41,764 [INFO] Starting Subject 41...
+2026-01-30 18:14:45,636 [INFO] 被试 41 训练完成并保存。Final Test Loss: 8.024466
+2026-01-30 18:14:45,638 [INFO] Starting Subject 42...
+2026-01-30 18:14:49,542 [INFO] 被试 42 训练完成并保存。Final Test Loss: 0.265340
+2026-01-30 18:14:49,543 [INFO] Starting Subject 43...
+2026-01-30 18:14:53,428 [INFO] 被试 43 训练完成并保存。Final Test Loss: 4.615012
+2026-01-30 18:14:53,429 [INFO] Starting Subject 44...
+2026-01-30 18:14:57,318 [INFO] 被试 44 训练完成并保存。Final Test Loss: 5.904752
+2026-01-30 18:14:57,320 [INFO] Starting Subject 45...
+2026-01-30 18:15:01,201 [INFO] 被试 45 训练完成并保存。Final Test Loss: 9.166836
+2026-01-30 18:15:01,203 [INFO] Starting Subject 46...
+2026-01-30 18:15:05,085 [INFO] 被试 46 训练完成并保存。Final Test Loss: 0.252761
+2026-01-30 18:15:05,087 [INFO] Starting Subject 47...
+2026-01-30 18:15:08,981 [INFO] 被试 47 训练完成并保存。Final Test Loss: 6.449081
+2026-01-30 18:15:08,982 [INFO] Starting Subject 48...
+2026-01-30 18:15:12,868 [INFO] 被试 48 训练完成并保存。Final Test Loss: 4.701382
+2026-01-30 18:15:12,870 [INFO] Starting Subject 49...
+2026-01-30 18:15:16,746 [INFO] 被试 49 训练完成并保存。Final Test Loss: 4.965903
+2026-01-30 18:15:16,747 [INFO] Starting Subject 50...
+2026-01-30 18:15:20,624 [INFO] 被试 50 训练完成并保存。Final Test Loss: 3.923467
+2026-01-30 18:15:20,626 [INFO] Starting Subject 51...
+2026-01-30 18:15:24,510 [INFO] 被试 51 训练完成并保存。Final Test Loss: 6.314179
+2026-01-30 18:15:24,511 [INFO] Starting Subject 52...
+2026-01-30 18:15:28,396 [INFO] 被试 52 训练完成并保存。Final Test Loss: 0.362781
+2026-01-30 18:15:28,398 [INFO] Starting Subject 53...
+2026-01-30 18:15:32,274 [INFO] 被试 53 训练完成并保存。Final Test Loss: 8.455153
+2026-01-30 18:15:32,275 [INFO] Starting Subject 54...
+2026-01-30 18:15:36,163 [INFO] 被试 54 训练完成并保存。Final Test Loss: 7.498926
+2026-01-30 18:15:36,164 [INFO] Starting Subject 55...
+2026-01-30 18:15:40,045 [INFO] 被试 55 训练完成并保存。Final Test Loss: 4.740269
+2026-01-30 18:15:40,047 [INFO] Starting Subject 56...
+2026-01-30 18:15:43,924 [INFO] 被试 56 训练完成并保存。Final Test Loss: 5.591328
+2026-01-30 18:15:43,926 [INFO] Starting Subject 57...
+2026-01-30 18:15:47,799 [INFO] 被试 57 训练完成并保存。Final Test Loss: 10.760448
+2026-01-30 18:15:47,800 [INFO] Starting Subject 58...
+2026-01-30 18:15:51,672 [INFO] 被试 58 训练完成并保存。Final Test Loss: 8.087039
+2026-01-30 18:15:51,673 [INFO] Starting Subject 59...
+2026-01-30 18:15:55,557 [INFO] 被试 59 训练完成并保存。Final Test Loss: 4.504955
+2026-01-30 18:15:55,559 [INFO] Starting Subject 60...
+2026-01-30 18:15:59,454 [INFO] 被试 60 训练完成并保存。Final Test Loss: 4.367812
+2026-01-30 18:15:59,456 [INFO] Starting Subject 61...
+2026-01-30 18:16:03,333 [INFO] 被试 61 训练完成并保存。Final Test Loss: 5.602189
+2026-01-30 18:16:03,334 [INFO] Starting Subject 62...
+2026-01-30 18:16:07,211 [INFO] 被试 62 训练完成并保存。Final Test Loss: 39.923878
+2026-01-30 18:16:07,212 [INFO] Starting Subject 63...
+2026-01-30 18:16:11,090 [INFO] 被试 63 训练完成并保存。Final Test Loss: 3.339966
+2026-01-30 18:16:11,092 [INFO] Starting Subject 64...
+2026-01-30 18:16:14,978 [INFO] 被试 64 训练完成并保存。Final Test Loss: 5.714645
+2026-01-30 18:16:14,980 [INFO] Starting Subject 65...
+2026-01-30 18:16:18,853 [INFO] 被试 65 训练完成并保存。Final Test Loss: 5.044416
+2026-01-30 18:16:18,856 [INFO] Starting Subject 66...
+2026-01-30 18:16:22,722 [INFO] 被试 66 训练完成并保存。Final Test Loss: 6.997881
+2026-01-30 18:16:22,724 [INFO] Starting Subject 67...
+2026-01-30 18:16:26,612 [INFO] 被试 67 训练完成并保存。Final Test Loss: 11.077436
+2026-01-30 18:16:26,613 [INFO] Starting Subject 68...
+2026-01-30 18:16:30,494 [INFO] 被试 68 训练完成并保存。Final Test Loss: 5.218362
+2026-01-30 18:16:30,496 [INFO] Starting Subject 69...
+2026-01-30 18:16:34,371 [INFO] 被试 69 训练完成并保存。Final Test Loss: 6.620051
+2026-01-30 18:16:34,373 [INFO] Starting Subject 70...
+2026-01-30 18:16:38,249 [INFO] 被试 70 训练完成并保存。Final Test Loss: 3.959121
+2026-01-30 18:16:38,251 [INFO] Starting Subject 71...
+2026-01-30 18:16:42,131 [INFO] 被试 71 训练完成并保存。Final Test Loss: 5.725593
+2026-01-30 18:16:42,133 [INFO] Starting Subject 72...
+2026-01-30 18:16:46,008 [INFO] 被试 72 训练完成并保存。Final Test Loss: 0.197270
+2026-01-30 18:16:46,010 [INFO] Starting Subject 73...
+2026-01-30 18:16:49,885 [INFO] 被试 73 训练完成并保存。Final Test Loss: 4.596483
+2026-01-30 18:16:49,887 [INFO] Starting Subject 74...
+2026-01-30 18:16:53,772 [INFO] 被试 74 训练完成并保存。Final Test Loss: 5.942556
+2026-01-30 18:16:53,774 [INFO] Starting Subject 75...
+2026-01-30 18:16:57,670 [INFO] 被试 75 训练完成并保存。Final Test Loss: 0.254991
+2026-01-30 18:16:57,672 [INFO] Starting Subject 76...
+2026-01-30 18:17:01,550 [INFO] 被试 76 训练完成并保存。Final Test Loss: 3.825269
+2026-01-30 18:17:01,551 [INFO] Starting Subject 77...
+2026-01-30 18:17:05,425 [INFO] 被试 77 训练完成并保存。Final Test Loss: 18.684298
+2026-01-30 18:17:05,427 [INFO] Starting Subject 78...
+2026-01-30 18:17:09,286 [INFO] 被试 78 训练完成并保存。Final Test Loss: 6.771584
+2026-01-30 18:17:09,287 [INFO] Starting Subject 79...
+2026-01-30 18:17:13,160 [INFO] 被试 79 训练完成并保存。Final Test Loss: 3.174800
+2026-01-30 18:17:13,161 [INFO] Starting Subject 80...
+2026-01-30 18:17:17,033 [INFO] 被试 80 训练完成并保存。Final Test Loss: 3.691592
+2026-01-30 18:17:17,035 [INFO] Starting Subject 81...
+2026-01-30 18:17:20,899 [INFO] 被试 81 训练完成并保存。Final Test Loss: 6.243054
+2026-01-30 18:17:20,901 [INFO] Starting Subject 82...
+2026-01-30 18:17:24,765 [INFO] 被试 82 训练完成并保存。Final Test Loss: 18.977591
+2026-01-30 18:17:24,766 [INFO] Starting Subject 83...
+2026-01-30 18:17:28,637 [INFO] 被试 83 训练完成并保存。Final Test Loss: 6.024645
+2026-01-30 18:17:28,639 [INFO] Starting Subject 84...
+2026-01-30 18:17:32,517 [INFO] 被试 84 训练完成并保存。Final Test Loss: 4.435249
+2026-01-30 18:17:32,518 [INFO] Starting Subject 85...
+2026-01-30 18:17:36,413 [INFO] 被试 85 训练完成并保存。Final Test Loss: 5.381804
+2026-01-30 18:17:36,413 [INFO] Starting Subject 86...
+2026-01-30 18:17:40,289 [INFO] 被试 86 训练完成并保存。Final Test Loss: 3.434425
+2026-01-30 18:17:40,291 [INFO] Starting Subject 87...
+2026-01-30 18:17:44,171 [INFO] 被试 87 训练完成并保存。Final Test Loss: 2.792345
+2026-01-30 18:17:44,173 [INFO] Starting Subject 88...
+2026-01-30 18:17:48,050 [INFO] 被试 88 训练完成并保存。Final Test Loss: 3.389246
+2026-01-30 18:17:48,051 [INFO] Starting Subject 89...
+2026-01-30 18:17:51,931 [INFO] 被试 89 训练完成并保存。Final Test Loss: 4.339935
+2026-01-30 18:17:51,932 [INFO] Starting Subject 90...
+2026-01-30 18:17:55,816 [INFO] 被试 90 训练完成并保存。Final Test Loss: 6.634830
+2026-01-30 18:17:55,817 [INFO] Starting Subject 91...
+2026-01-30 18:17:59,712 [INFO] 被试 91 训练完成并保存。Final Test Loss: 4.705733
+2026-01-30 18:17:59,714 [INFO] Starting Subject 92...
+2026-01-30 18:18:03,606 [INFO] 被试 92 训练完成并保存。Final Test Loss: 2.000734
+2026-01-30 18:18:03,607 [INFO] Starting Subject 93...
+2026-01-30 18:18:07,488 [INFO] 被试 93 训练完成并保存。Final Test Loss: 3.626586
+2026-01-30 18:18:07,489 [INFO] Starting Subject 94...
+2026-01-30 18:18:11,380 [INFO] 被试 94 训练完成并保存。Final Test Loss: 2.431746
+2026-01-30 18:18:11,382 [INFO] Starting Subject 95...
+2026-01-30 18:18:15,269 [INFO] 被试 95 训练完成并保存。Final Test Loss: 6.984215
+2026-01-30 18:18:15,271 [INFO] Starting Subject 96...
+2026-01-30 18:18:19,149 [INFO] 被试 96 训练完成并保存。Final Test Loss: 6.319355
+2026-01-30 18:18:19,151 [INFO] Starting Subject 97...
+2026-01-30 18:18:23,016 [INFO] 被试 97 训练完成并保存。Final Test Loss: 7.894503
+2026-01-30 18:18:23,018 [INFO] Starting Subject 98...
+2026-01-30 18:18:26,895 [INFO] 被试 98 训练完成并保存。Final Test Loss: 4.275420
+2026-01-30 18:18:26,896 [INFO] Starting Subject 99...
+2026-01-30 18:18:30,777 [INFO] 被试 99 训练完成并保存。Final Test Loss: 6.452484
+2026-01-30 18:18:30,779 [INFO] Starting Subject 100...
+2026-01-30 18:18:34,653 [INFO] 被试 100 训练完成并保存。Final Test Loss: 6.503701
+2026-01-30 18:18:34,655 [INFO] Starting Subject 101...
+2026-01-30 18:18:38,529 [INFO] 被试 101 训练完成并保存。Final Test Loss: 6.634709
+2026-01-30 18:18:38,531 [INFO] Starting Subject 102...
+2026-01-30 18:18:42,406 [INFO] 被试 102 训练完成并保存。Final Test Loss: 5.360521
+2026-01-30 18:18:42,408 [INFO] Starting Subject 103...
+2026-01-30 18:18:46,292 [INFO] 被试 103 训练完成并保存。Final Test Loss: 6.127406
+2026-01-30 18:18:46,294 [INFO] Starting Subject 104...
+2026-01-30 18:18:50,171 [INFO] 被试 104 训练完成并保存。Final Test Loss: 5.513157
+2026-01-30 18:18:50,173 [INFO] Starting Subject 105...
+2026-01-30 18:18:54,046 [INFO] 被试 105 训练完成并保存。Final Test Loss: 7.174472
+2026-01-30 18:18:54,047 [INFO] Starting Subject 106...
+2026-01-30 18:18:57,934 [INFO] 被试 106 训练完成并保存。Final Test Loss: 5.346214
+2026-01-30 18:18:57,935 [INFO] Starting Subject 107...
+2026-01-30 18:19:01,839 [INFO] 被试 107 训练完成并保存。Final Test Loss: 4.338769
+2026-01-30 18:19:01,841 [INFO] Starting Subject 108...
+2026-01-30 18:19:05,701 [INFO] 被试 108 训练完成并保存。Final Test Loss: 6.742700
+2026-01-30 18:19:05,702 [INFO] Starting Subject 109...
+2026-01-30 18:19:09,574 [INFO] 被试 109 训练完成并保存。Final Test Loss: 5.716364
+2026-01-30 18:19:09,576 [INFO] Starting Subject 110...
+2026-01-30 18:19:13,446 [INFO] 被试 110 训练完成并保存。Final Test Loss: 4.717555
+2026-01-30 18:19:13,448 [INFO] Starting Subject 111...
+2026-01-30 18:19:17,320 [INFO] 被试 111 训练完成并保存。Final Test Loss: 6.191600
+2026-01-30 18:19:17,322 [INFO] Starting Subject 112...
+2026-01-30 18:19:21,209 [INFO] 被试 112 训练完成并保存。Final Test Loss: 5.762848
+2026-01-30 18:19:21,211 [INFO] Starting Subject 113...
+2026-01-30 18:19:25,099 [INFO] 被试 113 训练完成并保存。Final Test Loss: 5.573133
+2026-01-30 18:19:25,100 [INFO] Starting Subject 114...
+2026-01-30 18:19:28,978 [INFO] 被试 114 训练完成并保存。Final Test Loss: 9.861313
+2026-01-30 18:19:28,980 [INFO] Starting Subject 115...
+2026-01-30 18:19:32,856 [INFO] 被试 115 训练完成并保存。Final Test Loss: 5.885240
+2026-01-30 18:19:32,858 [INFO] Starting Subject 116...
+2026-01-30 18:19:36,723 [INFO] 被试 116 训练完成并保存。Final Test Loss: 2.919646
+2026-01-30 18:19:36,724 [INFO] Starting Subject 117...
+2026-01-30 18:19:40,611 [INFO] 被试 117 训练完成并保存。Final Test Loss: 10.168564
+2026-01-30 18:19:40,612 [INFO] Starting Subject 118...
+2026-01-30 18:19:44,486 [INFO] 被试 118 训练完成并保存。Final Test Loss: 5.680296
+2026-01-30 18:19:44,488 [INFO] Starting Subject 119...
+2026-01-30 18:19:48,359 [INFO] 被试 119 训练完成并保存。Final Test Loss: 2.368248
+2026-01-30 18:19:48,361 [INFO] Starting Subject 120...
+2026-01-30 18:19:52,236 [INFO] 被试 120 训练完成并保存。Final Test Loss: 3.619431
+2026-01-30 18:19:52,238 [INFO] Starting Subject 121...
+2026-01-30 18:19:56,123 [INFO] 被试 121 训练完成并保存。Final Test Loss: 3.454561
+2026-01-30 18:19:56,124 [INFO] Starting Subject 122...
+2026-01-30 18:20:00,015 [INFO] 被试 122 训练完成并保存。Final Test Loss: 4.390347
+2026-01-30 18:20:00,017 [INFO] Starting Subject 123...
+2026-01-30 18:20:03,900 [INFO] 被试 123 训练完成并保存。Final Test Loss: 5.566817
+2026-01-30 18:20:03,901 [INFO] Starting Subject 124...
+2026-01-30 18:20:07,788 [INFO] 被试 124 训练完成并保存。Final Test Loss: 3.437512
+2026-01-30 18:20:07,790 [INFO] Starting Subject 125...
+2026-01-30 18:20:11,661 [INFO] 被试 125 训练完成并保存。Final Test Loss: 5.346645
+2026-01-30 18:20:11,662 [INFO] Starting Subject 126...
+2026-01-30 18:20:15,548 [INFO] 被试 126 训练完成并保存。Final Test Loss: 3.812871
+2026-01-30 18:20:15,549 [INFO] Starting Subject 127...
+2026-01-30 18:20:19,435 [INFO] 被试 127 训练完成并保存。Final Test Loss: 5.982834
+2026-01-30 18:20:19,437 [INFO] Starting Subject 128...
+2026-01-30 18:20:23,307 [INFO] 被试 128 训练完成并保存。Final Test Loss: 4.168805
+2026-01-30 18:20:23,309 [INFO] Starting Subject 129...
+2026-01-30 18:20:27,182 [INFO] 被试 129 训练完成并保存。Final Test Loss: 3.506400
+2026-01-30 18:20:27,183 [INFO] Starting Subject 130...
+2026-01-30 18:20:31,076 [INFO] 被试 130 训练完成并保存。Final Test Loss: 5.469547
+2026-01-30 18:20:31,078 [INFO] Starting Subject 131...
+2026-01-30 18:20:34,954 [INFO] 被试 131 训练完成并保存。Final Test Loss: 6.528037
+2026-01-30 18:20:34,956 [INFO] Starting Subject 132...
+2026-01-30 18:20:38,837 [INFO] 被试 132 训练完成并保存。Final Test Loss: 4.132460
+2026-01-30 18:20:38,839 [INFO] Starting Subject 133...
+2026-01-30 18:20:42,735 [INFO] 被试 133 训练完成并保存。Final Test Loss: 7.232961
+2026-01-30 18:20:42,737 [INFO] Starting Subject 134...
+2026-01-30 18:20:46,611 [INFO] 被试 134 训练完成并保存。Final Test Loss: 5.325653
+2026-01-30 18:20:46,612 [INFO] Starting Subject 135...
+2026-01-30 18:20:50,493 [INFO] 被试 135 训练完成并保存。Final Test Loss: 4.778684
+2026-01-30 18:20:50,495 [INFO] Starting Subject 136...
+2026-01-30 18:20:54,382 [INFO] 被试 136 训练完成并保存。Final Test Loss: 4.192534
+2026-01-30 18:20:54,385 [INFO] Starting Subject 137...
+2026-01-30 18:20:58,273 [INFO] 被试 137 训练完成并保存。Final Test Loss: 4.842173
+2026-01-30 18:20:58,275 [INFO] Starting Subject 138...
+2026-01-30 18:21:02,147 [INFO] 被试 138 训练完成并保存。Final Test Loss: 5.701873
+2026-01-30 18:21:02,148 [INFO] Starting Subject 139...
+2026-01-30 18:21:06,168 [INFO] 被试 139 训练完成并保存。Final Test Loss: 4.851629
+2026-01-30 18:21:06,169 [INFO] Starting Subject 140...
+2026-01-30 18:21:10,124 [INFO] 被试 140 训练完成并保存。Final Test Loss: 8.106887
+2026-01-30 18:21:10,126 [INFO] Starting Subject 141...
+2026-01-30 18:21:14,142 [INFO] 被试 141 训练完成并保存。Final Test Loss: 11.755849
+2026-01-30 18:21:14,144 [INFO] Starting Subject 142...
+2026-01-30 18:21:18,073 [INFO] 被试 142 训练完成并保存。Final Test Loss: 5.624016
+2026-01-30 18:21:18,075 [INFO] Starting Subject 143...
+2026-01-30 18:21:22,039 [INFO] 被试 143 训练完成并保存。Final Test Loss: 9.264155
+2026-01-30 18:21:22,041 [INFO] Starting Subject 144...
+2026-01-30 18:21:26,087 [INFO] 被试 144 训练完成并保存。Final Test Loss: 6.994013
+2026-01-30 18:21:26,089 [INFO] Starting Subject 145...
+2026-01-30 18:21:30,135 [INFO] 被试 145 训练完成并保存。Final Test Loss: 7.290473
+2026-01-30 18:21:30,138 [INFO] Starting Subject 146...
+2026-01-30 18:21:34,184 [INFO] 被试 146 训练完成并保存。Final Test Loss: 6.544852
+2026-01-30 18:21:34,186 [INFO] Starting Subject 147...
+2026-01-30 18:21:38,218 [INFO] 被试 147 训练完成并保存。Final Test Loss: 2.127723
+2026-01-30 18:21:38,220 [INFO] Starting Subject 148...
+2026-01-30 18:21:42,195 [INFO] 被试 148 训练完成并保存。Final Test Loss: 1.690384
+2026-01-30 18:21:42,196 [INFO] Starting Subject 149...
+2026-01-30 18:21:46,176 [INFO] 被试 149 训练完成并保存。Final Test Loss: 4.181844
+2026-01-30 18:21:46,177 [INFO] Starting Subject 150...
+2026-01-30 18:21:50,060 [INFO] 被试 150 训练完成并保存。Final Test Loss: 3.579655
+2026-01-30 18:21:50,062 [INFO] Starting Subject 151...
+2026-01-30 18:21:53,925 [INFO] 被试 151 训练完成并保存。Final Test Loss: 5.726221
+2026-01-30 18:21:53,927 [INFO] Starting Subject 152...
+2026-01-30 18:21:57,827 [INFO] 被试 152 训练完成并保存。Final Test Loss: 2.639581
+2026-01-30 18:21:57,828 [INFO] Starting Subject 153...
+2026-01-30 18:22:02,258 [INFO] 被试 153 训练完成并保存。Final Test Loss: 6.247433
+2026-01-30 18:22:02,259 [INFO] Starting Subject 154...
+2026-01-30 18:22:05,786 [INFO] 被试 154 训练完成并保存。Final Test Loss: 4.105860
+2026-01-30 18:22:05,788 [INFO] Starting Subject 155...
+2026-01-30 18:22:08,706 [INFO] 被试 155 训练完成并保存。Final Test Loss: 4.663059
+2026-01-30 18:22:08,708 [INFO] Starting Subject 156...
+2026-01-30 18:22:11,625 [INFO] 被试 156 训练完成并保存。Final Test Loss: 4.027911
+2026-01-30 18:22:11,626 [INFO] Starting Subject 157...
+2026-01-30 18:22:14,555 [INFO] 被试 157 训练完成并保存。Final Test Loss: 6.876083
+2026-01-30 18:22:14,557 [INFO] Starting Subject 158...
+2026-01-30 18:22:17,491 [INFO] 被试 158 训练完成并保存。Final Test Loss: 4.496510
+2026-01-30 18:22:17,493 [INFO] Starting Subject 159...
+2026-01-30 18:22:20,457 [INFO] 被试 159 训练完成并保存。Final Test Loss: 4.311271
+2026-01-30 18:22:20,459 [INFO] Starting Subject 160...
+2026-01-30 18:22:23,383 [INFO] 被试 160 训练完成并保存。Final Test Loss: 3.944834
+2026-01-30 18:22:23,384 [INFO] Starting Subject 161...
+2026-01-30 18:22:26,310 [INFO] 被试 161 训练完成并保存。Final Test Loss: 8.939383
+2026-01-30 18:22:26,311 [INFO] Starting Subject 162...
+2026-01-30 18:22:29,252 [INFO] 被试 162 训练完成并保存。Final Test Loss: 4.488923
+2026-01-30 18:22:29,254 [INFO] Starting Subject 163...
+2026-01-30 18:22:32,888 [INFO] 被试 163 训练完成并保存。Final Test Loss: 4.894885
+2026-01-30 18:22:32,890 [INFO] Starting Subject 164...
+2026-01-30 18:22:35,899 [INFO] 被试 164 训练完成并保存。Final Test Loss: 5.987098
+2026-01-30 18:22:35,900 [INFO] Starting Subject 165...
+2026-01-30 18:22:38,873 [INFO] 被试 165 训练完成并保存。Final Test Loss: 6.516985
+2026-01-30 18:22:38,874 [INFO] Starting Subject 166...
+2026-01-30 18:22:41,815 [INFO] 被试 166 训练完成并保存。Final Test Loss: 5.984353
+2026-01-30 18:22:41,816 [INFO] Starting Subject 167...
+2026-01-30 18:22:44,743 [INFO] 被试 167 训练完成并保存。Final Test Loss: 3.940214
+2026-01-30 18:22:44,745 [INFO] Starting Subject 168...
+2026-01-30 18:22:47,679 [INFO] 被试 168 训练完成并保存。Final Test Loss: 7.513239
+2026-01-30 18:22:47,680 [INFO] Starting Subject 169...
+2026-01-30 18:22:50,620 [INFO] 被试 169 训练完成并保存。Final Test Loss: 6.175313
+2026-01-30 18:22:50,622 [INFO] Starting Subject 170...
+2026-01-30 18:22:53,551 [INFO] 被试 170 训练完成并保存。Final Test Loss: 5.469050
+2026-01-30 18:22:53,553 [INFO] Starting Subject 171...
+2026-01-30 18:22:56,838 [INFO] 被试 171 训练完成并保存。Final Test Loss: 12.039831
+2026-01-30 18:22:56,840 [INFO] Starting Subject 172...
+2026-01-30 18:22:59,784 [INFO] 被试 172 训练完成并保存。Final Test Loss: 8.531832
+2026-01-30 18:22:59,786 [INFO] Starting Subject 173...
+2026-01-30 18:23:02,699 [INFO] 被试 173 训练完成并保存。Final Test Loss: 10.202753
+2026-01-30 18:23:02,700 [INFO] Starting Subject 174...
+2026-01-30 18:23:05,633 [INFO] 被试 174 训练完成并保存。Final Test Loss: 7.166009
+2026-01-30 18:23:05,635 [INFO] Starting Subject 175...
+2026-01-30 18:23:08,567 [INFO] 被试 175 训练完成并保存。Final Test Loss: 5.804943
+2026-01-30 18:23:08,568 [INFO] Starting Subject 176...
+2026-01-30 18:23:11,480 [INFO] 被试 176 训练完成并保存。Final Test Loss: 9.185646
+2026-01-30 18:23:11,482 [INFO] 所有预定训练任务已结束。
+2026-01-30 18:45:49,356 [INFO] Starting calculating the correlation result!
+2026-01-30 18:47:53,095 [INFO] Starting calculating the correlation result!
+2026-01-30 18:49:29,003 [INFO] Starting calculating the correlation result!
+2026-01-30 18:50:04,147 [INFO] Starting calculating the correlation result!
+2026-01-30 18:51:13,133 [INFO] Starting calculating the correlation result!
+2026-01-30 18:51:16,831 [INFO] Sub 0 处理完成：r = 0.8717
+2026-01-30 18:51:19,972 [INFO] Sub 1 处理完成：r = 0.6454
+2026-01-30 18:51:50,204 [INFO] Starting calculating the correlation result!
+2026-01-30 18:51:53,915 [INFO] Sub 0 处理完成：r = 0.8699
+2026-01-30 18:51:56,981 [INFO] Sub 1 处理完成：r = 0.6450
+2026-01-30 18:51:56,986 [INFO] 
+统计结果已保存至: F:\NPI_results\NPI_Statistics_Summary.csv
+2026-01-30 19:16:29,736 [INFO] Starting calculating the correlation result!
+2026-01-30 19:16:51,475 [INFO] Starting calculating the correlation result!
+2026-01-30 19:16:54,551 [INFO] Sub 0 Done. r = 0.8689, p = 0.00e+00
+2026-01-30 19:16:57,361 [INFO] Sub 1 Done. r = 0.6522, p = 0.00e+00
+2026-01-30 19:16:57,364 [INFO] 
+统计结果已保存至: F:\NPI_results\NPI_Statistics_Summary.csv
+2026-01-30 22:39:16,322 [INFO] Starting calculating the correlation result!
+2026-01-30 22:39:19,605 [INFO] Sub 0 Done. r = 0.8679, p = 0.00e+00
+2026-01-30 22:39:21,705 [INFO] Sub 1 Done. r = 0.6479, p = 0.00e+00
+2026-01-30 22:39:21,711 [INFO] 
+统计结果已保存至: F:\NPI_results\NPI_Statistics_Summary.csv
+2026-01-30 22:43:37,066 [INFO] Starting calculating the correlation result!
+2026-01-30 22:43:38,931 [INFO] Sub 0 EC already exists. Skipping calculation.
+2026-01-30 22:43:38,932 [INFO] Sub 0 Done. r = 0.8701, p = 0.00e+00
+2026-01-30 22:43:39,584 [INFO] Sub 1 EC already exists. Skipping calculation.
+2026-01-30 22:43:39,585 [INFO] Sub 1 Done. r = 0.6472, p = 0.00e+00
+2026-01-30 22:43:41,641 [INFO] Sub 2 Done. r = 0.5861, p = 0.00e+00
+2026-01-30 22:43:43,715 [INFO] Sub 3 Done. r = 0.8002, p = 0.00e+00
+2026-01-30 22:43:45,758 [INFO] Sub 4 Done. r = 0.5984, p = 0.00e+00
+2026-01-30 22:43:47,788 [INFO] Sub 5 Done. r = 0.7139, p = 0.00e+00
+2026-01-30 22:43:49,856 [INFO] Sub 6 Done. r = 0.7437, p = 0.00e+00
+2026-01-30 22:43:51,903 [INFO] Sub 7 Done. r = 0.7128, p = 0.00e+00
+2026-01-30 22:43:53,955 [INFO] Sub 8 Done. r = 0.6820, p = 0.00e+00
+2026-01-30 22:43:56,047 [INFO] Sub 9 Done. r = 0.8230, p = 0.00e+00
+2026-01-30 22:43:58,144 [INFO] Sub 10 Done. r = 0.6460, p = 0.00e+00
+2026-01-30 22:44:00,184 [INFO] Sub 11 Done. r = 0.8577, p = 0.00e+00
+2026-01-30 22:44:02,193 [INFO] Sub 12 Done. r = 0.8042, p = 0.00e+00
+2026-01-30 22:44:04,202 [INFO] Sub 13 Done. r = 0.8411, p = 0.00e+00
+2026-01-30 22:44:06,229 [INFO] Sub 14 Done. r = 0.6105, p = 0.00e+00
+2026-01-30 22:44:08,283 [INFO] Sub 15 Done. r = 0.7589, p = 0.00e+00
+2026-01-30 22:44:10,317 [INFO] Sub 16 Done. r = 0.8108, p = 0.00e+00
+2026-01-30 22:44:12,360 [INFO] Sub 17 Done. r = 0.8428, p = 0.00e+00
+2026-01-30 22:44:14,409 [INFO] Sub 18 Done. r = 0.7811, p = 0.00e+00
+2026-01-30 22:44:16,462 [INFO] Sub 19 Done. r = 0.6337, p = 0.00e+00
+2026-01-30 22:44:18,488 [INFO] Sub 20 Done. r = 0.2009, p = 0.00e+00
+2026-01-30 22:44:20,520 [INFO] Sub 21 Done. r = 0.8454, p = 0.00e+00
+2026-01-30 22:44:22,543 [INFO] Sub 22 Done. r = 0.7199, p = 0.00e+00
+2026-01-30 22:44:24,562 [INFO] Sub 23 Done. r = 0.5454, p = 0.00e+00
+2026-01-30 22:44:26,599 [INFO] Sub 24 Done. r = 0.6623, p = 0.00e+00
+2026-01-30 22:44:28,658 [INFO] Sub 25 Done. r = 0.6917, p = 0.00e+00
+2026-01-30 22:44:30,743 [INFO] Sub 26 Done. r = 0.7421, p = 0.00e+00
+2026-01-30 22:44:32,767 [INFO] Sub 27 Done. r = 0.8428, p = 0.00e+00
+2026-01-30 22:44:34,841 [INFO] Sub 28 Done. r = 0.6305, p = 0.00e+00
+2026-01-30 22:44:36,890 [INFO] Sub 29 Done. r = 0.8541, p = 0.00e+00
+2026-01-30 22:44:38,998 [INFO] Sub 30 Done. r = 0.8172, p = 0.00e+00
+2026-01-30 22:44:41,032 [INFO] Sub 31 Done. r = 0.7006, p = 0.00e+00
+2026-01-30 22:44:43,094 [INFO] Sub 32 Done. r = 0.5955, p = 0.00e+00
+2026-01-30 22:44:45,167 [INFO] Sub 33 Done. r = 0.5572, p = 0.00e+00
+2026-01-30 22:44:47,217 [INFO] Sub 34 Done. r = 0.7620, p = 0.00e+00
+2026-01-30 22:44:49,275 [INFO] Sub 35 Done. r = 0.7371, p = 0.00e+00
+2026-01-30 23:20:34,737 [INFO] Starting calculating the correlation result!
+2026-01-30 23:21:38,345 [INFO] Starting calculating the correlation result!
+2026-01-30 23:21:40,274 [INFO] Sub 0 EC already exists. Skipping calculation.
+2026-01-30 23:21:40,275 [INFO] Sub 0 Done. r = 0.8641, p = 0.00e+00
+2026-01-30 23:21:40,927 [INFO] Sub 1 EC already exists. Skipping calculation.
+2026-01-30 23:21:40,927 [INFO] Sub 1 Done. r = 0.6515, p = 0.00e+00
+2026-01-30 23:21:41,578 [INFO] Sub 2 EC already exists. Skipping calculation.
+2026-01-30 23:21:41,579 [INFO] Sub 2 Done. r = 0.5973, p = 0.00e+00
+2026-01-30 23:21:42,229 [INFO] Sub 3 EC already exists. Skipping calculation.
+2026-01-30 23:21:42,229 [INFO] Sub 3 Done. r = 0.7976, p = 0.00e+00
+2026-01-30 23:21:42,873 [INFO] Sub 4 EC already exists. Skipping calculation.
+2026-01-30 23:21:42,874 [INFO] Sub 4 Done. r = 0.5922, p = 0.00e+00
+2026-01-30 23:21:43,520 [INFO] Sub 5 EC already exists. Skipping calculation.
+2026-01-30 23:21:43,521 [INFO] Sub 5 Done. r = 0.6848, p = 0.00e+00
+2026-01-30 23:21:44,149 [INFO] Sub 6 EC already exists. Skipping calculation.
+2026-01-30 23:21:44,150 [INFO] Sub 6 Done. r = 0.7480, p = 0.00e+00
+2026-01-30 23:21:44,794 [INFO] Sub 7 EC already exists. Skipping calculation.
+2026-01-30 23:21:44,795 [INFO] Sub 7 Done. r = 0.7018, p = 0.00e+00
+2026-01-30 23:21:45,478 [INFO] Sub 8 EC already exists. Skipping calculation.
+2026-01-30 23:21:45,479 [INFO] Sub 8 Done. r = 0.7031, p = 0.00e+00
+2026-01-30 23:21:46,160 [INFO] Sub 9 EC already exists. Skipping calculation.
+2026-01-30 23:21:46,160 [INFO] Sub 9 Done. r = 0.8308, p = 0.00e+00
+2026-01-30 23:21:46,852 [INFO] Sub 10 EC already exists. Skipping calculation.
+2026-01-30 23:21:46,852 [INFO] Sub 10 Done. r = 0.6663, p = 0.00e+00
+2026-01-30 23:21:47,580 [INFO] Sub 11 EC already exists. Skipping calculation.
+2026-01-30 23:21:47,581 [INFO] Sub 11 Done. r = 0.8599, p = 0.00e+00
+2026-01-30 23:21:48,602 [INFO] Sub 12 EC already exists. Skipping calculation.
+2026-01-30 23:21:48,603 [INFO] Sub 12 Done. r = 0.8240, p = 0.00e+00
+2026-01-30 23:21:49,621 [INFO] Sub 13 EC already exists. Skipping calculation.
+2026-01-30 23:21:49,621 [INFO] Sub 13 Done. r = 0.8315, p = 0.00e+00
+2026-01-30 23:21:50,645 [INFO] Sub 14 EC already exists. Skipping calculation.
+2026-01-30 23:21:50,645 [INFO] Sub 14 Done. r = 0.6305, p = 0.00e+00
+2026-01-30 23:21:51,673 [INFO] Sub 15 EC already exists. Skipping calculation.
+2026-01-30 23:21:51,674 [INFO] Sub 15 Done. r = 0.7583, p = 0.00e+00
+2026-01-30 23:21:52,695 [INFO] Sub 16 EC already exists. Skipping calculation.
+2026-01-30 23:21:52,696 [INFO] Sub 16 Done. r = 0.7881, p = 0.00e+00
+2026-01-30 23:21:53,748 [INFO] Sub 17 EC already exists. Skipping calculation.
+2026-01-30 23:21:53,749 [INFO] Sub 17 Done. r = 0.8422, p = 0.00e+00
+2026-01-30 23:21:54,792 [INFO] Sub 18 EC already exists. Skipping calculation.
+2026-01-30 23:21:54,793 [INFO] Sub 18 Done. r = 0.7784, p = 0.00e+00
+2026-01-30 23:21:55,825 [INFO] Sub 19 EC already exists. Skipping calculation.
+2026-01-30 23:21:55,826 [INFO] Sub 19 Done. r = 0.6405, p = 0.00e+00
+2026-01-30 23:21:56,872 [INFO] Sub 20 EC already exists. Skipping calculation.
+2026-01-30 23:21:56,872 [INFO] Sub 20 Done. r = 0.2029, p = 0.00e+00
+2026-01-30 23:21:57,898 [INFO] Sub 21 EC already exists. Skipping calculation.
+2026-01-30 23:21:57,899 [INFO] Sub 21 Done. r = 0.8408, p = 0.00e+00
+2026-01-30 23:21:58,951 [INFO] Sub 22 EC already exists. Skipping calculation.
+2026-01-30 23:21:58,952 [INFO] Sub 22 Done. r = 0.7049, p = 0.00e+00
+2026-01-30 23:21:59,972 [INFO] Sub 23 EC already exists. Skipping calculation.
+2026-01-30 23:21:59,973 [INFO] Sub 23 Done. r = 0.5444, p = 0.00e+00
+2026-01-30 23:22:01,016 [INFO] Sub 24 EC already exists. Skipping calculation.
+2026-01-30 23:22:01,017 [INFO] Sub 24 Done. r = 0.6958, p = 0.00e+00
+2026-01-30 23:22:02,037 [INFO] Sub 25 EC already exists. Skipping calculation.
+2026-01-30 23:22:02,038 [INFO] Sub 25 Done. r = 0.7005, p = 0.00e+00
+2026-01-30 23:22:03,059 [INFO] Sub 26 EC already exists. Skipping calculation.
+2026-01-30 23:22:03,060 [INFO] Sub 26 Done. r = 0.7178, p = 0.00e+00
+2026-01-30 23:22:04,062 [INFO] Sub 27 EC already exists. Skipping calculation.
+2026-01-30 23:22:04,062 [INFO] Sub 27 Done. r = 0.8461, p = 0.00e+00
+2026-01-30 23:22:05,068 [INFO] Sub 28 EC already exists. Skipping calculation.
+2026-01-30 23:22:05,068 [INFO] Sub 28 Done. r = 0.6433, p = 0.00e+00
+2026-01-30 23:22:06,083 [INFO] Sub 29 EC already exists. Skipping calculation.
+2026-01-30 23:22:06,083 [INFO] Sub 29 Done. r = 0.8405, p = 0.00e+00
+2026-01-30 23:22:07,101 [INFO] Sub 30 EC already exists. Skipping calculation.
+2026-01-30 23:22:07,102 [INFO] Sub 30 Done. r = 0.8123, p = 0.00e+00
+2026-01-30 23:22:08,118 [INFO] Sub 31 EC already exists. Skipping calculation.
+2026-01-30 23:22:08,118 [INFO] Sub 31 Done. r = 0.6849, p = 0.00e+00
+2026-01-30 23:22:09,133 [INFO] Sub 32 EC already exists. Skipping calculation.
+2026-01-30 23:22:09,133 [INFO] Sub 32 Done. r = 0.6024, p = 0.00e+00
+2026-01-30 23:22:10,154 [INFO] Sub 33 EC already exists. Skipping calculation.
+2026-01-30 23:22:10,154 [INFO] Sub 33 Done. r = 0.5833, p = 0.00e+00
+2026-01-30 23:22:11,170 [INFO] Sub 34 EC already exists. Skipping calculation.
+2026-01-30 23:22:11,171 [INFO] Sub 34 Done. r = 0.7630, p = 0.00e+00
+2026-01-30 23:22:12,177 [INFO] Sub 35 EC already exists. Skipping calculation.
+2026-01-30 23:22:12,178 [INFO] Sub 35 Done. r = 0.7360, p = 0.00e+00
+2026-01-31 21:09:23,497 [INFO] Starting calculating the correlation result!
+2026-01-31 21:09:24,655 [INFO] Sub 0 EC already exists. Skipping calculation.
+2026-01-31 21:09:24,656 [INFO] Sub 0 Done. r = 0.8668, p = 0.00e+00
+2026-01-31 21:09:25,681 [INFO] Sub 1 EC already exists. Skipping calculation.
+2026-01-31 21:09:25,682 [INFO] Sub 1 Done. r = 0.6510, p = 0.00e+00
+2026-01-31 21:09:26,759 [INFO] Sub 2 EC already exists. Skipping calculation.
+2026-01-31 21:09:26,760 [INFO] Sub 2 Done. r = 0.5830, p = 0.00e+00
+2026-01-31 21:09:27,819 [INFO] Sub 3 EC already exists. Skipping calculation.
+2026-01-31 21:09:27,820 [INFO] Sub 3 Done. r = 0.7948, p = 0.00e+00
+2026-01-31 21:09:28,952 [INFO] Sub 4 EC already exists. Skipping calculation.
+2026-01-31 21:09:28,953 [INFO] Sub 4 Done. r = 0.6066, p = 0.00e+00
+2026-01-31 21:09:29,972 [INFO] Sub 5 EC already exists. Skipping calculation.
+2026-01-31 21:09:29,973 [INFO] Sub 5 Done. r = 0.7087, p = 0.00e+00
+2026-01-31 21:09:30,994 [INFO] Sub 6 EC already exists. Skipping calculation.
+2026-01-31 21:09:30,995 [INFO] Sub 6 Done. r = 0.7404, p = 0.00e+00
+2026-01-31 21:09:32,029 [INFO] Sub 7 EC already exists. Skipping calculation.
+2026-01-31 21:09:32,030 [INFO] Sub 7 Done. r = 0.7190, p = 0.00e+00
+2026-01-31 21:09:33,072 [INFO] Sub 8 EC already exists. Skipping calculation.
+2026-01-31 21:09:33,072 [INFO] Sub 8 Done. r = 0.6812, p = 0.00e+00
+2026-01-31 21:09:34,142 [INFO] Sub 9 EC already exists. Skipping calculation.
+2026-01-31 21:09:34,143 [INFO] Sub 9 Done. r = 0.8305, p = 0.00e+00
+2026-01-31 21:09:35,192 [INFO] Sub 10 EC already exists. Skipping calculation.
+2026-01-31 21:09:35,193 [INFO] Sub 10 Done. r = 0.6723, p = 0.00e+00
+2026-01-31 21:09:36,224 [INFO] Sub 11 EC already exists. Skipping calculation.
+2026-01-31 21:09:36,225 [INFO] Sub 11 Done. r = 0.8527, p = 0.00e+00
+2026-01-31 21:09:37,258 [INFO] Sub 12 EC already exists. Skipping calculation.
+2026-01-31 21:09:37,259 [INFO] Sub 12 Done. r = 0.8226, p = 0.00e+00
+2026-01-31 21:09:38,335 [INFO] Sub 13 EC already exists. Skipping calculation.
+2026-01-31 21:09:38,336 [INFO] Sub 13 Done. r = 0.8231, p = 0.00e+00
+2026-01-31 21:09:39,383 [INFO] Sub 14 EC already exists. Skipping calculation.
+2026-01-31 21:09:39,383 [INFO] Sub 14 Done. r = 0.6259, p = 0.00e+00
+2026-01-31 21:09:40,417 [INFO] Sub 15 EC already exists. Skipping calculation.
+2026-01-31 21:09:40,418 [INFO] Sub 15 Done. r = 0.7521, p = 0.00e+00
+2026-01-31 21:09:41,460 [INFO] Sub 16 EC already exists. Skipping calculation.
+2026-01-31 21:09:41,461 [INFO] Sub 16 Done. r = 0.7975, p = 0.00e+00
+2026-01-31 21:09:42,506 [INFO] Sub 17 EC already exists. Skipping calculation.
+2026-01-31 21:09:42,507 [INFO] Sub 17 Done. r = 0.8417, p = 0.00e+00
+2026-01-31 21:09:43,546 [INFO] Sub 18 EC already exists. Skipping calculation.
+2026-01-31 21:09:43,547 [INFO] Sub 18 Done. r = 0.7881, p = 0.00e+00
+2026-01-31 21:09:44,574 [INFO] Sub 19 EC already exists. Skipping calculation.
+2026-01-31 21:09:44,575 [INFO] Sub 19 Done. r = 0.6445, p = 0.00e+00
+2026-01-31 21:09:45,619 [INFO] Sub 20 EC already exists. Skipping calculation.
+2026-01-31 21:09:45,620 [INFO] Sub 20 Done. r = 0.2085, p = 0.00e+00
+2026-01-31 21:09:46,691 [INFO] Sub 21 EC already exists. Skipping calculation.
+2026-01-31 21:09:46,692 [INFO] Sub 21 Done. r = 0.8351, p = 0.00e+00
+2026-01-31 21:09:47,743 [INFO] Sub 22 EC already exists. Skipping calculation.
+2026-01-31 21:09:47,744 [INFO] Sub 22 Done. r = 0.6877, p = 0.00e+00
+2026-01-31 21:09:48,791 [INFO] Sub 23 EC already exists. Skipping calculation.
+2026-01-31 21:09:48,792 [INFO] Sub 23 Done. r = 0.5376, p = 0.00e+00
+2026-01-31 21:09:49,845 [INFO] Sub 24 EC already exists. Skipping calculation.
+2026-01-31 21:09:49,845 [INFO] Sub 24 Done. r = 0.6804, p = 0.00e+00
+2026-01-31 21:09:50,885 [INFO] Sub 25 EC already exists. Skipping calculation.
+2026-01-31 21:09:50,886 [INFO] Sub 25 Done. r = 0.6924, p = 0.00e+00
+2026-01-31 21:09:51,927 [INFO] Sub 26 EC already exists. Skipping calculation.
+2026-01-31 21:09:51,928 [INFO] Sub 26 Done. r = 0.7186, p = 0.00e+00
+2026-01-31 21:09:52,979 [INFO] Sub 27 EC already exists. Skipping calculation.
+2026-01-31 21:09:52,980 [INFO] Sub 27 Done. r = 0.8390, p = 0.00e+00
+2026-01-31 21:09:54,026 [INFO] Sub 28 EC already exists. Skipping calculation.
+2026-01-31 21:09:54,027 [INFO] Sub 28 Done. r = 0.6541, p = 0.00e+00
+2026-01-31 21:09:55,061 [INFO] Sub 29 EC already exists. Skipping calculation.
+2026-01-31 21:09:55,062 [INFO] Sub 29 Done. r = 0.8392, p = 0.00e+00
+2026-01-31 21:09:56,107 [INFO] Sub 30 EC already exists. Skipping calculation.
+2026-01-31 21:09:56,108 [INFO] Sub 30 Done. r = 0.8082, p = 0.00e+00
+2026-01-31 21:09:57,150 [INFO] Sub 31 EC already exists. Skipping calculation.
+2026-01-31 21:09:57,150 [INFO] Sub 31 Done. r = 0.6885, p = 0.00e+00
+2026-01-31 21:09:58,205 [INFO] Sub 32 EC already exists. Skipping calculation.
+2026-01-31 21:09:58,205 [INFO] Sub 32 Done. r = 0.6086, p = 0.00e+00
+2026-01-31 21:09:59,242 [INFO] Sub 33 EC already exists. Skipping calculation.
+2026-01-31 21:09:59,242 [INFO] Sub 33 Done. r = 0.5546, p = 0.00e+00
+2026-01-31 21:10:00,287 [INFO] Sub 34 EC already exists. Skipping calculation.
+2026-01-31 21:10:00,288 [INFO] Sub 34 Done. r = 0.7688, p = 0.00e+00
+2026-01-31 21:10:01,377 [INFO] Sub 35 EC already exists. Skipping calculation.
+2026-01-31 21:10:01,378 [INFO] Sub 35 Done. r = 0.7360, p = 0.00e+00
+2026-01-31 21:10:02,443 [WARNING] Sub 36 contains NaN/Inf! Cleaning data...
+2026-01-31 21:10:02,444 [ERROR] Sub 36 data is completely invalid!
+2026-01-31 21:10:04,064 [INFO] Sub 36 Done. r = 0.0000, p = 1.00e+00
+2026-01-31 21:10:06,137 [INFO] Sub 37 Done. r = 0.7600, p = 0.00e+00
+2026-01-31 21:10:08,149 [INFO] Sub 38 Done. r = 0.7586, p = 0.00e+00
+2026-01-31 21:10:10,169 [INFO] Sub 39 Done. r = 0.6976, p = 0.00e+00
+2026-01-31 21:10:12,193 [INFO] Sub 40 Done. r = 0.7921, p = 0.00e+00
+2026-01-31 21:10:14,220 [INFO] Sub 41 Done. r = 0.5453, p = 0.00e+00
+2026-01-31 21:10:16,239 [INFO] Sub 42 Done. r = 0.6236, p = 0.00e+00
+2026-01-31 21:10:18,249 [INFO] Sub 43 Done. r = 0.8007, p = 0.00e+00
+2026-01-31 21:10:20,265 [INFO] Sub 44 Done. r = 0.7967, p = 0.00e+00
+2026-01-31 21:10:22,275 [INFO] Sub 45 Done. r = 0.8846, p = 0.00e+00
+2026-01-31 21:10:24,284 [INFO] Sub 46 Done. r = 0.8708, p = 0.00e+00
+2026-01-31 21:10:26,304 [INFO] Sub 47 Done. r = 0.7094, p = 0.00e+00
+2026-01-31 21:10:28,311 [INFO] Sub 48 Done. r = 0.7632, p = 0.00e+00
+2026-01-31 21:10:30,309 [INFO] Sub 49 Done. r = 0.7421, p = 0.00e+00
+2026-01-31 21:10:32,324 [INFO] Sub 50 Done. r = 0.6047, p = 0.00e+00
+2026-01-31 21:10:34,342 [INFO] Sub 51 Done. r = 0.5992, p = 0.00e+00
+2026-01-31 21:10:36,351 [INFO] Sub 52 Done. r = 0.7688, p = 0.00e+00
+2026-01-31 21:10:38,374 [INFO] Sub 53 Done. r = 0.7525, p = 0.00e+00
+2026-01-31 21:10:40,384 [INFO] Sub 54 Done. r = 0.8259, p = 0.00e+00
+2026-01-31 21:10:42,398 [INFO] Sub 55 Done. r = 0.7061, p = 0.00e+00
+2026-01-31 21:10:44,421 [INFO] Sub 56 Done. r = 0.8319, p = 0.00e+00
+2026-01-31 21:10:46,473 [INFO] Sub 57 Done. r = 0.8256, p = 0.00e+00
+2026-01-31 21:10:48,477 [INFO] Sub 58 Done. r = 0.7295, p = 0.00e+00
+2026-01-31 21:10:50,493 [INFO] Sub 59 Done. r = 0.7621, p = 0.00e+00
+2026-01-31 21:10:52,513 [INFO] Sub 60 Done. r = 0.7028, p = 0.00e+00
+2026-01-31 21:10:54,538 [INFO] Sub 61 Done. r = 0.5869, p = 0.00e+00
+2026-01-31 21:10:56,572 [INFO] Sub 62 Done. r = 0.4742, p = 0.00e+00
+2026-01-31 21:10:58,588 [INFO] Sub 63 Done. r = 0.5821, p = 0.00e+00
+2026-01-31 21:11:00,598 [INFO] Sub 64 Done. r = 0.7827, p = 0.00e+00
+2026-01-31 21:11:02,629 [INFO] Sub 65 Done. r = 0.7634, p = 0.00e+00
+2026-01-31 21:11:04,625 [INFO] Sub 66 Done. r = 0.8127, p = 0.00e+00
+2026-01-31 21:11:06,638 [INFO] Sub 67 Done. r = 0.6160, p = 0.00e+00
+2026-01-31 21:11:08,655 [INFO] Sub 68 Done. r = 0.8248, p = 0.00e+00
+2026-01-31 21:11:10,677 [INFO] Sub 69 Done. r = 0.7261, p = 0.00e+00
+2026-01-31 21:11:12,679 [INFO] Sub 70 Done. r = 0.8717, p = 0.00e+00
+2026-01-31 21:11:14,729 [INFO] Sub 71 Done. r = 0.7466, p = 0.00e+00
+2026-01-31 21:11:16,739 [INFO] Sub 72 Done. r = 0.8414, p = 0.00e+00
+2026-01-31 21:11:18,767 [INFO] Sub 73 Done. r = 0.7518, p = 0.00e+00
+2026-01-31 21:11:20,811 [INFO] Sub 74 Done. r = 0.7263, p = 0.00e+00
+2026-01-31 21:11:22,831 [INFO] Sub 75 Done. r = 0.8550, p = 0.00e+00
+2026-01-31 21:11:24,867 [INFO] Sub 76 Done. r = 0.5234, p = 0.00e+00
+2026-01-31 21:11:26,884 [INFO] Sub 77 Done. r = 0.4028, p = 0.00e+00
+2026-01-31 21:11:28,891 [INFO] Sub 78 Done. r = 0.7800, p = 0.00e+00
+2026-01-31 21:11:30,929 [INFO] Sub 79 Done. r = 0.8445, p = 0.00e+00
+2026-01-31 21:11:32,959 [INFO] Sub 80 Done. r = 0.8441, p = 0.00e+00
+2026-01-31 21:11:34,963 [INFO] Sub 81 Done. r = 0.7870, p = 0.00e+00
+2026-01-31 21:11:36,988 [INFO] Sub 82 Done. r = 0.6854, p = 0.00e+00
+2026-01-31 21:11:38,991 [INFO] Sub 83 Done. r = 0.8747, p = 0.00e+00
+2026-01-31 21:11:40,996 [INFO] Sub 84 Done. r = 0.8844, p = 0.00e+00
+2026-01-31 21:11:43,018 [INFO] Sub 85 Done. r = 0.6869, p = 0.00e+00
+2026-01-31 21:11:45,045 [INFO] Sub 86 Done. r = 0.7546, p = 0.00e+00
+2026-01-31 21:11:47,068 [INFO] Sub 87 Done. r = 0.6037, p = 0.00e+00
+2026-01-31 21:11:49,081 [INFO] Sub 88 Done. r = 0.7081, p = 0.00e+00
+2026-01-31 21:11:51,087 [INFO] Sub 89 Done. r = 0.7070, p = 0.00e+00
+2026-01-31 21:11:53,106 [INFO] Sub 90 Done. r = 0.7577, p = 0.00e+00
+2026-01-31 21:11:55,127 [INFO] Sub 91 Done. r = 0.7979, p = 0.00e+00
+2026-01-31 21:11:57,130 [INFO] Sub 92 Done. r = 0.7676, p = 0.00e+00
+2026-01-31 21:11:59,139 [INFO] Sub 93 Done. r = 0.7724, p = 0.00e+00
+2026-01-31 21:12:01,164 [INFO] Sub 94 Done. r = 0.7507, p = 0.00e+00
+2026-01-31 21:12:03,196 [INFO] Sub 95 Done. r = 0.7803, p = 0.00e+00
+2026-01-31 21:12:05,220 [INFO] Sub 96 Done. r = 0.7788, p = 0.00e+00
+2026-01-31 21:12:07,217 [INFO] Sub 97 Done. r = 0.6430, p = 0.00e+00
+2026-01-31 21:12:09,212 [INFO] Sub 98 Done. r = 0.8502, p = 0.00e+00
+2026-01-31 21:12:11,255 [INFO] Sub 99 Done. r = 0.3499, p = 0.00e+00
+2026-01-31 21:12:13,268 [INFO] Sub 100 Done. r = 0.6005, p = 0.00e+00
+2026-01-31 21:12:15,282 [INFO] Sub 101 Done. r = 0.4948, p = 0.00e+00
+2026-01-31 21:12:17,309 [INFO] Sub 102 Done. r = 0.8174, p = 0.00e+00
+2026-01-31 21:12:19,333 [INFO] Sub 103 Done. r = 0.7290, p = 0.00e+00
+2026-01-31 21:12:21,329 [INFO] Sub 104 Done. r = 0.7932, p = 0.00e+00
+2026-01-31 21:12:23,286 [INFO] Sub 105 Done. r = 0.8284, p = 0.00e+00
+2026-01-31 21:12:25,277 [INFO] Sub 106 Done. r = 0.4951, p = 0.00e+00
+2026-01-31 21:12:27,255 [INFO] Sub 107 Done. r = 0.8113, p = 0.00e+00
+2026-01-31 21:12:29,214 [INFO] Sub 108 Done. r = 0.5871, p = 0.00e+00
+2026-01-31 21:12:31,187 [INFO] Sub 109 Done. r = 0.7748, p = 0.00e+00
+2026-01-31 21:12:33,136 [INFO] Sub 110 Done. r = 0.8306, p = 0.00e+00
+2026-01-31 21:12:35,098 [INFO] Sub 111 Done. r = 0.7058, p = 0.00e+00
+2026-01-31 21:12:37,066 [INFO] Sub 112 Done. r = 0.8462, p = 0.00e+00
+2026-01-31 21:12:39,032 [INFO] Sub 113 Done. r = 0.7317, p = 0.00e+00
+2026-01-31 21:12:41,035 [INFO] Sub 114 Done. r = 0.4596, p = 0.00e+00
+2026-01-31 21:12:42,990 [INFO] Sub 115 Done. r = 0.7900, p = 0.00e+00
+2026-01-31 21:12:44,987 [INFO] Sub 116 Done. r = 0.7362, p = 0.00e+00
+2026-01-31 21:12:46,953 [INFO] Sub 117 Done. r = 0.8012, p = 0.00e+00
+2026-01-31 21:12:48,922 [INFO] Sub 118 Done. r = 0.7400, p = 0.00e+00
+2026-01-31 21:12:50,896 [INFO] Sub 119 Done. r = 0.7334, p = 0.00e+00
+2026-01-31 21:12:52,837 [INFO] Sub 120 Done. r = 0.8054, p = 0.00e+00
+2026-01-31 21:12:54,802 [INFO] Sub 121 Done. r = 0.7638, p = 0.00e+00
+2026-01-31 21:12:56,802 [INFO] Sub 122 Done. r = 0.7827, p = 0.00e+00
+2026-01-31 21:12:58,760 [INFO] Sub 123 Done. r = 0.7304, p = 0.00e+00
+2026-01-31 21:13:00,788 [INFO] Sub 124 Done. r = 0.7714, p = 0.00e+00
+2026-01-31 21:13:02,848 [INFO] Sub 125 Done. r = 0.8779, p = 0.00e+00
+2026-01-31 21:13:04,862 [INFO] Sub 126 Done. r = 0.7531, p = 0.00e+00
+2026-01-31 21:13:06,892 [INFO] Sub 127 Done. r = 0.6530, p = 0.00e+00
+2026-01-31 21:13:08,887 [INFO] Sub 128 Done. r = 0.8275, p = 0.00e+00
+2026-01-31 21:13:10,947 [INFO] Sub 129 Done. r = 0.7544, p = 0.00e+00
+2026-01-31 21:13:12,988 [INFO] Sub 130 Done. r = 0.4918, p = 0.00e+00
+2026-01-31 21:13:14,998 [INFO] Sub 131 Done. r = 0.2666, p = 0.00e+00
+2026-01-31 21:13:17,008 [INFO] Sub 132 Done. r = 0.7821, p = 0.00e+00
+2026-01-31 21:13:19,062 [INFO] Sub 133 Done. r = 0.8244, p = 0.00e+00
+2026-01-31 21:13:21,138 [INFO] Sub 134 Done. r = 0.8260, p = 0.00e+00
+2026-01-31 21:13:23,182 [INFO] Sub 135 Done. r = 0.8454, p = 0.00e+00
+2026-01-31 21:13:25,165 [INFO] Sub 136 Done. r = 0.7517, p = 0.00e+00
+2026-01-31 21:13:27,152 [INFO] Sub 137 Done. r = 0.7790, p = 0.00e+00
+2026-01-31 21:13:29,125 [INFO] Sub 138 Done. r = 0.8278, p = 0.00e+00
+2026-01-31 21:13:31,126 [INFO] Sub 139 Done. r = 0.8232, p = 0.00e+00
+2026-01-31 21:13:33,161 [INFO] Sub 140 Done. r = 0.6890, p = 0.00e+00
+2026-01-31 21:13:35,258 [INFO] Sub 141 Done. r = 0.7389, p = 0.00e+00
+2026-01-31 21:13:37,285 [INFO] Sub 142 Done. r = 0.7468, p = 0.00e+00
+2026-01-31 21:13:39,263 [INFO] Sub 143 Done. r = 0.4440, p = 0.00e+00
+2026-01-31 21:13:41,235 [INFO] Sub 144 Done. r = 0.8086, p = 0.00e+00
+2026-01-31 21:13:43,244 [INFO] Sub 145 Done. r = 0.7769, p = 0.00e+00
+2026-01-31 21:13:45,225 [INFO] Sub 146 Done. r = 0.5415, p = 0.00e+00
+2026-01-31 21:13:47,218 [INFO] Sub 147 Done. r = 0.6388, p = 0.00e+00
+2026-01-31 21:13:49,204 [INFO] Sub 148 Done. r = 0.5796, p = 0.00e+00
+2026-01-31 21:13:51,171 [INFO] Sub 149 Done. r = 0.6652, p = 0.00e+00
+2026-01-31 21:13:53,152 [INFO] Sub 150 Done. r = 0.7437, p = 0.00e+00
+2026-01-31 21:13:55,138 [INFO] Sub 151 Done. r = 0.7307, p = 0.00e+00
+2026-01-31 21:13:57,189 [INFO] Sub 152 Done. r = 0.7985, p = 0.00e+00
+2026-01-31 21:13:59,239 [INFO] Sub 153 Done. r = 0.6472, p = 0.00e+00
+2026-01-31 21:14:01,222 [INFO] Sub 154 Done. r = 0.8260, p = 0.00e+00
+2026-01-31 21:14:03,260 [INFO] Sub 155 Done. r = 0.7097, p = 0.00e+00
+2026-01-31 21:14:05,247 [INFO] Sub 156 Done. r = 0.7855, p = 0.00e+00
+2026-01-31 21:14:07,222 [INFO] Sub 157 Done. r = 0.8328, p = 0.00e+00
+2026-01-31 21:14:09,252 [INFO] Sub 158 Done. r = 0.8051, p = 0.00e+00
+2026-01-31 21:14:11,229 [INFO] Sub 159 Done. r = 0.6857, p = 0.00e+00
+2026-01-31 21:14:13,222 [INFO] Sub 160 Done. r = 0.7247, p = 0.00e+00
+2026-01-31 21:14:15,221 [INFO] Sub 161 Done. r = 0.7451, p = 0.00e+00
+2026-01-31 21:14:17,222 [INFO] Sub 162 Done. r = 0.8113, p = 0.00e+00
+2026-01-31 21:14:19,253 [INFO] Sub 163 Done. r = 0.6247, p = 0.00e+00
+2026-01-31 21:14:21,234 [INFO] Sub 164 Done. r = 0.6835, p = 0.00e+00
+2026-01-31 21:14:23,286 [INFO] Sub 165 Done. r = 0.8026, p = 0.00e+00
+2026-01-31 21:14:25,298 [INFO] Sub 166 Done. r = 0.7058, p = 0.00e+00
+2026-01-31 21:14:27,287 [INFO] Sub 167 Done. r = 0.7568, p = 0.00e+00
+2026-01-31 21:14:29,319 [INFO] Sub 168 Done. r = 0.7234, p = 0.00e+00
+2026-01-31 21:14:31,379 [INFO] Sub 169 Done. r = 0.7837, p = 0.00e+00
+2026-01-31 21:14:33,417 [INFO] Sub 170 Done. r = 0.7721, p = 0.00e+00
+2026-01-31 21:14:35,467 [INFO] Sub 171 Done. r = 0.8081, p = 0.00e+00
+2026-01-31 21:14:37,478 [INFO] Sub 172 Done. r = 0.8458, p = 0.00e+00
+2026-01-31 21:14:39,482 [INFO] Sub 173 Done. r = 0.7935, p = 0.00e+00
+2026-01-31 21:14:41,513 [INFO] Sub 174 Done. r = 0.6569, p = 0.00e+00
+2026-01-31 21:14:43,552 [INFO] Sub 175 Done. r = 0.6411, p = 0.00e+00
+2026-01-31 21:14:45,600 [INFO] Sub 176 Done. r = 0.7279, p = 0.00e+00
+2026-01-31 21:14:45,608 [INFO] 
+统计结果已保存至: F:\NPI_results\NPI_Statistics_Summary.csv
+2026-01-31 22:25:02,759 [INFO] Skipping Subject 36: Model already exists.
+2026-01-31 22:25:02,760 [INFO] 所有预定训练任务已结束。
+2026-01-31 22:25:30,667 [INFO] Starting Subject 36...
+2026-01-31 22:25:34,636 [INFO] 被试 36 训练完成并保存。Final Test Loss: 9.973391
+2026-01-31 22:25:34,638 [INFO] 所有预定训练任务已结束。
+2026-01-31 22:57:47,698 [INFO] Skipping Subject 36: Model already exists.
+2026-01-31 22:57:47,699 [INFO] 所有预定训练任务已结束。
+2026-01-31 22:57:59,845 [INFO] Starting Subject 36...
+2026-01-31 22:58:02,973 [INFO] 被试 36 训练完成并保存。Final Test Loss: 9.942678
+2026-01-31 22:58:02,974 [INFO] 所有预定训练任务已结束。
+2026-01-31 22:58:51,396 [INFO] Starting Subject 36...
+2026-01-31 22:58:54,497 [INFO] 被试 36 训练完成并保存。Final Test Loss: 10.378268
+2026-01-31 22:58:54,498 [INFO] 所有预定训练任务已结束。
+2026-01-31 23:00:09,769 [INFO] Starting Subject 36...
+2026-01-31 23:00:12,886 [INFO] 被试 36 训练完成并保存。Final Test Loss: 10.389247
+2026-01-31 23:00:12,887 [INFO] 所有预定训练任务已结束。
+2026-01-31 23:00:23,285 [INFO] Skipping Subject 36: Model already exists.
+2026-01-31 23:00:23,287 [INFO] 所有预定训练任务已结束。
