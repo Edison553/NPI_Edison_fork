@@ -1,11 +1,11 @@
+# 2026-2-2 15:20
+# model_FC 固定了随机种子
 import numpy as np
 import torch
 import torch.nn as nn
 import torch.utils.data as data
 
 device = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
-
-
 
 class ANN_MLP(nn.Module):
 
@@ -156,16 +156,23 @@ def corrcoef(signals):
 
 
 
-def model_FC(model, node_num, steps):
+def model_FC(model, node_num, steps, seed=42):
 
     "Simulate data with random noise and calculate model-FC"
-
+    np.random.seed(seed)
+    torch.manual_seed(seed)
+    if torch.cuda.is_available():
+        torch.cuda.manual_seed_all(seed)
+    model.eval()
+    
     NN_sim = []
-    for _ in range(steps): NN_sim.append(np.zeros(node_num))
+    for _ in range(steps): 
+        NN_sim.append(np.zeros(node_num))
     for _ in range(1200):
         noise = 0.1 * np.random.randn(steps * node_num)
         model_input = np.array(NN_sim[-steps:]).flatten() + noise
-        if isinstance(model, ANN_RNN): NN_sim.append(model(torch.tensor(model_input, dtype = torch.float).to(device)).detach().cpu().numpy()[0])
+        if isinstance(model, ANN_RNN): 
+            NN_sim.append(model(torch.tensor(model_input, dtype = torch.float).to(device)).detach().cpu().numpy()[0])
         else: NN_sim.append(model(torch.tensor(model_input, dtype = torch.float).to(device)).detach().cpu().numpy())
     NN_sim = np.array(NN_sim)
     return corrcoef(NN_sim)

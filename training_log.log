@@ -736,3 +736,1958 @@
 2026-01-31 23:00:12,887 [INFO] 所有预定训练任务已结束。
 2026-01-31 23:00:23,285 [INFO] Skipping Subject 36: Model already exists.
 2026-01-31 23:00:23,287 [INFO] 所有预定训练任务已结束。
+2026-02-01 15:44:56,898 [INFO] ============================== NEW EXPERIMENT START ==============================
+2026-02-01 15:44:56,898 [INFO] Current Hyperparameters Configuration:
+2026-02-01 15:44:56,899 [INFO]  - ROI_num: 400
+2026-02-01 15:44:56,900 [INFO]  - using_steps: 5
+2026-02-01 15:44:56,901 [INFO]  - hidden_dim_factor: 2
+2026-02-01 15:44:56,902 [INFO]  - latent_dim_factor: 0.8
+2026-02-01 15:44:56,902 [INFO]  - batch_size: 50
+2026-02-01 15:44:56,903 [INFO]  - train_set_proportion: 0.8
+2026-02-01 15:44:56,904 [INFO]  - num_epochs: 100
+2026-02-01 15:44:56,904 [INFO] ================================================================================
+2026-02-01 15:44:56,905 [INFO] Starting Subject 0...
+2026-02-01 15:45:00,312 [INFO] 被试 0 训练完成并保存。Final Test Loss: 0.228662
+2026-02-01 15:45:00,314 [INFO] Starting Subject 1...
+2026-02-01 15:45:01,632 [INFO] 被试 1 训练完成并保存。Final Test Loss: 2.665577
+2026-02-01 15:45:01,634 [INFO] Starting Subject 2...
+2026-02-01 15:45:02,947 [INFO] 被试 2 训练完成并保存。Final Test Loss: 4.759693
+2026-02-01 15:45:02,948 [INFO] Starting Subject 3...
+2026-02-01 15:45:04,270 [INFO] 被试 3 训练完成并保存。Final Test Loss: 3.877686
+2026-02-01 15:45:04,272 [INFO] Starting Subject 4...
+2026-02-01 15:45:05,623 [INFO] 被试 4 训练完成并保存。Final Test Loss: 7.065796
+2026-02-01 15:45:05,624 [INFO] Starting Subject 5...
+2026-02-01 15:45:06,967 [INFO] 被试 5 训练完成并保存。Final Test Loss: 0.390054
+2026-02-01 15:45:06,970 [INFO] Starting Subject 6...
+2026-02-01 15:45:08,297 [INFO] 被试 6 训练完成并保存。Final Test Loss: 2.201850
+2026-02-01 15:45:08,299 [INFO] Starting Subject 7...
+2026-02-01 15:45:09,631 [INFO] 被试 7 训练完成并保存。Final Test Loss: 2.412563
+2026-02-01 15:45:09,633 [INFO] Starting Subject 8...
+2026-02-01 15:45:10,964 [INFO] 被试 8 训练完成并保存。Final Test Loss: 5.474362
+2026-02-01 15:45:10,966 [INFO] Starting Subject 9...
+2026-02-01 15:45:12,281 [INFO] 被试 9 训练完成并保存。Final Test Loss: 3.433173
+2026-02-01 15:45:12,283 [INFO] Starting Subject 10...
+2026-02-01 15:45:13,591 [INFO] 被试 10 训练完成并保存。Final Test Loss: 3.777117
+2026-02-01 15:45:13,593 [INFO] Starting Subject 11...
+2026-02-01 15:45:14,897 [INFO] 被试 11 训练完成并保存。Final Test Loss: 3.286122
+2026-02-01 15:45:14,899 [INFO] Starting Subject 12...
+2026-02-01 15:45:16,205 [INFO] 被试 12 训练完成并保存。Final Test Loss: 5.610456
+2026-02-01 15:45:16,207 [INFO] Starting Subject 13...
+2026-02-01 15:45:17,508 [INFO] 被试 13 训练完成并保存。Final Test Loss: 4.464522
+2026-02-01 15:45:17,510 [INFO] Starting Subject 14...
+2026-02-01 15:45:18,812 [INFO] 被试 14 训练完成并保存。Final Test Loss: 5.997502
+2026-02-01 15:45:18,814 [INFO] Starting Subject 15...
+2026-02-01 15:45:20,114 [INFO] 被试 15 训练完成并保存。Final Test Loss: 5.855864
+2026-02-01 15:45:20,116 [INFO] Starting Subject 16...
+2026-02-01 15:45:21,416 [INFO] 被试 16 训练完成并保存。Final Test Loss: 3.387140
+2026-02-01 15:45:21,418 [INFO] Starting Subject 17...
+2026-02-01 15:45:22,720 [INFO] 被试 17 训练完成并保存。Final Test Loss: 6.099324
+2026-02-01 15:45:22,721 [INFO] Starting Subject 18...
+2026-02-01 15:45:24,020 [INFO] 被试 18 训练完成并保存。Final Test Loss: 5.813072
+2026-02-01 15:45:24,022 [INFO] Starting Subject 19...
+2026-02-01 15:45:25,324 [INFO] 被试 19 训练完成并保存。Final Test Loss: 13.112099
+2026-02-01 15:45:25,326 [INFO] Starting Subject 20...
+2026-02-01 15:45:26,660 [INFO] 被试 20 训练完成并保存。Final Test Loss: 0.954710
+2026-02-01 15:45:26,666 [INFO] Starting Subject 21...
+2026-02-01 15:45:27,967 [INFO] 被试 21 训练完成并保存。Final Test Loss: 4.302114
+2026-02-01 15:45:27,969 [INFO] Starting Subject 22...
+2026-02-01 15:45:29,269 [INFO] 被试 22 训练完成并保存。Final Test Loss: 5.212900
+2026-02-01 15:45:29,271 [INFO] Starting Subject 23...
+2026-02-01 15:45:30,575 [INFO] 被试 23 训练完成并保存。Final Test Loss: 6.911314
+2026-02-01 15:45:30,577 [INFO] Starting Subject 24...
+2026-02-01 15:45:31,878 [INFO] 被试 24 训练完成并保存。Final Test Loss: 5.937924
+2026-02-01 15:45:31,879 [INFO] Starting Subject 25...
+2026-02-01 15:45:33,182 [INFO] 被试 25 训练完成并保存。Final Test Loss: 6.227937
+2026-02-01 15:45:33,184 [INFO] Starting Subject 26...
+2026-02-01 15:45:34,491 [INFO] 被试 26 训练完成并保存。Final Test Loss: 5.515274
+2026-02-01 15:45:34,492 [INFO] Starting Subject 27...
+2026-02-01 15:45:35,798 [INFO] 被试 27 训练完成并保存。Final Test Loss: 4.355351
+2026-02-01 15:45:35,800 [INFO] Starting Subject 28...
+2026-02-01 15:45:37,101 [INFO] 被试 28 训练完成并保存。Final Test Loss: 17.753304
+2026-02-01 15:45:37,102 [INFO] Starting Subject 29...
+2026-02-01 15:45:38,407 [INFO] 被试 29 训练完成并保存。Final Test Loss: 10.346300
+2026-02-01 15:45:38,408 [INFO] Starting Subject 30...
+2026-02-01 15:45:39,707 [INFO] 被试 30 训练完成并保存。Final Test Loss: 7.224840
+2026-02-01 15:45:39,709 [INFO] Starting Subject 31...
+2026-02-01 15:45:41,011 [INFO] 被试 31 训练完成并保存。Final Test Loss: 6.061299
+2026-02-01 15:45:41,013 [INFO] Starting Subject 32...
+2026-02-01 15:45:42,311 [INFO] 被试 32 训练完成并保存。Final Test Loss: 4.423506
+2026-02-01 15:45:42,313 [INFO] Starting Subject 33...
+2026-02-01 15:45:43,616 [INFO] 被试 33 训练完成并保存。Final Test Loss: 6.904752
+2026-02-01 15:45:43,618 [INFO] Starting Subject 34...
+2026-02-01 15:45:44,922 [INFO] 被试 34 训练完成并保存。Final Test Loss: 5.368101
+2026-02-01 15:45:44,924 [INFO] Starting Subject 35...
+2026-02-01 15:45:46,225 [INFO] 被试 35 训练完成并保存。Final Test Loss: 6.322994
+2026-02-01 15:45:46,226 [INFO] Starting Subject 36...
+2026-02-01 15:45:47,533 [INFO] 被试 36 训练完成并保存。Final Test Loss: 9.324249
+2026-02-01 15:45:47,535 [INFO] Starting Subject 37...
+2026-02-01 15:45:48,835 [INFO] 被试 37 训练完成并保存。Final Test Loss: 8.334104
+2026-02-01 15:45:48,836 [INFO] Starting Subject 38...
+2026-02-01 15:45:50,139 [INFO] 被试 38 训练完成并保存。Final Test Loss: 3.273321
+2026-02-01 15:45:50,140 [INFO] Starting Subject 39...
+2026-02-01 15:45:51,442 [INFO] 被试 39 训练完成并保存。Final Test Loss: 4.572723
+2026-02-01 15:45:51,444 [INFO] Starting Subject 40...
+2026-02-01 15:45:52,741 [INFO] 被试 40 训练完成并保存。Final Test Loss: 5.329095
+2026-02-01 15:45:52,743 [INFO] Starting Subject 41...
+2026-02-01 15:45:54,046 [INFO] 被试 41 训练完成并保存。Final Test Loss: 7.395652
+2026-02-01 15:45:54,047 [INFO] Starting Subject 42...
+2026-02-01 15:45:55,347 [INFO] 被试 42 训练完成并保存。Final Test Loss: 0.245786
+2026-02-01 15:45:55,349 [INFO] Starting Subject 43...
+2026-02-01 15:45:56,651 [INFO] 被试 43 训练完成并保存。Final Test Loss: 4.413018
+2026-02-01 15:45:56,652 [INFO] Starting Subject 44...
+2026-02-01 15:45:57,955 [INFO] 被试 44 训练完成并保存。Final Test Loss: 5.736369
+2026-02-01 15:45:57,957 [INFO] Starting Subject 45...
+2026-02-01 15:45:59,257 [INFO] 被试 45 训练完成并保存。Final Test Loss: 8.700068
+2026-02-01 15:45:59,259 [INFO] Starting Subject 46...
+2026-02-01 15:46:00,561 [INFO] 被试 46 训练完成并保存。Final Test Loss: 0.235309
+2026-02-01 15:46:00,563 [INFO] Starting Subject 47...
+2026-02-01 15:46:01,871 [INFO] 被试 47 训练完成并保存。Final Test Loss: 6.402451
+2026-02-01 15:46:01,873 [INFO] Starting Subject 48...
+2026-02-01 15:46:03,174 [INFO] 被试 48 训练完成并保存。Final Test Loss: 4.359980
+2026-02-01 15:46:03,175 [INFO] Starting Subject 49...
+2026-02-01 15:46:04,478 [INFO] 被试 49 训练完成并保存。Final Test Loss: 4.914422
+2026-02-01 15:46:04,480 [INFO] Starting Subject 50...
+2026-02-01 15:46:05,787 [INFO] 被试 50 训练完成并保存。Final Test Loss: 3.824513
+2026-02-01 15:46:05,789 [INFO] Starting Subject 51...
+2026-02-01 15:46:07,092 [INFO] 被试 51 训练完成并保存。Final Test Loss: 6.095533
+2026-02-01 15:46:07,094 [INFO] Starting Subject 52...
+2026-02-01 15:46:08,392 [INFO] 被试 52 训练完成并保存。Final Test Loss: 0.333092
+2026-02-01 15:46:08,394 [INFO] Starting Subject 53...
+2026-02-01 15:46:09,705 [INFO] 被试 53 训练完成并保存。Final Test Loss: 8.271707
+2026-02-01 15:46:09,707 [INFO] Starting Subject 54...
+2026-02-01 15:46:11,005 [INFO] 被试 54 训练完成并保存。Final Test Loss: 7.017936
+2026-02-01 15:46:11,007 [INFO] Starting Subject 55...
+2026-02-01 15:46:12,306 [INFO] 被试 55 训练完成并保存。Final Test Loss: 4.589415
+2026-02-01 15:46:12,308 [INFO] Starting Subject 56...
+2026-02-01 15:46:13,609 [INFO] 被试 56 训练完成并保存。Final Test Loss: 5.125682
+2026-02-01 15:46:13,611 [INFO] Starting Subject 57...
+2026-02-01 15:46:14,909 [INFO] 被试 57 训练完成并保存。Final Test Loss: 10.275961
+2026-02-01 15:46:14,911 [INFO] Starting Subject 58...
+2026-02-01 15:46:16,214 [INFO] 被试 58 训练完成并保存。Final Test Loss: 7.702165
+2026-02-01 15:46:16,216 [INFO] Starting Subject 59...
+2026-02-01 15:46:17,537 [INFO] 被试 59 训练完成并保存。Final Test Loss: 4.154768
+2026-02-01 15:46:17,539 [INFO] Starting Subject 60...
+2026-02-01 15:46:18,844 [INFO] 被试 60 训练完成并保存。Final Test Loss: 4.336404
+2026-02-01 15:46:18,846 [INFO] Starting Subject 61...
+2026-02-01 15:46:20,147 [INFO] 被试 61 训练完成并保存。Final Test Loss: 5.043706
+2026-02-01 15:46:20,149 [INFO] Starting Subject 62...
+2026-02-01 15:46:21,452 [INFO] 被试 62 训练完成并保存。Final Test Loss: 39.297337
+2026-02-01 15:46:21,453 [INFO] Starting Subject 63...
+2026-02-01 15:46:22,754 [INFO] 被试 63 训练完成并保存。Final Test Loss: 3.177423
+2026-02-01 15:46:22,755 [INFO] Starting Subject 64...
+2026-02-01 15:46:24,058 [INFO] 被试 64 训练完成并保存。Final Test Loss: 5.451084
+2026-02-01 15:46:24,060 [INFO] Starting Subject 65...
+2026-02-01 15:46:25,394 [INFO] 被试 65 训练完成并保存。Final Test Loss: 5.069548
+2026-02-01 15:46:25,395 [INFO] Starting Subject 66...
+2026-02-01 15:46:26,714 [INFO] 被试 66 训练完成并保存。Final Test Loss: 6.623711
+2026-02-01 15:46:26,716 [INFO] Starting Subject 67...
+2026-02-01 15:46:28,043 [INFO] 被试 67 训练完成并保存。Final Test Loss: 10.959940
+2026-02-01 15:46:28,044 [INFO] Starting Subject 68...
+2026-02-01 15:46:29,369 [INFO] 被试 68 训练完成并保存。Final Test Loss: 5.046165
+2026-02-01 15:46:29,370 [INFO] Starting Subject 69...
+2026-02-01 15:46:30,687 [INFO] 被试 69 训练完成并保存。Final Test Loss: 6.387496
+2026-02-01 15:46:30,688 [INFO] Starting Subject 70...
+2026-02-01 15:46:32,010 [INFO] 被试 70 训练完成并保存。Final Test Loss: 3.733703
+2026-02-01 15:46:32,012 [INFO] Starting Subject 71...
+2026-02-01 15:46:33,333 [INFO] 被试 71 训练完成并保存。Final Test Loss: 5.347678
+2026-02-01 15:46:33,335 [INFO] Starting Subject 72...
+2026-02-01 15:46:34,727 [INFO] 被试 72 训练完成并保存。Final Test Loss: 0.184754
+2026-02-01 15:46:34,729 [INFO] Starting Subject 73...
+2026-02-01 15:46:36,098 [INFO] 被试 73 训练完成并保存。Final Test Loss: 4.579777
+2026-02-01 15:46:36,100 [INFO] Starting Subject 74...
+2026-02-01 15:46:37,413 [INFO] 被试 74 训练完成并保存。Final Test Loss: 5.715893
+2026-02-01 15:46:37,415 [INFO] Starting Subject 75...
+2026-02-01 15:46:38,780 [INFO] 被试 75 训练完成并保存。Final Test Loss: 0.235629
+2026-02-01 15:46:38,781 [INFO] Starting Subject 76...
+2026-02-01 15:46:40,131 [INFO] 被试 76 训练完成并保存。Final Test Loss: 3.724565
+2026-02-01 15:46:40,132 [INFO] Starting Subject 77...
+2026-02-01 15:46:41,455 [INFO] 被试 77 训练完成并保存。Final Test Loss: 17.963888
+2026-02-01 15:46:41,457 [INFO] Starting Subject 78...
+2026-02-01 15:46:42,754 [INFO] 被试 78 训练完成并保存。Final Test Loss: 6.316915
+2026-02-01 15:46:42,756 [INFO] Starting Subject 79...
+2026-02-01 15:46:44,052 [INFO] 被试 79 训练完成并保存。Final Test Loss: 3.119987
+2026-02-01 15:46:44,054 [INFO] Starting Subject 80...
+2026-02-01 15:46:45,354 [INFO] 被试 80 训练完成并保存。Final Test Loss: 3.773037
+2026-02-01 15:46:45,355 [INFO] Starting Subject 81...
+2026-02-01 15:46:46,675 [INFO] 被试 81 训练完成并保存。Final Test Loss: 6.007755
+2026-02-01 15:46:46,677 [INFO] Starting Subject 82...
+2026-02-01 15:46:48,022 [INFO] 被试 82 训练完成并保存。Final Test Loss: 18.287680
+2026-02-01 15:46:48,024 [INFO] Starting Subject 83...
+2026-02-01 15:46:49,378 [INFO] 被试 83 训练完成并保存。Final Test Loss: 5.921980
+2026-02-01 15:46:49,380 [INFO] Starting Subject 84...
+2026-02-01 15:46:50,718 [INFO] 被试 84 训练完成并保存。Final Test Loss: 4.319563
+2026-02-01 15:46:50,720 [INFO] Starting Subject 85...
+2026-02-01 15:46:52,043 [INFO] 被试 85 训练完成并保存。Final Test Loss: 4.828717
+2026-02-01 15:46:52,045 [INFO] Starting Subject 86...
+2026-02-01 15:46:53,364 [INFO] 被试 86 训练完成并保存。Final Test Loss: 3.377739
+2026-02-01 15:46:53,366 [INFO] Starting Subject 87...
+2026-02-01 15:46:54,692 [INFO] 被试 87 训练完成并保存。Final Test Loss: 2.614166
+2026-02-01 15:46:54,693 [INFO] Starting Subject 88...
+2026-02-01 15:46:56,007 [INFO] 被试 88 训练完成并保存。Final Test Loss: 3.228715
+2026-02-01 15:46:56,009 [INFO] Starting Subject 89...
+2026-02-01 15:46:57,329 [INFO] 被试 89 训练完成并保存。Final Test Loss: 4.314821
+2026-02-01 15:46:57,330 [INFO] Starting Subject 90...
+2026-02-01 15:46:58,654 [INFO] 被试 90 训练完成并保存。Final Test Loss: 6.591828
+2026-02-01 15:46:58,656 [INFO] Starting Subject 91...
+2026-02-01 15:46:59,976 [INFO] 被试 91 训练完成并保存。Final Test Loss: 4.640695
+2026-02-01 15:46:59,978 [INFO] Starting Subject 92...
+2026-02-01 15:47:01,291 [INFO] 被试 92 训练完成并保存。Final Test Loss: 1.852558
+2026-02-01 15:47:01,293 [INFO] Starting Subject 93...
+2026-02-01 15:47:02,603 [INFO] 被试 93 训练完成并保存。Final Test Loss: 3.513045
+2026-02-01 15:47:02,604 [INFO] Starting Subject 94...
+2026-02-01 15:47:03,916 [INFO] 被试 94 训练完成并保存。Final Test Loss: 2.385326
+2026-02-01 15:47:03,917 [INFO] Starting Subject 95...
+2026-02-01 15:47:05,220 [INFO] 被试 95 训练完成并保存。Final Test Loss: 6.909415
+2026-02-01 15:47:05,222 [INFO] Starting Subject 96...
+2026-02-01 15:47:06,520 [INFO] 被试 96 训练完成并保存。Final Test Loss: 6.258467
+2026-02-01 15:47:06,522 [INFO] Starting Subject 97...
+2026-02-01 15:47:07,840 [INFO] 被试 97 训练完成并保存。Final Test Loss: 7.965286
+2026-02-01 15:47:07,841 [INFO] Starting Subject 98...
+2026-02-01 15:47:09,163 [INFO] 被试 98 训练完成并保存。Final Test Loss: 4.120174
+2026-02-01 15:47:09,165 [INFO] Starting Subject 99...
+2026-02-01 15:47:10,467 [INFO] 被试 99 训练完成并保存。Final Test Loss: 6.263338
+2026-02-01 15:47:10,468 [INFO] Starting Subject 100...
+2026-02-01 15:47:11,769 [INFO] 被试 100 训练完成并保存。Final Test Loss: 6.617385
+2026-02-01 15:47:11,770 [INFO] Starting Subject 101...
+2026-02-01 15:47:13,067 [INFO] 被试 101 训练完成并保存。Final Test Loss: 6.220993
+2026-02-01 15:47:13,068 [INFO] Starting Subject 102...
+2026-02-01 15:47:14,372 [INFO] 被试 102 训练完成并保存。Final Test Loss: 5.064934
+2026-02-01 15:47:14,373 [INFO] Starting Subject 103...
+2026-02-01 15:47:15,675 [INFO] 被试 103 训练完成并保存。Final Test Loss: 5.972502
+2026-02-01 15:47:15,677 [INFO] Starting Subject 104...
+2026-02-01 15:47:16,974 [INFO] 被试 104 训练完成并保存。Final Test Loss: 5.466827
+2026-02-01 15:47:16,975 [INFO] Starting Subject 105...
+2026-02-01 15:47:18,277 [INFO] 被试 105 训练完成并保存。Final Test Loss: 7.120821
+2026-02-01 15:47:18,279 [INFO] Starting Subject 106...
+2026-02-01 15:47:19,584 [INFO] 被试 106 训练完成并保存。Final Test Loss: 5.229677
+2026-02-01 15:47:19,586 [INFO] Starting Subject 107...
+2026-02-01 15:47:20,904 [INFO] 被试 107 训练完成并保存。Final Test Loss: 4.030324
+2026-02-01 15:47:20,905 [INFO] Starting Subject 108...
+2026-02-01 15:47:22,217 [INFO] 被试 108 训练完成并保存。Final Test Loss: 5.356386
+2026-02-01 15:47:22,218 [INFO] Starting Subject 109...
+2026-02-01 15:47:23,557 [INFO] 被试 109 训练完成并保存。Final Test Loss: 5.520730
+2026-02-01 15:47:23,558 [INFO] Starting Subject 110...
+2026-02-01 15:47:24,894 [INFO] 被试 110 训练完成并保存。Final Test Loss: 4.584483
+2026-02-01 15:47:24,896 [INFO] Starting Subject 111...
+2026-02-01 15:47:26,219 [INFO] 被试 111 训练完成并保存。Final Test Loss: 6.189850
+2026-02-01 15:47:26,221 [INFO] Starting Subject 112...
+2026-02-01 15:47:27,531 [INFO] 被试 112 训练完成并保存。Final Test Loss: 5.664690
+2026-02-01 15:47:27,533 [INFO] Starting Subject 113...
+2026-02-01 15:47:28,833 [INFO] 被试 113 训练完成并保存。Final Test Loss: 5.503989
+2026-02-01 15:47:28,835 [INFO] Starting Subject 114...
+2026-02-01 15:47:30,146 [INFO] 被试 114 训练完成并保存。Final Test Loss: 9.875690
+2026-02-01 15:47:30,147 [INFO] Starting Subject 115...
+2026-02-01 15:47:31,454 [INFO] 被试 115 训练完成并保存。Final Test Loss: 5.769814
+2026-02-01 15:47:31,455 [INFO] Starting Subject 116...
+2026-02-01 15:47:32,754 [INFO] 被试 116 训练完成并保存。Final Test Loss: 2.741586
+2026-02-01 15:47:32,756 [INFO] Starting Subject 117...
+2026-02-01 15:47:34,060 [INFO] 被试 117 训练完成并保存。Final Test Loss: 9.332218
+2026-02-01 15:47:34,061 [INFO] Starting Subject 118...
+2026-02-01 15:47:35,391 [INFO] 被试 118 训练完成并保存。Final Test Loss: 5.513279
+2026-02-01 15:47:35,393 [INFO] Starting Subject 119...
+2026-02-01 15:47:36,732 [INFO] 被试 119 训练完成并保存。Final Test Loss: 2.307366
+2026-02-01 15:47:36,733 [INFO] Starting Subject 120...
+2026-02-01 15:47:38,034 [INFO] 被试 120 训练完成并保存。Final Test Loss: 3.260435
+2026-02-01 15:47:38,036 [INFO] Starting Subject 121...
+2026-02-01 15:47:39,349 [INFO] 被试 121 训练完成并保存。Final Test Loss: 3.247479
+2026-02-01 15:47:39,351 [INFO] Starting Subject 122...
+2026-02-01 15:47:40,654 [INFO] 被试 122 训练完成并保存。Final Test Loss: 4.271166
+2026-02-01 15:47:40,656 [INFO] Starting Subject 123...
+2026-02-01 15:47:41,957 [INFO] 被试 123 训练完成并保存。Final Test Loss: 5.180413
+2026-02-01 15:47:41,958 [INFO] Starting Subject 124...
+2026-02-01 15:47:43,295 [INFO] 被试 124 训练完成并保存。Final Test Loss: 3.454274
+2026-02-01 15:47:43,297 [INFO] Starting Subject 125...
+2026-02-01 15:47:44,615 [INFO] 被试 125 训练完成并保存。Final Test Loss: 5.114673
+2026-02-01 15:47:44,617 [INFO] Starting Subject 126...
+2026-02-01 15:47:45,920 [INFO] 被试 126 训练完成并保存。Final Test Loss: 3.690687
+2026-02-01 15:47:45,922 [INFO] Starting Subject 127...
+2026-02-01 15:47:47,232 [INFO] 被试 127 训练完成并保存。Final Test Loss: 5.662852
+2026-02-01 15:47:47,234 [INFO] Starting Subject 128...
+2026-02-01 15:47:48,535 [INFO] 被试 128 训练完成并保存。Final Test Loss: 4.050267
+2026-02-01 15:47:48,536 [INFO] Starting Subject 129...
+2026-02-01 15:47:49,853 [INFO] 被试 129 训练完成并保存。Final Test Loss: 3.300723
+2026-02-01 15:47:49,854 [INFO] Starting Subject 130...
+2026-02-01 15:47:51,157 [INFO] 被试 130 训练完成并保存。Final Test Loss: 5.328763
+2026-02-01 15:47:51,158 [INFO] Starting Subject 131...
+2026-02-01 15:47:52,474 [INFO] 被试 131 训练完成并保存。Final Test Loss: 5.960709
+2026-02-01 15:47:52,475 [INFO] Starting Subject 132...
+2026-02-01 15:47:53,777 [INFO] 被试 132 训练完成并保存。Final Test Loss: 3.981531
+2026-02-01 15:47:53,778 [INFO] Starting Subject 133...
+2026-02-01 15:47:55,080 [INFO] 被试 133 训练完成并保存。Final Test Loss: 7.092457
+2026-02-01 15:47:55,082 [INFO] Starting Subject 134...
+2026-02-01 15:47:56,387 [INFO] 被试 134 训练完成并保存。Final Test Loss: 4.990786
+2026-02-01 15:47:56,389 [INFO] Starting Subject 135...
+2026-02-01 15:47:57,696 [INFO] 被试 135 训练完成并保存。Final Test Loss: 4.743365
+2026-02-01 15:47:57,698 [INFO] Starting Subject 136...
+2026-02-01 15:47:58,997 [INFO] 被试 136 训练完成并保存。Final Test Loss: 4.160384
+2026-02-01 15:47:58,999 [INFO] Starting Subject 137...
+2026-02-01 15:48:00,303 [INFO] 被试 137 训练完成并保存。Final Test Loss: 4.725394
+2026-02-01 15:48:00,305 [INFO] Starting Subject 138...
+2026-02-01 15:48:01,618 [INFO] 被试 138 训练完成并保存。Final Test Loss: 5.595940
+2026-02-01 15:48:01,620 [INFO] Starting Subject 139...
+2026-02-01 15:48:02,927 [INFO] 被试 139 训练完成并保存。Final Test Loss: 4.728003
+2026-02-01 15:48:02,928 [INFO] Starting Subject 140...
+2026-02-01 15:48:04,229 [INFO] 被试 140 训练完成并保存。Final Test Loss: 8.646563
+2026-02-01 15:48:04,230 [INFO] Starting Subject 141...
+2026-02-01 15:48:05,531 [INFO] 被试 141 训练完成并保存。Final Test Loss: 11.885571
+2026-02-01 15:48:05,533 [INFO] Starting Subject 142...
+2026-02-01 15:48:06,862 [INFO] 被试 142 训练完成并保存。Final Test Loss: 5.528967
+2026-02-01 15:48:06,863 [INFO] Starting Subject 143...
+2026-02-01 15:48:08,180 [INFO] 被试 143 训练完成并保存。Final Test Loss: 8.658750
+2026-02-01 15:48:08,181 [INFO] Starting Subject 144...
+2026-02-01 15:48:09,500 [INFO] 被试 144 训练完成并保存。Final Test Loss: 6.572550
+2026-02-01 15:48:09,501 [INFO] Starting Subject 145...
+2026-02-01 15:48:10,812 [INFO] 被试 145 训练完成并保存。Final Test Loss: 6.879580
+2026-02-01 15:48:10,813 [INFO] Starting Subject 146...
+2026-02-01 15:48:12,131 [INFO] 被试 146 训练完成并保存。Final Test Loss: 6.009861
+2026-02-01 15:48:12,133 [INFO] Starting Subject 147...
+2026-02-01 15:48:13,448 [INFO] 被试 147 训练完成并保存。Final Test Loss: 2.059686
+2026-02-01 15:48:13,450 [INFO] Starting Subject 148...
+2026-02-01 15:48:14,747 [INFO] 被试 148 训练完成并保存。Final Test Loss: 1.578284
+2026-02-01 15:48:14,749 [INFO] Starting Subject 149...
+2026-02-01 15:48:16,054 [INFO] 被试 149 训练完成并保存。Final Test Loss: 4.154161
+2026-02-01 15:48:16,056 [INFO] Starting Subject 150...
+2026-02-01 15:48:17,365 [INFO] 被试 150 训练完成并保存。Final Test Loss: 3.496042
+2026-02-01 15:48:17,366 [INFO] Starting Subject 151...
+2026-02-01 15:48:18,686 [INFO] 被试 151 训练完成并保存。Final Test Loss: 5.324110
+2026-02-01 15:48:18,688 [INFO] Starting Subject 152...
+2026-02-01 15:48:19,995 [INFO] 被试 152 训练完成并保存。Final Test Loss: 2.623323
+2026-02-01 15:48:19,996 [INFO] Starting Subject 153...
+2026-02-01 15:48:21,300 [INFO] 被试 153 训练完成并保存。Final Test Loss: 6.068156
+2026-02-01 15:48:21,302 [INFO] Starting Subject 154...
+2026-02-01 15:48:22,603 [INFO] 被试 154 训练完成并保存。Final Test Loss: 4.076174
+2026-02-01 15:48:22,605 [INFO] Starting Subject 155...
+2026-02-01 15:48:23,913 [INFO] 被试 155 训练完成并保存。Final Test Loss: 4.242701
+2026-02-01 15:48:23,914 [INFO] Starting Subject 156...
+2026-02-01 15:48:25,216 [INFO] 被试 156 训练完成并保存。Final Test Loss: 4.102900
+2026-02-01 15:48:25,217 [INFO] Starting Subject 157...
+2026-02-01 15:48:26,522 [INFO] 被试 157 训练完成并保存。Final Test Loss: 6.680219
+2026-02-01 15:48:26,523 [INFO] Starting Subject 158...
+2026-02-01 15:48:27,825 [INFO] 被试 158 训练完成并保存。Final Test Loss: 4.379422
+2026-02-01 15:48:27,826 [INFO] Starting Subject 159...
+2026-02-01 15:48:29,129 [INFO] 被试 159 训练完成并保存。Final Test Loss: 4.124210
+2026-02-01 15:48:29,130 [INFO] Starting Subject 160...
+2026-02-01 15:48:30,430 [INFO] 被试 160 训练完成并保存。Final Test Loss: 3.832998
+2026-02-01 15:48:30,431 [INFO] Starting Subject 161...
+2026-02-01 15:48:31,734 [INFO] 被试 161 训练完成并保存。Final Test Loss: 8.284332
+2026-02-01 15:48:31,735 [INFO] Starting Subject 162...
+2026-02-01 15:48:33,035 [INFO] 被试 162 训练完成并保存。Final Test Loss: 4.242107
+2026-02-01 15:48:33,037 [INFO] Starting Subject 163...
+2026-02-01 15:48:34,341 [INFO] 被试 163 训练完成并保存。Final Test Loss: 4.639268
+2026-02-01 15:48:34,342 [INFO] Starting Subject 164...
+2026-02-01 15:48:35,639 [INFO] 被试 164 训练完成并保存。Final Test Loss: 5.410175
+2026-02-01 15:48:35,640 [INFO] Starting Subject 165...
+2026-02-01 15:48:36,940 [INFO] 被试 165 训练完成并保存。Final Test Loss: 6.156548
+2026-02-01 15:48:36,941 [INFO] Starting Subject 166...
+2026-02-01 15:48:38,245 [INFO] 被试 166 训练完成并保存。Final Test Loss: 5.978795
+2026-02-01 15:48:38,248 [INFO] Starting Subject 167...
+2026-02-01 15:48:39,551 [INFO] 被试 167 训练完成并保存。Final Test Loss: 3.630994
+2026-02-01 15:48:39,553 [INFO] Starting Subject 168...
+2026-02-01 15:48:40,852 [INFO] 被试 168 训练完成并保存。Final Test Loss: 6.723104
+2026-02-01 15:48:40,854 [INFO] Starting Subject 169...
+2026-02-01 15:48:42,154 [INFO] 被试 169 训练完成并保存。Final Test Loss: 5.909356
+2026-02-01 15:48:42,156 [INFO] Starting Subject 170...
+2026-02-01 15:48:43,455 [INFO] 被试 170 训练完成并保存。Final Test Loss: 5.425185
+2026-02-01 15:48:43,456 [INFO] Starting Subject 171...
+2026-02-01 15:48:44,763 [INFO] 被试 171 训练完成并保存。Final Test Loss: 12.030072
+2026-02-01 15:48:44,765 [INFO] Starting Subject 172...
+2026-02-01 15:48:46,072 [INFO] 被试 172 训练完成并保存。Final Test Loss: 7.999718
+2026-02-01 15:48:46,074 [INFO] Starting Subject 173...
+2026-02-01 15:48:47,375 [INFO] 被试 173 训练完成并保存。Final Test Loss: 9.796268
+2026-02-01 15:48:47,377 [INFO] Starting Subject 174...
+2026-02-01 15:48:48,675 [INFO] 被试 174 训练完成并保存。Final Test Loss: 7.168395
+2026-02-01 15:48:48,677 [INFO] Starting Subject 175...
+2026-02-01 15:48:49,981 [INFO] 被试 175 训练完成并保存。Final Test Loss: 5.678360
+2026-02-01 15:48:49,982 [INFO] Starting Subject 176...
+2026-02-01 15:48:51,285 [INFO] 被试 176 训练完成并保存。Final Test Loss: 8.919180
+2026-02-01 15:48:51,287 [INFO] 所有预定训练任务已结束。
+2026-02-01 15:56:41,194 [INFO] ============================== 可视化sub 36 的 model FC & empirical FC==============================
+2026-02-01 15:56:41,195 [INFO] :
+2026-02-01 15:56:41,196 [INFO]  - ROI_num: 400
+2026-02-01 15:56:41,196 [INFO]  - using_steps: 5
+2026-02-01 15:56:41,197 [INFO]  - hidden_dim_factor: 2
+2026-02-01 15:56:41,197 [INFO]  - latent_dim_factor: 0.8
+2026-02-01 15:56:41,198 [INFO]  - batch_size: 50
+2026-02-01 15:56:41,199 [INFO]  - train_set_proportion: 0.8
+2026-02-01 15:56:41,199 [INFO]  - num_epochs: 100
+2026-02-01 15:56:41,200 [INFO] ================================================================================
+2026-02-01 15:56:41,201 [INFO] Skipping Subject 36: Model already exists.
+2026-02-01 15:56:41,201 [INFO] 所有预定训练任务已结束。
+2026-02-01 15:57:32,294 [INFO] ============================== 可视化sub 36 的 model FC & empirical FC==============================
+2026-02-01 15:57:32,295 [INFO] :
+2026-02-01 15:57:32,296 [INFO]  - ROI_num: 400
+2026-02-01 15:57:32,296 [INFO]  - using_steps: 5
+2026-02-01 15:57:32,297 [INFO]  - hidden_dim_factor: 2
+2026-02-01 15:57:32,297 [INFO]  - latent_dim_factor: 0.8
+2026-02-01 15:57:32,298 [INFO]  - batch_size: 50
+2026-02-01 15:57:32,299 [INFO]  - train_set_proportion: 0.8
+2026-02-01 15:57:32,299 [INFO]  - num_epochs: 100
+2026-02-01 15:57:32,300 [INFO] ================================================================================
+2026-02-01 15:58:20,131 [INFO] ============================== 可视化sub 36 的 model FC & empirical FC==============================
+2026-02-01 15:58:20,131 [INFO] :
+2026-02-01 15:58:20,132 [INFO] ================================================================================
+2026-02-01 15:59:03,814 [INFO] Starting calculating the correlation result!
+2026-02-01 15:59:04,828 [INFO] Sub 0 EC already exists. Skipping calculation.
+2026-02-01 15:59:04,829 [INFO] Sub 0 Done. r = 0.8730, p = 0.00e+00
+2026-02-01 15:59:05,799 [INFO] Sub 1 EC already exists. Skipping calculation.
+2026-02-01 15:59:05,799 [INFO] Sub 1 Done. r = 0.6551, p = 0.00e+00
+2026-02-01 15:59:06,766 [INFO] Sub 2 EC already exists. Skipping calculation.
+2026-02-01 15:59:06,766 [INFO] Sub 2 Done. r = 0.5871, p = 0.00e+00
+2026-02-01 15:59:07,725 [INFO] Sub 3 EC already exists. Skipping calculation.
+2026-02-01 15:59:07,726 [INFO] Sub 3 Done. r = 0.8020, p = 0.00e+00
+2026-02-01 15:59:08,686 [INFO] Sub 4 EC already exists. Skipping calculation.
+2026-02-01 15:59:08,686 [INFO] Sub 4 Done. r = 0.6074, p = 0.00e+00
+2026-02-01 15:59:09,649 [INFO] Sub 5 EC already exists. Skipping calculation.
+2026-02-01 15:59:09,650 [INFO] Sub 5 Done. r = 0.7131, p = 0.00e+00
+2026-02-01 15:59:10,603 [INFO] Sub 6 EC already exists. Skipping calculation.
+2026-02-01 15:59:10,603 [INFO] Sub 6 Done. r = 0.7202, p = 0.00e+00
+2026-02-01 15:59:11,554 [INFO] Sub 7 EC already exists. Skipping calculation.
+2026-02-01 15:59:11,555 [INFO] Sub 7 Done. r = 0.7179, p = 0.00e+00
+2026-02-01 15:59:12,494 [INFO] Sub 8 EC already exists. Skipping calculation.
+2026-02-01 15:59:12,495 [INFO] Sub 8 Done. r = 0.7039, p = 0.00e+00
+2026-02-01 15:59:13,432 [INFO] Sub 9 EC already exists. Skipping calculation.
+2026-02-01 15:59:13,433 [INFO] Sub 9 Done. r = 0.8516, p = 0.00e+00
+2026-02-01 15:59:14,387 [INFO] Sub 10 EC already exists. Skipping calculation.
+2026-02-01 15:59:14,387 [INFO] Sub 10 Done. r = 0.6739, p = 0.00e+00
+2026-02-01 15:59:15,339 [INFO] Sub 11 EC already exists. Skipping calculation.
+2026-02-01 15:59:15,339 [INFO] Sub 11 Done. r = 0.8498, p = 0.00e+00
+2026-02-01 15:59:16,306 [INFO] Sub 12 EC already exists. Skipping calculation.
+2026-02-01 15:59:16,307 [INFO] Sub 12 Done. r = 0.8196, p = 0.00e+00
+2026-02-01 15:59:17,270 [INFO] Sub 13 EC already exists. Skipping calculation.
+2026-02-01 15:59:17,271 [INFO] Sub 13 Done. r = 0.8310, p = 0.00e+00
+2026-02-01 15:59:18,242 [INFO] Sub 14 EC already exists. Skipping calculation.
+2026-02-01 15:59:18,242 [INFO] Sub 14 Done. r = 0.6327, p = 0.00e+00
+2026-02-01 15:59:19,215 [INFO] Sub 15 EC already exists. Skipping calculation.
+2026-02-01 15:59:19,215 [INFO] Sub 15 Done. r = 0.7470, p = 0.00e+00
+2026-02-01 15:59:20,189 [INFO] Sub 16 EC already exists. Skipping calculation.
+2026-02-01 15:59:20,189 [INFO] Sub 16 Done. r = 0.8033, p = 0.00e+00
+2026-02-01 15:59:21,156 [INFO] Sub 17 EC already exists. Skipping calculation.
+2026-02-01 15:59:21,157 [INFO] Sub 17 Done. r = 0.8450, p = 0.00e+00
+2026-02-01 15:59:22,112 [INFO] Sub 18 EC already exists. Skipping calculation.
+2026-02-01 15:59:22,113 [INFO] Sub 18 Done. r = 0.7910, p = 0.00e+00
+2026-02-01 15:59:23,069 [INFO] Sub 19 EC already exists. Skipping calculation.
+2026-02-01 15:59:23,070 [INFO] Sub 19 Done. r = 0.6557, p = 0.00e+00
+2026-02-01 16:17:51,137 [INFO] ============================== 可视化sub 36 的 model FC & empirical FC==============================
+2026-02-01 16:17:51,138 [INFO] :
+2026-02-01 16:17:51,138 [INFO] ================================================================================
+2026-02-01 16:18:21,073 [INFO] Starting calculating the correlation result!
+2026-02-01 16:18:23,688 [INFO] Sub 0 Done. r = 0.7910, p = 0.00e+00
+2026-02-01 16:18:25,781 [INFO] Sub 1 Done. r = 0.7369, p = 0.00e+00
+2026-02-01 16:18:27,857 [INFO] Sub 2 Done. r = 0.6199, p = 0.00e+00
+2026-02-01 16:18:29,911 [INFO] Sub 3 Done. r = 0.8858, p = 0.00e+00
+2026-02-01 16:18:31,990 [INFO] Sub 4 Done. r = 0.7882, p = 0.00e+00
+2026-02-01 16:18:34,055 [INFO] Sub 5 Done. r = 0.6617, p = 0.00e+00
+2026-02-01 16:18:36,117 [INFO] Sub 6 Done. r = 0.7207, p = 0.00e+00
+2026-02-01 16:18:38,153 [INFO] Sub 7 Done. r = 0.8574, p = 0.00e+00
+2026-02-01 16:18:40,180 [INFO] Sub 8 Done. r = 0.7579, p = 0.00e+00
+2026-02-01 16:18:42,224 [INFO] Sub 9 Done. r = 0.9055, p = 0.00e+00
+2026-02-01 16:18:44,294 [INFO] Sub 10 Done. r = 0.7282, p = 0.00e+00
+2026-02-01 16:18:46,322 [INFO] Sub 11 Done. r = 0.9046, p = 0.00e+00
+2026-02-01 16:18:48,351 [INFO] Sub 12 Done. r = 0.8871, p = 0.00e+00
+2026-02-01 16:18:50,409 [INFO] Sub 13 Done. r = 0.8326, p = 0.00e+00
+2026-02-01 16:18:52,432 [INFO] Sub 14 Done. r = 0.5883, p = 0.00e+00
+2026-02-01 16:18:54,482 [INFO] Sub 15 Done. r = 0.8314, p = 0.00e+00
+2026-02-01 16:18:56,516 [INFO] Sub 16 Done. r = 0.7802, p = 0.00e+00
+2026-02-01 16:18:58,602 [INFO] Sub 17 Done. r = 0.8104, p = 0.00e+00
+2026-02-01 16:19:00,639 [INFO] Sub 18 Done. r = 0.8054, p = 0.00e+00
+2026-02-01 16:19:02,704 [INFO] Sub 19 Done. r = 0.7223, p = 0.00e+00
+2026-02-01 16:19:02,708 [INFO] 
+统计结果已保存至: F:\NPI_results\bs_50\NPI_Statistics_Summary.csv
+2026-02-01 16:21:24,108 [INFO] ============================== 可视化sub 36 的 model FC & empirical FC==============================
+2026-02-01 16:21:24,109 [INFO] :
+2026-02-01 16:21:24,110 [INFO] ================================================================================
+2026-02-01 16:23:11,303 [INFO] ============================== 可视化sub 36 的 model FC & empirical FC==============================
+2026-02-01 16:23:11,304 [INFO] :
+2026-02-01 16:23:11,305 [INFO] ================================================================================
+2026-02-01 16:23:51,977 [INFO] ============================== 可视化sub 36 的 model FC & empirical FC==============================
+2026-02-01 16:23:51,978 [INFO] :
+2026-02-01 16:23:51,979 [INFO] ================================================================================
+2026-02-01 16:24:43,470 [INFO] ============================== 可视化sub 36 的 model FC & empirical FC==============================
+2026-02-01 16:24:43,471 [INFO] :
+2026-02-01 16:24:43,472 [INFO] ================================================================================
+2026-02-01 16:28:52,499 [INFO] Starting calculating the correlation result!
+2026-02-01 16:28:53,558 [INFO] Sub 0 EC already exists. Skipping calculation.
+2026-02-01 16:28:53,559 [INFO] Sub 0 Done. r = 0.8248, p = 0.00e+00
+2026-02-01 16:28:54,538 [INFO] Sub 1 EC already exists. Skipping calculation.
+2026-02-01 16:28:54,539 [INFO] Sub 1 Done. r = 0.8501, p = 0.00e+00
+2026-02-01 16:28:55,534 [INFO] Sub 2 EC already exists. Skipping calculation.
+2026-02-01 16:28:55,535 [INFO] Sub 2 Done. r = 0.6131, p = 0.00e+00
+2026-02-01 16:28:56,507 [INFO] Sub 3 EC already exists. Skipping calculation.
+2026-02-01 16:28:56,508 [INFO] Sub 3 Done. r = 0.8876, p = 0.00e+00
+2026-02-01 16:28:57,499 [INFO] Sub 4 EC already exists. Skipping calculation.
+2026-02-01 16:28:57,500 [INFO] Sub 4 Done. r = 0.7910, p = 0.00e+00
+2026-02-01 16:28:58,509 [INFO] Sub 5 EC already exists. Skipping calculation.
+2026-02-01 16:28:58,510 [INFO] Sub 5 Done. r = 0.6310, p = 0.00e+00
+2026-02-01 16:28:59,477 [INFO] Sub 6 EC already exists. Skipping calculation.
+2026-02-01 16:28:59,478 [INFO] Sub 6 Done. r = 0.7044, p = 0.00e+00
+2026-02-01 16:29:00,435 [INFO] Sub 7 EC already exists. Skipping calculation.
+2026-02-01 16:29:00,436 [INFO] Sub 7 Done. r = 0.8512, p = 0.00e+00
+2026-02-01 16:29:01,384 [INFO] Sub 8 EC already exists. Skipping calculation.
+2026-02-01 16:29:01,384 [INFO] Sub 8 Done. r = 0.7490, p = 0.00e+00
+2026-02-01 16:29:02,336 [INFO] Sub 9 EC already exists. Skipping calculation.
+2026-02-01 16:29:02,336 [INFO] Sub 9 Done. r = 0.8895, p = 0.00e+00
+2026-02-01 16:29:03,287 [INFO] Sub 10 EC already exists. Skipping calculation.
+2026-02-01 16:29:03,287 [INFO] Sub 10 Done. r = 0.7215, p = 0.00e+00
+2026-02-01 16:29:04,253 [INFO] Sub 11 EC already exists. Skipping calculation.
+2026-02-01 16:29:04,253 [INFO] Sub 11 Done. r = 0.8958, p = 0.00e+00
+2026-02-01 16:29:05,228 [INFO] Sub 12 EC already exists. Skipping calculation.
+2026-02-01 16:29:05,229 [INFO] Sub 12 Done. r = 0.8969, p = 0.00e+00
+2026-02-01 16:29:06,179 [INFO] Sub 13 EC already exists. Skipping calculation.
+2026-02-01 16:29:06,179 [INFO] Sub 13 Done. r = 0.8664, p = 0.00e+00
+2026-02-01 16:29:07,139 [INFO] Sub 14 EC already exists. Skipping calculation.
+2026-02-01 16:29:07,140 [INFO] Sub 14 Done. r = 0.5993, p = 0.00e+00
+2026-02-01 16:29:08,108 [INFO] Sub 15 EC already exists. Skipping calculation.
+2026-02-01 16:29:08,108 [INFO] Sub 15 Done. r = 0.8406, p = 0.00e+00
+2026-02-01 16:29:09,065 [INFO] Sub 16 EC already exists. Skipping calculation.
+2026-02-01 16:29:09,066 [INFO] Sub 16 Done. r = 0.7820, p = 0.00e+00
+2026-02-01 16:29:10,024 [INFO] Sub 17 EC already exists. Skipping calculation.
+2026-02-01 16:29:10,024 [INFO] Sub 17 Done. r = 0.8204, p = 0.00e+00
+2026-02-01 16:29:10,975 [INFO] Sub 18 EC already exists. Skipping calculation.
+2026-02-01 16:29:10,975 [INFO] Sub 18 Done. r = 0.8064, p = 0.00e+00
+2026-02-01 16:29:11,939 [INFO] Sub 19 EC already exists. Skipping calculation.
+2026-02-01 16:29:11,940 [INFO] Sub 19 Done. r = 0.7238, p = 0.00e+00
+2026-02-01 16:29:14,484 [INFO] Sub 20 Done. r = 0.3051, p = 0.00e+00
+2026-02-01 16:29:16,578 [INFO] Sub 21 Done. r = 0.8855, p = 0.00e+00
+2026-02-01 16:29:18,661 [INFO] Sub 22 Done. r = 0.7916, p = 0.00e+00
+2026-02-01 16:29:20,775 [INFO] Sub 23 Done. r = 0.7718, p = 0.00e+00
+2026-02-01 16:29:22,989 [INFO] Sub 24 Done. r = 0.8745, p = 0.00e+00
+2026-02-01 16:29:25,110 [INFO] Sub 25 Done. r = 0.8366, p = 0.00e+00
+2026-02-01 16:29:27,183 [INFO] Sub 26 Done. r = 0.7829, p = 0.00e+00
+2026-02-01 16:29:29,231 [INFO] Sub 27 Done. r = 0.9239, p = 0.00e+00
+2026-02-01 16:29:31,287 [INFO] Sub 28 Done. r = 0.7820, p = 0.00e+00
+2026-02-01 16:29:33,345 [INFO] Sub 29 Done. r = 0.8897, p = 0.00e+00
+2026-02-01 16:29:35,386 [INFO] Sub 30 Done. r = 0.9121, p = 0.00e+00
+2026-02-01 16:29:37,423 [INFO] Sub 31 Done. r = 0.8515, p = 0.00e+00
+2026-02-01 16:29:39,457 [INFO] Sub 32 Done. r = 0.7642, p = 0.00e+00
+2026-02-01 16:29:41,507 [INFO] Sub 33 Done. r = 0.5762, p = 0.00e+00
+2026-02-01 16:29:43,570 [INFO] Sub 34 Done. r = 0.8224, p = 0.00e+00
+2026-02-01 16:29:45,612 [INFO] Sub 35 Done. r = 0.8497, p = 0.00e+00
+2026-02-01 16:29:46,291 [WARNING] Sub 36 contains NaN/Inf! Cleaning data...
+2026-02-01 16:29:46,292 [ERROR] Sub 36 data is completely invalid!
+2026-02-01 16:29:47,681 [INFO] Sub 36 Done. r = 0.0000, p = 1.00e+00
+2026-02-01 16:29:49,733 [INFO] Sub 37 Done. r = 0.8021, p = 0.00e+00
+2026-02-01 16:29:51,810 [INFO] Sub 38 Done. r = 0.8772, p = 0.00e+00
+2026-02-01 16:29:53,850 [INFO] Sub 39 Done. r = 0.8068, p = 0.00e+00
+2026-02-01 16:29:55,887 [INFO] Sub 40 Done. r = 0.8902, p = 0.00e+00
+2026-02-01 16:29:57,945 [INFO] Sub 41 Done. r = 0.8725, p = 0.00e+00
+2026-02-01 16:29:59,996 [INFO] Sub 42 Done. r = 0.7542, p = 0.00e+00
+2026-02-01 16:30:02,039 [INFO] Sub 43 Done. r = 0.8522, p = 0.00e+00
+2026-02-01 16:30:04,098 [INFO] Sub 44 Done. r = 0.8162, p = 0.00e+00
+2026-02-01 16:30:06,118 [INFO] Sub 45 Done. r = 0.9012, p = 0.00e+00
+2026-02-01 16:30:08,184 [INFO] Sub 46 Done. r = 0.8553, p = 0.00e+00
+2026-02-01 16:30:10,222 [INFO] Sub 47 Done. r = 0.8146, p = 0.00e+00
+2026-02-01 16:30:12,274 [INFO] Sub 48 Done. r = 0.7380, p = 0.00e+00
+2026-02-01 16:30:14,312 [INFO] Sub 49 Done. r = 0.7943, p = 0.00e+00
+2026-02-01 16:30:16,361 [INFO] Sub 50 Done. r = 0.6909, p = 0.00e+00
+2026-02-01 16:30:18,391 [INFO] Sub 51 Done. r = 0.8162, p = 0.00e+00
+2026-02-01 16:30:20,447 [INFO] Sub 52 Done. r = 0.8416, p = 0.00e+00
+2026-02-01 16:30:22,498 [INFO] Sub 53 Done. r = 0.8555, p = 0.00e+00
+2026-02-01 16:30:24,539 [INFO] Sub 54 Done. r = 0.8741, p = 0.00e+00
+2026-02-01 16:30:26,582 [INFO] Sub 55 Done. r = 0.7006, p = 0.00e+00
+2026-02-01 16:30:28,602 [INFO] Sub 56 Done. r = 0.8660, p = 0.00e+00
+2026-02-01 16:30:30,634 [INFO] Sub 57 Done. r = 0.8655, p = 0.00e+00
+2026-02-01 16:30:32,696 [INFO] Sub 58 Done. r = 0.7676, p = 0.00e+00
+2026-02-01 16:30:34,768 [INFO] Sub 59 Done. r = 0.8715, p = 0.00e+00
+2026-02-01 16:30:36,818 [INFO] Sub 60 Done. r = 0.8801, p = 0.00e+00
+2026-02-01 16:30:38,879 [INFO] Sub 61 Done. r = 0.5527, p = 0.00e+00
+2026-02-01 16:30:40,917 [INFO] Sub 62 Done. r = 0.6331, p = 0.00e+00
+2026-02-01 16:30:42,994 [INFO] Sub 63 Done. r = 0.7036, p = 0.00e+00
+2026-02-01 16:30:45,092 [INFO] Sub 64 Done. r = 0.8096, p = 0.00e+00
+2026-02-01 16:30:47,168 [INFO] Sub 65 Done. r = 0.8419, p = 0.00e+00
+2026-02-01 16:30:49,215 [INFO] Sub 66 Done. r = 0.8270, p = 0.00e+00
+2026-02-01 16:30:51,258 [INFO] Sub 67 Done. r = 0.7897, p = 0.00e+00
+2026-02-01 16:30:53,317 [INFO] Sub 68 Done. r = 0.8817, p = 0.00e+00
+2026-02-01 16:30:55,376 [INFO] Sub 69 Done. r = 0.8036, p = 0.00e+00
+2026-02-01 16:30:57,438 [INFO] Sub 70 Done. r = 0.8921, p = 0.00e+00
+2026-02-01 16:30:59,514 [INFO] Sub 71 Done. r = 0.8668, p = 0.00e+00
+2026-02-01 16:31:01,579 [INFO] Sub 72 Done. r = 0.7182, p = 0.00e+00
+2026-02-01 16:31:03,607 [INFO] Sub 73 Done. r = 0.8136, p = 0.00e+00
+2026-02-01 16:31:05,662 [INFO] Sub 74 Done. r = 0.8449, p = 0.00e+00
+2026-02-01 16:31:07,742 [INFO] Sub 75 Done. r = 0.8654, p = 0.00e+00
+2026-02-01 16:31:09,854 [INFO] Sub 76 Done. r = 0.6344, p = 0.00e+00
+2026-02-01 16:31:11,949 [INFO] Sub 77 Done. r = 0.6724, p = 0.00e+00
+2026-02-01 16:31:14,109 [INFO] Sub 78 Done. r = 0.8122, p = 0.00e+00
+2026-02-01 16:31:16,158 [INFO] Sub 79 Done. r = 0.9042, p = 0.00e+00
+2026-02-01 16:31:18,236 [INFO] Sub 80 Done. r = 0.8390, p = 0.00e+00
+2026-02-01 16:31:20,288 [INFO] Sub 81 Done. r = 0.8651, p = 0.00e+00
+2026-02-01 16:31:22,370 [INFO] Sub 82 Done. r = 0.7332, p = 0.00e+00
+2026-02-01 16:31:24,442 [INFO] Sub 83 Done. r = 0.9156, p = 0.00e+00
+2026-02-01 16:31:26,546 [INFO] Sub 84 Done. r = 0.8904, p = 0.00e+00
+2026-02-01 16:31:28,613 [INFO] Sub 85 Done. r = 0.7784, p = 0.00e+00
+2026-02-01 16:31:30,681 [INFO] Sub 86 Done. r = 0.8815, p = 0.00e+00
+2026-02-01 16:31:32,731 [INFO] Sub 87 Done. r = 0.6383, p = 0.00e+00
+2026-02-01 16:31:34,811 [INFO] Sub 88 Done. r = 0.7438, p = 0.00e+00
+2026-02-01 16:31:36,850 [INFO] Sub 89 Done. r = 0.7891, p = 0.00e+00
+2026-02-01 16:31:38,907 [INFO] Sub 90 Done. r = 0.7901, p = 0.00e+00
+2026-02-01 16:31:40,970 [INFO] Sub 91 Done. r = 0.8893, p = 0.00e+00
+2026-02-01 16:31:43,033 [INFO] Sub 92 Done. r = 0.8519, p = 0.00e+00
+2026-02-01 16:31:45,216 [INFO] Sub 93 Done. r = 0.9240, p = 0.00e+00
+2026-02-01 16:31:47,342 [INFO] Sub 94 Done. r = 0.9528, p = 0.00e+00
+2026-02-01 16:31:49,434 [INFO] Sub 95 Done. r = 0.8668, p = 0.00e+00
+2026-02-01 16:31:51,504 [INFO] Sub 96 Done. r = 0.8174, p = 0.00e+00
+2026-02-01 16:31:53,555 [INFO] Sub 97 Done. r = 0.8484, p = 0.00e+00
+2026-02-01 16:31:55,606 [INFO] Sub 98 Done. r = 0.8929, p = 0.00e+00
+2026-02-01 16:31:57,665 [INFO] Sub 99 Done. r = 0.6471, p = 0.00e+00
+2026-02-01 16:31:59,741 [INFO] Sub 100 Done. r = 0.6482, p = 0.00e+00
+2026-02-01 16:32:01,800 [INFO] Sub 101 Done. r = 0.7404, p = 0.00e+00
+2026-02-01 16:32:03,868 [INFO] Sub 102 Done. r = 0.8773, p = 0.00e+00
+2026-02-01 16:32:05,924 [INFO] Sub 103 Done. r = 0.8686, p = 0.00e+00
+2026-02-01 16:32:07,968 [INFO] Sub 104 Done. r = 0.8411, p = 0.00e+00
+2026-02-01 16:32:10,018 [INFO] Sub 105 Done. r = 0.8677, p = 0.00e+00
+2026-02-01 16:32:12,050 [INFO] Sub 106 Done. r = 0.6458, p = 0.00e+00
+2026-02-01 16:32:14,132 [INFO] Sub 107 Done. r = 0.8150, p = 0.00e+00
+2026-02-01 16:32:16,257 [INFO] Sub 108 Done. r = 0.8158, p = 0.00e+00
+2026-02-01 16:32:18,325 [INFO] Sub 109 Done. r = 0.8639, p = 0.00e+00
+2026-02-01 16:32:20,398 [INFO] Sub 110 Done. r = 0.8580, p = 0.00e+00
+2026-02-01 16:32:22,479 [INFO] Sub 111 Done. r = 0.8146, p = 0.00e+00
+2026-02-01 16:32:24,530 [INFO] Sub 112 Done. r = 0.8519, p = 0.00e+00
+2026-02-01 16:32:26,566 [INFO] Sub 113 Done. r = 0.8407, p = 0.00e+00
+2026-02-01 16:32:28,645 [INFO] Sub 114 Done. r = 0.5726, p = 0.00e+00
+2026-02-01 16:32:30,713 [INFO] Sub 115 Done. r = 0.8231, p = 0.00e+00
+2026-02-01 16:32:32,770 [INFO] Sub 116 Done. r = 0.8193, p = 0.00e+00
+2026-02-01 16:32:34,853 [INFO] Sub 117 Done. r = 0.8049, p = 0.00e+00
+2026-02-01 16:32:36,890 [INFO] Sub 118 Done. r = 0.7868, p = 0.00e+00
+2026-02-01 16:32:38,908 [INFO] Sub 119 Done. r = 0.8367, p = 0.00e+00
+2026-02-01 16:32:40,932 [INFO] Sub 120 Done. r = 0.8704, p = 0.00e+00
+2026-02-01 16:32:42,960 [INFO] Sub 121 Done. r = 0.8760, p = 0.00e+00
+2026-02-01 16:32:44,998 [INFO] Sub 122 Done. r = 0.8531, p = 0.00e+00
+2026-02-01 16:32:47,030 [INFO] Sub 123 Done. r = 0.7951, p = 0.00e+00
+2026-02-01 16:32:49,055 [INFO] Sub 124 Done. r = 0.8330, p = 0.00e+00
+2026-02-01 16:32:51,076 [INFO] Sub 125 Done. r = 0.8670, p = 0.00e+00
+2026-02-01 16:32:53,144 [INFO] Sub 126 Done. r = 0.8829, p = 0.00e+00
+2026-02-01 16:32:55,163 [INFO] Sub 127 Done. r = 0.7190, p = 0.00e+00
+2026-02-01 16:32:57,181 [INFO] Sub 128 Done. r = 0.8920, p = 0.00e+00
+2026-02-01 16:32:59,205 [INFO] Sub 129 Done. r = 0.8365, p = 0.00e+00
+2026-02-01 16:33:01,240 [INFO] Sub 130 Done. r = 0.4335, p = 0.00e+00
+2026-02-01 16:33:03,281 [INFO] Sub 131 Done. r = 0.7679, p = 0.00e+00
+2026-02-01 16:33:05,310 [INFO] Sub 132 Done. r = 0.8360, p = 0.00e+00
+2026-02-01 16:33:07,320 [INFO] Sub 133 Done. r = 0.8689, p = 0.00e+00
+2026-02-01 16:33:09,348 [INFO] Sub 134 Done. r = 0.8280, p = 0.00e+00
+2026-02-01 16:33:11,357 [INFO] Sub 135 Done. r = 0.8563, p = 0.00e+00
+2026-02-01 16:33:13,387 [INFO] Sub 136 Done. r = 0.8715, p = 0.00e+00
+2026-02-01 16:33:15,434 [INFO] Sub 137 Done. r = 0.8426, p = 0.00e+00
+2026-02-01 16:33:17,459 [INFO] Sub 138 Done. r = 0.8557, p = 0.00e+00
+2026-02-01 16:33:19,489 [INFO] Sub 139 Done. r = 0.8528, p = 0.00e+00
+2026-02-01 16:33:21,530 [INFO] Sub 140 Done. r = 0.7151, p = 0.00e+00
+2026-02-01 16:33:23,558 [INFO] Sub 141 Done. r = 0.7925, p = 0.00e+00
+2026-02-01 16:33:25,589 [INFO] Sub 142 Done. r = 0.8093, p = 0.00e+00
+2026-02-01 16:33:27,637 [INFO] Sub 143 Done. r = 0.7630, p = 0.00e+00
+2026-02-01 16:33:29,698 [INFO] Sub 144 Done. r = 0.8488, p = 0.00e+00
+2026-02-01 16:33:31,741 [INFO] Sub 145 Done. r = 0.8558, p = 0.00e+00
+2026-02-01 16:33:33,798 [INFO] Sub 146 Done. r = 0.7453, p = 0.00e+00
+2026-02-01 16:33:35,829 [INFO] Sub 147 Done. r = 0.7390, p = 0.00e+00
+2026-02-01 16:33:37,885 [INFO] Sub 148 Done. r = 0.8312, p = 0.00e+00
+2026-02-01 16:33:39,974 [INFO] Sub 149 Done. r = 0.7608, p = 0.00e+00
+2026-02-01 16:33:42,051 [INFO] Sub 150 Done. r = 0.7866, p = 0.00e+00
+2026-02-01 16:33:44,175 [INFO] Sub 151 Done. r = 0.8367, p = 0.00e+00
+2026-02-01 16:33:46,285 [INFO] Sub 152 Done. r = 0.8626, p = 0.00e+00
+2026-02-01 16:33:48,340 [INFO] Sub 153 Done. r = 0.7851, p = 0.00e+00
+2026-02-01 16:33:50,425 [INFO] Sub 154 Done. r = 0.8642, p = 0.00e+00
+2026-02-01 16:33:52,497 [INFO] Sub 155 Done. r = 0.6545, p = 0.00e+00
+2026-02-01 16:33:54,556 [INFO] Sub 156 Done. r = 0.8434, p = 0.00e+00
+2026-02-01 16:33:56,591 [INFO] Sub 157 Done. r = 0.8366, p = 0.00e+00
+2026-02-01 16:33:58,688 [INFO] Sub 158 Done. r = 0.8263, p = 0.00e+00
+2026-02-01 16:34:00,718 [INFO] Sub 159 Done. r = 0.8035, p = 0.00e+00
+2026-02-01 16:34:02,780 [INFO] Sub 160 Done. r = 0.8460, p = 0.00e+00
+2026-02-01 16:34:04,830 [INFO] Sub 161 Done. r = 0.8063, p = 0.00e+00
+2026-02-01 16:34:06,898 [INFO] Sub 162 Done. r = 0.8526, p = 0.00e+00
+2026-02-01 16:34:08,939 [INFO] Sub 163 Done. r = 0.8919, p = 0.00e+00
+2026-02-01 16:34:10,990 [INFO] Sub 164 Done. r = 0.8060, p = 0.00e+00
+2026-02-01 16:34:13,041 [INFO] Sub 165 Done. r = 0.8619, p = 0.00e+00
+2026-02-01 16:34:15,120 [INFO] Sub 166 Done. r = 0.6821, p = 0.00e+00
+2026-02-01 16:34:17,284 [INFO] Sub 167 Done. r = 0.8810, p = 0.00e+00
+2026-02-01 16:34:19,428 [INFO] Sub 168 Done. r = 0.7921, p = 0.00e+00
+2026-02-01 16:34:21,584 [INFO] Sub 169 Done. r = 0.7857, p = 0.00e+00
+2026-02-01 16:34:23,738 [INFO] Sub 170 Done. r = 0.8539, p = 0.00e+00
+2026-02-01 16:34:25,845 [INFO] Sub 171 Done. r = 0.8242, p = 0.00e+00
+2026-02-01 16:34:27,866 [INFO] Sub 172 Done. r = 0.8549, p = 0.00e+00
+2026-02-01 16:34:29,907 [INFO] Sub 173 Done. r = 0.8687, p = 0.00e+00
+2026-02-01 16:34:31,924 [INFO] Sub 174 Done. r = 0.6893, p = 0.00e+00
+2026-02-01 16:34:33,973 [INFO] Sub 175 Done. r = 0.7641, p = 0.00e+00
+2026-02-01 16:34:35,997 [INFO] Sub 176 Done. r = 0.8148, p = 0.00e+00
+2026-02-01 16:34:36,003 [INFO] 
+统计结果已保存至: F:\NPI_results\bs_50\NPI_Statistics_Summary.csv
+2026-02-01 16:49:39,126 [INFO] ============================== 可视化sub 36 的 model FC & empirical FC==============================
+2026-02-01 16:49:39,128 [INFO] :
+2026-02-01 16:49:39,129 [INFO] ================================================================================
+2026-02-01 16:50:50,409 [INFO] Starting Subject 36...
+2026-02-01 16:50:51,886 [INFO] 被试 36 训练完成并保存。Final Test Loss: 9.309617
+2026-02-01 16:50:51,889 [INFO] 所有预定训练任务已结束。
+2026-02-01 16:51:02,473 [INFO] ============================== 可视化sub 36 的 model FC & empirical FC==============================
+2026-02-01 16:51:02,474 [INFO] :
+2026-02-01 16:51:02,475 [INFO] ================================================================================
+2026-02-01 16:57:07,242 [INFO] ============================== 可视化sub 36 的 model FC & empirical FC==============================
+2026-02-01 16:57:07,242 [INFO] :
+2026-02-01 16:57:07,243 [INFO] ================================================================================
+2026-02-01 16:57:59,619 [INFO] Starting Subject 36...
+2026-02-01 16:58:01,182 [INFO] 被试 36 训练完成并保存。Final Test Loss: 9.095452
+2026-02-01 16:58:01,183 [INFO] 所有预定训练任务已结束。
+2026-02-01 16:58:47,314 [INFO] ============================== 可视化sub 36 的 model FC & empirical FC==============================
+2026-02-01 16:58:47,316 [INFO] :
+2026-02-01 16:58:47,317 [INFO] ================================================================================
+2026-02-01 17:02:07,063 [INFO] ============================== 可视化sub 36 的 model FC & empirical FC==============================
+2026-02-01 17:02:07,064 [INFO] :
+2026-02-01 17:02:07,065 [INFO] ================================================================================
+2026-02-01 17:02:43,785 [INFO] ============================== 可视化sub 36 的 model FC & empirical FC==============================
+2026-02-01 17:02:43,786 [INFO] :
+2026-02-01 17:02:43,787 [INFO] ================================================================================
+2026-02-01 21:56:16,605 [INFO] ============================== 可视化sub 36 的 model FC & empirical FC==============================
+2026-02-01 21:56:16,607 [INFO] :
+2026-02-01 21:56:16,608 [INFO] ================================================================================
+2026-02-01 21:56:28,782 [INFO] ============================== 可视化sub 36 的 model FC & empirical FC==============================
+2026-02-01 21:56:28,784 [INFO] :
+2026-02-01 21:56:28,785 [INFO] ================================================================================
+2026-02-01 22:23:09,016 [INFO] Starting Subject 36...
+2026-02-01 22:23:10,663 [INFO] 被试 36 训练完成并保存。Final Test Loss: 9.287624
+2026-02-01 22:23:10,665 [INFO] 所有预定训练任务已结束。
+2026-02-01 22:23:26,444 [INFO] ============================== 可视化sub 36 的 model FC & empirical FC==============================
+2026-02-01 22:23:26,445 [INFO] :
+2026-02-01 22:23:26,446 [INFO] ================================================================================
+2026-02-01 22:23:38,217 [INFO] ============================== 可视化sub 36 的 model FC & empirical FC==============================
+2026-02-01 22:23:38,218 [INFO] :
+2026-02-01 22:23:38,218 [INFO] ================================================================================
+2026-02-01 22:26:35,588 [INFO] ============================== 可视化sub 36 的 model FC & empirical FC==============================
+2026-02-01 22:26:35,589 [INFO] :
+2026-02-01 22:26:35,590 [INFO] ================================================================================
+2026-02-01 22:35:02,376 [INFO] ============================== 可视化sub 36 的 model FC & empirical FC==============================
+2026-02-01 22:35:02,377 [INFO] :
+2026-02-01 22:35:02,377 [INFO] ================================================================================
+2026-02-01 22:35:43,575 [INFO] ============================== 可视化sub <built-in function id> 的 model FC & empirical FC==============================
+2026-02-01 22:35:43,577 [INFO] :
+2026-02-01 22:35:43,578 [INFO] ================================================================================
+2026-02-01 22:36:08,919 [INFO] ============================== 可视化sub <built-in function id> 的 model FC & empirical FC==============================
+2026-02-01 22:36:08,920 [INFO] :
+2026-02-01 22:36:08,921 [INFO] ================================================================================
+2026-02-02 11:13:38,290 [INFO] ============================== FC and EC START ==============================
+2026-02-02 11:13:38,290 [INFO] ================================================================================
+2026-02-02 11:14:04,866 [INFO] ============================== FC and EC START ==============================
+2026-02-02 11:14:04,867 [INFO] ================================================================================
+2026-02-02 11:14:50,704 [INFO] ============================== FC and EC START ==============================
+2026-02-02 11:14:50,705 [INFO] ================================================================================
+2026-02-02 11:15:07,701 [INFO] ============================== FC and EC START ==============================
+2026-02-02 11:15:07,702 [INFO] ================================================================================
+2026-02-02 11:15:09,689 [ERROR] !!! Sub 0 发生毁灭性错误: log() missing 1 required positional argument: 'msg'
+2026-02-02 11:17:19,094 [INFO] ============================== FC and EC START ==============================
+2026-02-02 11:17:19,096 [INFO] ================================================================================
+2026-02-02 11:17:20,175 [INFO]  Sub 0 FC correlation: r = 0.7273619454948085, p = 0.0
+2026-02-02 11:17:47,115 [INFO] ============================== FC and EC START ==============================
+2026-02-02 11:17:47,116 [INFO] ================================================================================
+2026-02-02 11:17:48,251 [INFO]  Sub 0 FC correlation: r = 0.7869854006161223, p = 0.0
+2026-02-02 11:17:48,252 [INFO] Sub 0 EC already exists. Skipping calculation.
+2026-02-02 12:11:23,456 [INFO] ============================== FC and EC START ==============================
+2026-02-02 12:11:23,457 [INFO] ================================================================================
+2026-02-02 12:11:24,643 [INFO]  Sub 0 FC correlation: r = 0.7915769132636161, p = 0.0
+2026-02-02 12:11:24,644 [INFO] Calculating EC for Sub 0...
+2026-02-02 12:11:26,393 [INFO] Sub 0 EC saved to F:\NPI_results\bs_50\EC_Sub_0.mat
+2026-02-02 12:11:27,077 [INFO]  Sub 1 FC correlation: r = 0.6883850221510361, p = 0.0
+2026-02-02 12:11:27,078 [INFO] Calculating EC for Sub 1...
+2026-02-02 12:11:28,568 [INFO] Sub 1 EC saved to F:\NPI_results\bs_50\EC_Sub_1.mat
+2026-02-02 12:11:29,235 [INFO]  Sub 2 FC correlation: r = 0.6228306289062192, p = 0.0
+2026-02-02 12:11:29,236 [INFO] Calculating EC for Sub 2...
+2026-02-02 12:11:30,723 [INFO] Sub 2 EC saved to F:\NPI_results\bs_50\EC_Sub_2.mat
+2026-02-02 12:11:31,395 [INFO]  Sub 3 FC correlation: r = 0.8810705392727001, p = 0.0
+2026-02-02 12:11:31,396 [INFO] Calculating EC for Sub 3...
+2026-02-02 12:11:32,865 [INFO] Sub 3 EC saved to F:\NPI_results\bs_50\EC_Sub_3.mat
+2026-02-02 12:11:33,553 [INFO]  Sub 4 FC correlation: r = 0.7980661071939488, p = 0.0
+2026-02-02 12:11:33,553 [INFO] Calculating EC for Sub 4...
+2026-02-02 12:11:35,059 [INFO] Sub 4 EC saved to F:\NPI_results\bs_50\EC_Sub_4.mat
+2026-02-02 12:11:35,729 [INFO]  Sub 5 FC correlation: r = 0.5715174744277939, p = 0.0
+2026-02-02 12:11:35,729 [INFO] Calculating EC for Sub 5...
+2026-02-02 12:11:37,207 [INFO] Sub 5 EC saved to F:\NPI_results\bs_50\EC_Sub_5.mat
+2026-02-02 12:11:37,874 [INFO]  Sub 6 FC correlation: r = 0.7174051429959626, p = 0.0
+2026-02-02 12:11:37,875 [INFO] Calculating EC for Sub 6...
+2026-02-02 12:11:39,358 [INFO] Sub 6 EC saved to F:\NPI_results\bs_50\EC_Sub_6.mat
+2026-02-02 12:11:40,027 [INFO]  Sub 7 FC correlation: r = 0.8543792248341716, p = 0.0
+2026-02-02 12:11:40,027 [INFO] Calculating EC for Sub 7...
+2026-02-02 12:11:41,504 [INFO] Sub 7 EC saved to F:\NPI_results\bs_50\EC_Sub_7.mat
+2026-02-02 12:11:42,190 [INFO]  Sub 8 FC correlation: r = 0.7612484429410009, p = 0.0
+2026-02-02 12:11:42,190 [INFO] Calculating EC for Sub 8...
+2026-02-02 12:11:43,691 [INFO] Sub 8 EC saved to F:\NPI_results\bs_50\EC_Sub_8.mat
+2026-02-02 12:11:44,357 [INFO]  Sub 9 FC correlation: r = 0.8996652516102374, p = 0.0
+2026-02-02 12:11:44,358 [INFO] Calculating EC for Sub 9...
+2026-02-02 12:11:45,908 [INFO] Sub 9 EC saved to F:\NPI_results\bs_50\EC_Sub_9.mat
+2026-02-02 12:11:46,570 [INFO]  Sub 10 FC correlation: r = 0.7319595111894065, p = 0.0
+2026-02-02 12:11:46,571 [INFO] Calculating EC for Sub 10...
+2026-02-02 12:11:48,058 [INFO] Sub 10 EC saved to F:\NPI_results\bs_50\EC_Sub_10.mat
+2026-02-02 12:11:48,719 [INFO]  Sub 11 FC correlation: r = 0.8935220380054467, p = 0.0
+2026-02-02 12:11:48,720 [INFO] Calculating EC for Sub 11...
+2026-02-02 12:11:50,237 [INFO] Sub 11 EC saved to F:\NPI_results\bs_50\EC_Sub_11.mat
+2026-02-02 12:11:50,916 [INFO]  Sub 12 FC correlation: r = 0.8948415925739864, p = 0.0
+2026-02-02 12:11:50,917 [INFO] Calculating EC for Sub 12...
+2026-02-02 12:11:52,421 [INFO] Sub 12 EC saved to F:\NPI_results\bs_50\EC_Sub_12.mat
+2026-02-02 12:11:53,101 [INFO]  Sub 13 FC correlation: r = 0.8471363275295125, p = 0.0
+2026-02-02 12:11:53,102 [INFO] Calculating EC for Sub 13...
+2026-02-02 12:11:54,641 [INFO] Sub 13 EC saved to F:\NPI_results\bs_50\EC_Sub_13.mat
+2026-02-02 12:11:55,316 [INFO]  Sub 14 FC correlation: r = 0.5852271522925041, p = 0.0
+2026-02-02 12:11:55,317 [INFO] Calculating EC for Sub 14...
+2026-02-02 12:11:56,787 [INFO] Sub 14 EC saved to F:\NPI_results\bs_50\EC_Sub_14.mat
+2026-02-02 12:11:57,489 [INFO]  Sub 15 FC correlation: r = 0.8199274320931829, p = 0.0
+2026-02-02 12:11:57,490 [INFO] Calculating EC for Sub 15...
+2026-02-02 12:11:59,103 [INFO] Sub 15 EC saved to F:\NPI_results\bs_50\EC_Sub_15.mat
+2026-02-02 12:11:59,765 [INFO]  Sub 16 FC correlation: r = 0.77418233238252, p = 0.0
+2026-02-02 12:11:59,766 [INFO] Calculating EC for Sub 16...
+2026-02-02 12:12:01,290 [INFO] Sub 16 EC saved to F:\NPI_results\bs_50\EC_Sub_16.mat
+2026-02-02 12:12:01,995 [INFO]  Sub 17 FC correlation: r = 0.8214009378874705, p = 0.0
+2026-02-02 12:12:01,995 [INFO] Calculating EC for Sub 17...
+2026-02-02 12:12:03,593 [INFO] Sub 17 EC saved to F:\NPI_results\bs_50\EC_Sub_17.mat
+2026-02-02 12:12:04,273 [INFO]  Sub 18 FC correlation: r = 0.7959957760539198, p = 0.0
+2026-02-02 12:12:04,274 [INFO] Calculating EC for Sub 18...
+2026-02-02 12:12:05,779 [INFO] Sub 18 EC saved to F:\NPI_results\bs_50\EC_Sub_18.mat
+2026-02-02 12:12:06,447 [INFO]  Sub 19 FC correlation: r = 0.722957225862536, p = 0.0
+2026-02-02 12:12:06,448 [INFO] Calculating EC for Sub 19...
+2026-02-02 12:12:08,008 [INFO] Sub 19 EC saved to F:\NPI_results\bs_50\EC_Sub_19.mat
+2026-02-02 12:12:08,685 [INFO]  Sub 20 FC correlation: r = 0.2891940956353144, p = 0.0
+2026-02-02 12:12:08,685 [INFO] Calculating EC for Sub 20...
+2026-02-02 12:12:10,219 [INFO] Sub 20 EC saved to F:\NPI_results\bs_50\EC_Sub_20.mat
+2026-02-02 12:12:10,891 [INFO]  Sub 21 FC correlation: r = 0.8718819108260615, p = 0.0
+2026-02-02 12:12:10,892 [INFO] Calculating EC for Sub 21...
+2026-02-02 12:12:12,431 [INFO] Sub 21 EC saved to F:\NPI_results\bs_50\EC_Sub_21.mat
+2026-02-02 12:12:13,112 [INFO]  Sub 22 FC correlation: r = 0.7827723857290967, p = 0.0
+2026-02-02 12:12:13,113 [INFO] Calculating EC for Sub 22...
+2026-02-02 12:12:14,661 [INFO] Sub 22 EC saved to F:\NPI_results\bs_50\EC_Sub_22.mat
+2026-02-02 12:12:15,336 [INFO]  Sub 23 FC correlation: r = 0.7046563173190489, p = 0.0
+2026-02-02 12:12:15,337 [INFO] Calculating EC for Sub 23...
+2026-02-02 12:12:16,842 [INFO] Sub 23 EC saved to F:\NPI_results\bs_50\EC_Sub_23.mat
+2026-02-02 12:12:17,507 [INFO]  Sub 24 FC correlation: r = 0.867201084750301, p = 0.0
+2026-02-02 12:12:17,507 [INFO] Calculating EC for Sub 24...
+2026-02-02 12:12:18,997 [INFO] Sub 24 EC saved to F:\NPI_results\bs_50\EC_Sub_24.mat
+2026-02-02 12:12:19,679 [INFO]  Sub 25 FC correlation: r = 0.8170680150923966, p = 0.0
+2026-02-02 12:12:19,680 [INFO] Calculating EC for Sub 25...
+2026-02-02 12:12:21,165 [INFO] Sub 25 EC saved to F:\NPI_results\bs_50\EC_Sub_25.mat
+2026-02-02 12:12:21,841 [INFO]  Sub 26 FC correlation: r = 0.7982052234742595, p = 0.0
+2026-02-02 12:12:21,842 [INFO] Calculating EC for Sub 26...
+2026-02-02 12:12:23,324 [INFO] Sub 26 EC saved to F:\NPI_results\bs_50\EC_Sub_26.mat
+2026-02-02 12:12:24,001 [INFO]  Sub 27 FC correlation: r = 0.9164295024426156, p = 0.0
+2026-02-02 12:12:24,002 [INFO] Calculating EC for Sub 27...
+2026-02-02 12:12:25,522 [INFO] Sub 27 EC saved to F:\NPI_results\bs_50\EC_Sub_27.mat
+2026-02-02 12:12:26,182 [INFO]  Sub 28 FC correlation: r = 0.7868158459714276, p = 0.0
+2026-02-02 12:12:26,182 [INFO] Calculating EC for Sub 28...
+2026-02-02 12:12:27,678 [INFO] Sub 28 EC saved to F:\NPI_results\bs_50\EC_Sub_28.mat
+2026-02-02 12:12:28,338 [INFO]  Sub 29 FC correlation: r = 0.9052751200710192, p = 0.0
+2026-02-02 12:12:28,339 [INFO] Calculating EC for Sub 29...
+2026-02-02 12:12:29,844 [INFO] Sub 29 EC saved to F:\NPI_results\bs_50\EC_Sub_29.mat
+2026-02-02 12:12:30,518 [INFO]  Sub 30 FC correlation: r = 0.9102099635033669, p = 0.0
+2026-02-02 12:12:30,519 [INFO] Calculating EC for Sub 30...
+2026-02-02 12:12:32,024 [INFO] Sub 30 EC saved to F:\NPI_results\bs_50\EC_Sub_30.mat
+2026-02-02 12:12:32,692 [INFO]  Sub 31 FC correlation: r = 0.856851512877288, p = 0.0
+2026-02-02 12:12:32,693 [INFO] Calculating EC for Sub 31...
+2026-02-02 12:12:34,169 [INFO] Sub 31 EC saved to F:\NPI_results\bs_50\EC_Sub_31.mat
+2026-02-02 12:12:34,839 [INFO]  Sub 32 FC correlation: r = 0.7925174592400922, p = 0.0
+2026-02-02 12:12:34,839 [INFO] Calculating EC for Sub 32...
+2026-02-02 12:12:36,345 [INFO] Sub 32 EC saved to F:\NPI_results\bs_50\EC_Sub_32.mat
+2026-02-02 12:12:37,015 [INFO]  Sub 33 FC correlation: r = 0.5824800134525485, p = 0.0
+2026-02-02 12:12:37,015 [INFO] Calculating EC for Sub 33...
+2026-02-02 12:12:38,515 [INFO] Sub 33 EC saved to F:\NPI_results\bs_50\EC_Sub_33.mat
+2026-02-02 12:12:39,186 [INFO]  Sub 34 FC correlation: r = 0.7875613834981786, p = 0.0
+2026-02-02 12:12:39,186 [INFO] Calculating EC for Sub 34...
+2026-02-02 12:12:40,668 [INFO] Sub 34 EC saved to F:\NPI_results\bs_50\EC_Sub_34.mat
+2026-02-02 12:12:41,343 [INFO]  Sub 35 FC correlation: r = 0.8730142302099415, p = 0.0
+2026-02-02 12:12:41,344 [INFO] Calculating EC for Sub 35...
+2026-02-02 12:12:42,847 [INFO] Sub 35 EC saved to F:\NPI_results\bs_50\EC_Sub_35.mat
+2026-02-02 12:12:43,519 [ERROR] !!! Sub 36 发生毁灭性错误: array must not contain infs or NaNs
+2026-02-02 12:12:44,180 [INFO]  Sub 37 FC correlation: r = 0.7927263816809882, p = 0.0
+2026-02-02 12:12:44,181 [INFO] Calculating EC for Sub 37...
+2026-02-02 12:12:45,706 [INFO] Sub 37 EC saved to F:\NPI_results\bs_50\EC_Sub_37.mat
+2026-02-02 12:12:46,377 [INFO]  Sub 38 FC correlation: r = 0.8722226404784309, p = 0.0
+2026-02-02 12:12:46,378 [INFO] Calculating EC for Sub 38...
+2026-02-02 12:12:47,855 [INFO] Sub 38 EC saved to F:\NPI_results\bs_50\EC_Sub_38.mat
+2026-02-02 12:12:48,527 [INFO]  Sub 39 FC correlation: r = 0.8095207921999099, p = 0.0
+2026-02-02 12:12:48,528 [INFO] Calculating EC for Sub 39...
+2026-02-02 12:12:49,997 [INFO] Sub 39 EC saved to F:\NPI_results\bs_50\EC_Sub_39.mat
+2026-02-02 12:12:50,669 [INFO]  Sub 40 FC correlation: r = 0.8785442290743116, p = 0.0
+2026-02-02 12:12:50,670 [INFO] Calculating EC for Sub 40...
+2026-02-02 12:12:52,136 [INFO] Sub 40 EC saved to F:\NPI_results\bs_50\EC_Sub_40.mat
+2026-02-02 12:12:52,810 [INFO]  Sub 41 FC correlation: r = 0.8559662952135033, p = 0.0
+2026-02-02 12:12:52,810 [INFO] Calculating EC for Sub 41...
+2026-02-02 12:12:54,279 [INFO] Sub 41 EC saved to F:\NPI_results\bs_50\EC_Sub_41.mat
+2026-02-02 12:12:54,946 [INFO]  Sub 42 FC correlation: r = 0.8254090206343542, p = 0.0
+2026-02-02 12:12:54,947 [INFO] Calculating EC for Sub 42...
+2026-02-02 12:12:56,443 [INFO] Sub 42 EC saved to F:\NPI_results\bs_50\EC_Sub_42.mat
+2026-02-02 12:12:57,115 [INFO]  Sub 43 FC correlation: r = 0.8402143084060144, p = 0.0
+2026-02-02 12:12:57,116 [INFO] Calculating EC for Sub 43...
+2026-02-02 12:12:58,623 [INFO] Sub 43 EC saved to F:\NPI_results\bs_50\EC_Sub_43.mat
+2026-02-02 12:12:59,292 [INFO]  Sub 44 FC correlation: r = 0.8362643762519054, p = 0.0
+2026-02-02 12:12:59,293 [INFO] Calculating EC for Sub 44...
+2026-02-02 12:13:00,801 [INFO] Sub 44 EC saved to F:\NPI_results\bs_50\EC_Sub_44.mat
+2026-02-02 12:13:01,475 [INFO]  Sub 45 FC correlation: r = 0.848319129104126, p = 0.0
+2026-02-02 12:13:01,476 [INFO] Calculating EC for Sub 45...
+2026-02-02 12:13:02,963 [INFO] Sub 45 EC saved to F:\NPI_results\bs_50\EC_Sub_45.mat
+2026-02-02 12:13:03,628 [INFO]  Sub 46 FC correlation: r = 0.8572576125785096, p = 0.0
+2026-02-02 12:13:03,629 [INFO] Calculating EC for Sub 46...
+2026-02-02 12:13:05,132 [INFO] Sub 46 EC saved to F:\NPI_results\bs_50\EC_Sub_46.mat
+2026-02-02 12:13:05,795 [INFO]  Sub 47 FC correlation: r = 0.8051141493005732, p = 0.0
+2026-02-02 12:13:05,796 [INFO] Calculating EC for Sub 47...
+2026-02-02 12:13:07,302 [INFO] Sub 47 EC saved to F:\NPI_results\bs_50\EC_Sub_47.mat
+2026-02-02 12:13:07,969 [INFO]  Sub 48 FC correlation: r = 0.7347286081093652, p = 0.0
+2026-02-02 12:13:07,969 [INFO] Calculating EC for Sub 48...
+2026-02-02 12:13:09,466 [INFO] Sub 48 EC saved to F:\NPI_results\bs_50\EC_Sub_48.mat
+2026-02-02 12:13:10,137 [INFO]  Sub 49 FC correlation: r = 0.8014781952385881, p = 0.0
+2026-02-02 12:13:10,138 [INFO] Calculating EC for Sub 49...
+2026-02-02 12:13:11,625 [INFO] Sub 49 EC saved to F:\NPI_results\bs_50\EC_Sub_49.mat
+2026-02-02 12:13:12,298 [INFO]  Sub 50 FC correlation: r = 0.6764988783643959, p = 0.0
+2026-02-02 12:13:12,299 [INFO] Calculating EC for Sub 50...
+2026-02-02 12:13:13,800 [INFO] Sub 50 EC saved to F:\NPI_results\bs_50\EC_Sub_50.mat
+2026-02-02 12:13:14,474 [INFO]  Sub 51 FC correlation: r = 0.8242494801406939, p = 0.0
+2026-02-02 12:13:14,474 [INFO] Calculating EC for Sub 51...
+2026-02-02 12:13:15,962 [INFO] Sub 51 EC saved to F:\NPI_results\bs_50\EC_Sub_51.mat
+2026-02-02 12:13:16,644 [INFO]  Sub 52 FC correlation: r = 0.8602960040004195, p = 0.0
+2026-02-02 12:13:16,644 [INFO] Calculating EC for Sub 52...
+2026-02-02 12:13:18,132 [INFO] Sub 52 EC saved to F:\NPI_results\bs_50\EC_Sub_52.mat
+2026-02-02 12:13:18,812 [INFO]  Sub 53 FC correlation: r = 0.8590732105080605, p = 0.0
+2026-02-02 12:13:18,813 [INFO] Calculating EC for Sub 53...
+2026-02-02 12:13:20,323 [INFO] Sub 53 EC saved to F:\NPI_results\bs_50\EC_Sub_53.mat
+2026-02-02 12:13:20,998 [INFO]  Sub 54 FC correlation: r = 0.8741423357126143, p = 0.0
+2026-02-02 12:13:20,999 [INFO] Calculating EC for Sub 54...
+2026-02-02 12:13:22,515 [INFO] Sub 54 EC saved to F:\NPI_results\bs_50\EC_Sub_54.mat
+2026-02-02 12:13:23,177 [INFO]  Sub 55 FC correlation: r = 0.7506061381763556, p = 0.0
+2026-02-02 12:13:23,178 [INFO] Calculating EC for Sub 55...
+2026-02-02 12:13:24,689 [INFO] Sub 55 EC saved to F:\NPI_results\bs_50\EC_Sub_55.mat
+2026-02-02 12:13:25,365 [INFO]  Sub 56 FC correlation: r = 0.8742580054449527, p = 0.0
+2026-02-02 12:13:25,365 [INFO] Calculating EC for Sub 56...
+2026-02-02 12:13:26,882 [INFO] Sub 56 EC saved to F:\NPI_results\bs_50\EC_Sub_56.mat
+2026-02-02 12:13:27,546 [INFO]  Sub 57 FC correlation: r = 0.8663582902189034, p = 0.0
+2026-02-02 12:13:27,546 [INFO] Calculating EC for Sub 57...
+2026-02-02 12:13:29,031 [INFO] Sub 57 EC saved to F:\NPI_results\bs_50\EC_Sub_57.mat
+2026-02-02 12:13:29,696 [INFO]  Sub 58 FC correlation: r = 0.7559531323614559, p = 0.0
+2026-02-02 12:13:29,697 [INFO] Calculating EC for Sub 58...
+2026-02-02 12:13:31,191 [INFO] Sub 58 EC saved to F:\NPI_results\bs_50\EC_Sub_58.mat
+2026-02-02 12:13:31,864 [INFO]  Sub 59 FC correlation: r = 0.8654021435754995, p = 0.0
+2026-02-02 12:13:31,865 [INFO] Calculating EC for Sub 59...
+2026-02-02 12:13:33,337 [INFO] Sub 59 EC saved to F:\NPI_results\bs_50\EC_Sub_59.mat
+2026-02-02 12:13:34,001 [INFO]  Sub 60 FC correlation: r = 0.8658217434265443, p = 0.0
+2026-02-02 12:13:34,001 [INFO] Calculating EC for Sub 60...
+2026-02-02 12:13:35,469 [INFO] Sub 60 EC saved to F:\NPI_results\bs_50\EC_Sub_60.mat
+2026-02-02 12:13:36,130 [INFO]  Sub 61 FC correlation: r = 0.572147805863498, p = 0.0
+2026-02-02 12:13:36,131 [INFO] Calculating EC for Sub 61...
+2026-02-02 12:13:37,594 [INFO] Sub 61 EC saved to F:\NPI_results\bs_50\EC_Sub_61.mat
+2026-02-02 12:13:38,262 [INFO]  Sub 62 FC correlation: r = 0.5887100144156644, p = 0.0
+2026-02-02 12:13:38,263 [INFO] Calculating EC for Sub 62...
+2026-02-02 12:13:39,744 [INFO] Sub 62 EC saved to F:\NPI_results\bs_50\EC_Sub_62.mat
+2026-02-02 12:13:40,424 [INFO]  Sub 63 FC correlation: r = 0.6953575388358699, p = 0.0
+2026-02-02 12:13:40,425 [INFO] Calculating EC for Sub 63...
+2026-02-02 12:13:41,932 [INFO] Sub 63 EC saved to F:\NPI_results\bs_50\EC_Sub_63.mat
+2026-02-02 12:13:42,669 [INFO]  Sub 64 FC correlation: r = 0.8089992957400369, p = 0.0
+2026-02-02 12:13:42,670 [INFO] Calculating EC for Sub 64...
+2026-02-02 12:13:44,164 [INFO] Sub 64 EC saved to F:\NPI_results\bs_50\EC_Sub_64.mat
+2026-02-02 12:13:44,829 [INFO]  Sub 65 FC correlation: r = 0.8181527727994534, p = 0.0
+2026-02-02 12:13:44,830 [INFO] Calculating EC for Sub 65...
+2026-02-02 12:13:46,355 [INFO] Sub 65 EC saved to F:\NPI_results\bs_50\EC_Sub_65.mat
+2026-02-02 12:13:47,023 [INFO]  Sub 66 FC correlation: r = 0.8197172467616765, p = 0.0
+2026-02-02 12:13:47,023 [INFO] Calculating EC for Sub 66...
+2026-02-02 12:13:48,491 [INFO] Sub 66 EC saved to F:\NPI_results\bs_50\EC_Sub_66.mat
+2026-02-02 12:13:49,152 [INFO]  Sub 67 FC correlation: r = 0.7932932173922206, p = 0.0
+2026-02-02 12:13:49,153 [INFO] Calculating EC for Sub 67...
+2026-02-02 12:13:50,618 [INFO] Sub 67 EC saved to F:\NPI_results\bs_50\EC_Sub_67.mat
+2026-02-02 12:13:51,285 [INFO]  Sub 68 FC correlation: r = 0.8848300013736593, p = 0.0
+2026-02-02 12:13:51,286 [INFO] Calculating EC for Sub 68...
+2026-02-02 12:13:52,782 [INFO] Sub 68 EC saved to F:\NPI_results\bs_50\EC_Sub_68.mat
+2026-02-02 12:13:53,449 [INFO]  Sub 69 FC correlation: r = 0.7951212607958084, p = 0.0
+2026-02-02 12:13:53,450 [INFO] Calculating EC for Sub 69...
+2026-02-02 12:13:54,935 [INFO] Sub 69 EC saved to F:\NPI_results\bs_50\EC_Sub_69.mat
+2026-02-02 12:13:55,597 [INFO]  Sub 70 FC correlation: r = 0.8896552870921122, p = 0.0
+2026-02-02 12:13:55,598 [INFO] Calculating EC for Sub 70...
+2026-02-02 12:13:57,077 [INFO] Sub 70 EC saved to F:\NPI_results\bs_50\EC_Sub_70.mat
+2026-02-02 12:13:57,746 [INFO]  Sub 71 FC correlation: r = 0.8657392723409976, p = 0.0
+2026-02-02 12:13:57,747 [INFO] Calculating EC for Sub 71...
+2026-02-02 12:13:59,216 [INFO] Sub 71 EC saved to F:\NPI_results\bs_50\EC_Sub_71.mat
+2026-02-02 12:13:59,910 [INFO]  Sub 72 FC correlation: r = 0.7366465111869385, p = 0.0
+2026-02-02 12:13:59,911 [INFO] Calculating EC for Sub 72...
+2026-02-02 12:14:01,382 [INFO] Sub 72 EC saved to F:\NPI_results\bs_50\EC_Sub_72.mat
+2026-02-02 12:14:02,051 [INFO]  Sub 73 FC correlation: r = 0.8208929940369569, p = 0.0
+2026-02-02 12:14:02,052 [INFO] Calculating EC for Sub 73...
+2026-02-02 12:14:03,534 [INFO] Sub 73 EC saved to F:\NPI_results\bs_50\EC_Sub_73.mat
+2026-02-02 12:14:04,190 [INFO]  Sub 74 FC correlation: r = 0.8489122697591278, p = 0.0
+2026-02-02 12:14:04,191 [INFO] Calculating EC for Sub 74...
+2026-02-02 12:14:05,652 [INFO] Sub 74 EC saved to F:\NPI_results\bs_50\EC_Sub_74.mat
+2026-02-02 12:14:06,316 [INFO]  Sub 75 FC correlation: r = 0.8536794331187494, p = 0.0
+2026-02-02 12:14:06,317 [INFO] Calculating EC for Sub 75...
+2026-02-02 12:14:07,785 [INFO] Sub 75 EC saved to F:\NPI_results\bs_50\EC_Sub_75.mat
+2026-02-02 12:14:08,444 [INFO]  Sub 76 FC correlation: r = 0.6664187255905054, p = 0.0
+2026-02-02 12:14:08,445 [INFO] Calculating EC for Sub 76...
+2026-02-02 12:14:09,914 [INFO] Sub 76 EC saved to F:\NPI_results\bs_50\EC_Sub_76.mat
+2026-02-02 12:14:10,586 [INFO]  Sub 77 FC correlation: r = 0.7146320814529693, p = 0.0
+2026-02-02 12:14:10,587 [INFO] Calculating EC for Sub 77...
+2026-02-02 12:14:12,052 [INFO] Sub 77 EC saved to F:\NPI_results\bs_50\EC_Sub_77.mat
+2026-02-02 12:14:12,720 [INFO]  Sub 78 FC correlation: r = 0.8178601651493409, p = 0.0
+2026-02-02 12:14:12,721 [INFO] Calculating EC for Sub 78...
+2026-02-02 12:14:14,199 [INFO] Sub 78 EC saved to F:\NPI_results\bs_50\EC_Sub_78.mat
+2026-02-02 12:14:14,861 [INFO]  Sub 79 FC correlation: r = 0.9033188133587593, p = 0.0
+2026-02-02 12:14:14,862 [INFO] Calculating EC for Sub 79...
+2026-02-02 12:14:16,318 [INFO] Sub 79 EC saved to F:\NPI_results\bs_50\EC_Sub_79.mat
+2026-02-02 12:14:16,977 [INFO]  Sub 80 FC correlation: r = 0.8495742232607673, p = 0.0
+2026-02-02 12:14:16,978 [INFO] Calculating EC for Sub 80...
+2026-02-02 12:14:18,431 [INFO] Sub 80 EC saved to F:\NPI_results\bs_50\EC_Sub_80.mat
+2026-02-02 12:14:19,097 [INFO]  Sub 81 FC correlation: r = 0.8669207505909863, p = 0.0
+2026-02-02 12:14:19,098 [INFO] Calculating EC for Sub 81...
+2026-02-02 12:14:20,562 [INFO] Sub 81 EC saved to F:\NPI_results\bs_50\EC_Sub_81.mat
+2026-02-02 12:14:21,225 [INFO]  Sub 82 FC correlation: r = 0.7387305240797365, p = 0.0
+2026-02-02 12:14:21,226 [INFO] Calculating EC for Sub 82...
+2026-02-02 12:14:22,692 [INFO] Sub 82 EC saved to F:\NPI_results\bs_50\EC_Sub_82.mat
+2026-02-02 12:14:23,349 [INFO]  Sub 83 FC correlation: r = 0.9129627576275029, p = 0.0
+2026-02-02 12:14:23,350 [INFO] Calculating EC for Sub 83...
+2026-02-02 12:14:24,907 [INFO] Sub 83 EC saved to F:\NPI_results\bs_50\EC_Sub_83.mat
+2026-02-02 12:14:25,576 [INFO]  Sub 84 FC correlation: r = 0.8975209758873002, p = 0.0
+2026-02-02 12:14:25,578 [INFO] Calculating EC for Sub 84...
+2026-02-02 12:14:27,054 [INFO] Sub 84 EC saved to F:\NPI_results\bs_50\EC_Sub_84.mat
+2026-02-02 12:14:27,723 [INFO]  Sub 85 FC correlation: r = 0.7904343213704453, p = 0.0
+2026-02-02 12:14:27,724 [INFO] Calculating EC for Sub 85...
+2026-02-02 12:14:29,193 [INFO] Sub 85 EC saved to F:\NPI_results\bs_50\EC_Sub_85.mat
+2026-02-02 12:14:29,873 [INFO]  Sub 86 FC correlation: r = 0.8878033790885906, p = 0.0
+2026-02-02 12:14:29,874 [INFO] Calculating EC for Sub 86...
+2026-02-02 12:14:31,332 [INFO] Sub 86 EC saved to F:\NPI_results\bs_50\EC_Sub_86.mat
+2026-02-02 12:14:32,003 [INFO]  Sub 87 FC correlation: r = 0.6443741792989408, p = 0.0
+2026-02-02 12:14:32,004 [INFO] Calculating EC for Sub 87...
+2026-02-02 12:14:33,469 [INFO] Sub 87 EC saved to F:\NPI_results\bs_50\EC_Sub_87.mat
+2026-02-02 12:14:34,133 [INFO]  Sub 88 FC correlation: r = 0.7357410108734262, p = 0.0
+2026-02-02 12:14:34,133 [INFO] Calculating EC for Sub 88...
+2026-02-02 12:14:35,609 [INFO] Sub 88 EC saved to F:\NPI_results\bs_50\EC_Sub_88.mat
+2026-02-02 12:14:36,274 [INFO]  Sub 89 FC correlation: r = 0.7894810606537161, p = 0.0
+2026-02-02 12:14:36,275 [INFO] Calculating EC for Sub 89...
+2026-02-02 12:14:37,758 [INFO] Sub 89 EC saved to F:\NPI_results\bs_50\EC_Sub_89.mat
+2026-02-02 12:14:38,418 [INFO]  Sub 90 FC correlation: r = 0.8013298463193463, p = 0.0
+2026-02-02 12:14:38,419 [INFO] Calculating EC for Sub 90...
+2026-02-02 12:14:39,911 [INFO] Sub 90 EC saved to F:\NPI_results\bs_50\EC_Sub_90.mat
+2026-02-02 12:14:40,574 [INFO]  Sub 91 FC correlation: r = 0.8938096674564687, p = 0.0
+2026-02-02 12:14:40,575 [INFO] Calculating EC for Sub 91...
+2026-02-02 12:14:42,036 [INFO] Sub 91 EC saved to F:\NPI_results\bs_50\EC_Sub_91.mat
+2026-02-02 12:14:42,690 [INFO]  Sub 92 FC correlation: r = 0.8587822517076258, p = 0.0
+2026-02-02 12:14:42,690 [INFO] Calculating EC for Sub 92...
+2026-02-02 12:14:44,182 [INFO] Sub 92 EC saved to F:\NPI_results\bs_50\EC_Sub_92.mat
+2026-02-02 12:14:44,848 [INFO]  Sub 93 FC correlation: r = 0.9358131163880623, p = 0.0
+2026-02-02 12:14:44,848 [INFO] Calculating EC for Sub 93...
+2026-02-02 12:14:46,313 [INFO] Sub 93 EC saved to F:\NPI_results\bs_50\EC_Sub_93.mat
+2026-02-02 12:14:46,990 [INFO]  Sub 94 FC correlation: r = 0.7550423170851531, p = 0.0
+2026-02-02 12:14:46,991 [INFO] Calculating EC for Sub 94...
+2026-02-02 12:14:48,455 [INFO] Sub 94 EC saved to F:\NPI_results\bs_50\EC_Sub_94.mat
+2026-02-02 12:14:49,138 [INFO]  Sub 95 FC correlation: r = 0.8586591904974297, p = 0.0
+2026-02-02 12:14:49,139 [INFO] Calculating EC for Sub 95...
+2026-02-02 12:14:50,604 [INFO] Sub 95 EC saved to F:\NPI_results\bs_50\EC_Sub_95.mat
+2026-02-02 12:14:51,262 [INFO]  Sub 96 FC correlation: r = 0.8323907711697205, p = 0.0
+2026-02-02 12:14:51,263 [INFO] Calculating EC for Sub 96...
+2026-02-02 12:14:52,740 [INFO] Sub 96 EC saved to F:\NPI_results\bs_50\EC_Sub_96.mat
+2026-02-02 12:14:53,401 [INFO]  Sub 97 FC correlation: r = 0.7475054473858077, p = 0.0
+2026-02-02 12:14:53,402 [INFO] Calculating EC for Sub 97...
+2026-02-02 12:14:54,877 [INFO] Sub 97 EC saved to F:\NPI_results\bs_50\EC_Sub_97.mat
+2026-02-02 12:14:55,553 [INFO]  Sub 98 FC correlation: r = 0.8910615840278233, p = 0.0
+2026-02-02 12:14:55,553 [INFO] Calculating EC for Sub 98...
+2026-02-02 12:14:57,016 [INFO] Sub 98 EC saved to F:\NPI_results\bs_50\EC_Sub_98.mat
+2026-02-02 12:14:57,685 [INFO]  Sub 99 FC correlation: r = 0.6477884162930441, p = 0.0
+2026-02-02 12:14:57,686 [INFO] Calculating EC for Sub 99...
+2026-02-02 12:14:59,156 [INFO] Sub 99 EC saved to F:\NPI_results\bs_50\EC_Sub_99.mat
+2026-02-02 12:14:59,823 [INFO]  Sub 100 FC correlation: r = 0.6194674151405171, p = 0.0
+2026-02-02 12:14:59,824 [INFO] Calculating EC for Sub 100...
+2026-02-02 12:15:01,306 [INFO] Sub 100 EC saved to F:\NPI_results\bs_50\EC_Sub_100.mat
+2026-02-02 12:15:01,974 [INFO]  Sub 101 FC correlation: r = 0.7022548189228525, p = 0.0
+2026-02-02 12:15:01,975 [INFO] Calculating EC for Sub 101...
+2026-02-02 12:15:03,438 [INFO] Sub 101 EC saved to F:\NPI_results\bs_50\EC_Sub_101.mat
+2026-02-02 12:15:04,106 [INFO]  Sub 102 FC correlation: r = 0.8977107856003375, p = 0.0
+2026-02-02 12:15:04,107 [INFO] Calculating EC for Sub 102...
+2026-02-02 12:15:05,590 [INFO] Sub 102 EC saved to F:\NPI_results\bs_50\EC_Sub_102.mat
+2026-02-02 12:15:06,255 [INFO]  Sub 103 FC correlation: r = 0.8836553564054418, p = 0.0
+2026-02-02 12:15:06,255 [INFO] Calculating EC for Sub 103...
+2026-02-02 12:15:07,762 [INFO] Sub 103 EC saved to F:\NPI_results\bs_50\EC_Sub_103.mat
+2026-02-02 12:15:08,423 [INFO]  Sub 104 FC correlation: r = 0.8506469363611379, p = 0.0
+2026-02-02 12:15:08,424 [INFO] Calculating EC for Sub 104...
+2026-02-02 12:15:09,892 [INFO] Sub 104 EC saved to F:\NPI_results\bs_50\EC_Sub_104.mat
+2026-02-02 12:15:10,546 [INFO]  Sub 105 FC correlation: r = 0.8710615787872283, p = 0.0
+2026-02-02 12:15:10,547 [INFO] Calculating EC for Sub 105...
+2026-02-02 12:15:12,026 [INFO] Sub 105 EC saved to F:\NPI_results\bs_50\EC_Sub_105.mat
+2026-02-02 12:15:12,701 [INFO]  Sub 106 FC correlation: r = 0.6029468443362045, p = 0.0
+2026-02-02 12:15:12,701 [INFO] Calculating EC for Sub 106...
+2026-02-02 12:15:14,212 [INFO] Sub 106 EC saved to F:\NPI_results\bs_50\EC_Sub_106.mat
+2026-02-02 12:15:14,886 [INFO]  Sub 107 FC correlation: r = 0.8015335067115641, p = 0.0
+2026-02-02 12:15:14,887 [INFO] Calculating EC for Sub 107...
+2026-02-02 12:15:16,374 [INFO] Sub 107 EC saved to F:\NPI_results\bs_50\EC_Sub_107.mat
+2026-02-02 12:15:17,050 [INFO]  Sub 108 FC correlation: r = 0.801724963647919, p = 0.0
+2026-02-02 12:15:17,051 [INFO] Calculating EC for Sub 108...
+2026-02-02 12:15:18,539 [INFO] Sub 108 EC saved to F:\NPI_results\bs_50\EC_Sub_108.mat
+2026-02-02 12:15:19,213 [INFO]  Sub 109 FC correlation: r = 0.8802771006462846, p = 0.0
+2026-02-02 12:15:19,213 [INFO] Calculating EC for Sub 109...
+2026-02-02 12:15:20,670 [INFO] Sub 109 EC saved to F:\NPI_results\bs_50\EC_Sub_109.mat
+2026-02-02 12:15:21,325 [INFO]  Sub 110 FC correlation: r = 0.850017912312346, p = 0.0
+2026-02-02 12:15:21,326 [INFO] Calculating EC for Sub 110...
+2026-02-02 12:15:22,788 [INFO] Sub 110 EC saved to F:\NPI_results\bs_50\EC_Sub_110.mat
+2026-02-02 12:15:23,449 [INFO]  Sub 111 FC correlation: r = 0.7994852605746078, p = 0.0
+2026-02-02 12:15:23,449 [INFO] Calculating EC for Sub 111...
+2026-02-02 12:15:24,920 [INFO] Sub 111 EC saved to F:\NPI_results\bs_50\EC_Sub_111.mat
+2026-02-02 12:15:25,592 [INFO]  Sub 112 FC correlation: r = 0.8542423037606006, p = 0.0
+2026-02-02 12:15:25,592 [INFO] Calculating EC for Sub 112...
+2026-02-02 12:15:27,073 [INFO] Sub 112 EC saved to F:\NPI_results\bs_50\EC_Sub_112.mat
+2026-02-02 12:15:27,742 [INFO]  Sub 113 FC correlation: r = 0.8446086555888657, p = 0.0
+2026-02-02 12:15:27,743 [INFO] Calculating EC for Sub 113...
+2026-02-02 12:15:29,191 [INFO] Sub 113 EC saved to F:\NPI_results\bs_50\EC_Sub_113.mat
+2026-02-02 12:15:29,850 [INFO]  Sub 114 FC correlation: r = 0.5733415930195279, p = 0.0
+2026-02-02 12:15:29,851 [INFO] Calculating EC for Sub 114...
+2026-02-02 12:15:31,316 [INFO] Sub 114 EC saved to F:\NPI_results\bs_50\EC_Sub_114.mat
+2026-02-02 12:15:31,991 [INFO]  Sub 115 FC correlation: r = 0.8325265736030447, p = 0.0
+2026-02-02 12:15:31,992 [INFO] Calculating EC for Sub 115...
+2026-02-02 12:15:33,450 [INFO] Sub 115 EC saved to F:\NPI_results\bs_50\EC_Sub_115.mat
+2026-02-02 12:15:34,124 [INFO]  Sub 116 FC correlation: r = 0.8229215255481372, p = 0.0
+2026-02-02 12:15:34,125 [INFO] Calculating EC for Sub 116...
+2026-02-02 12:15:35,639 [INFO] Sub 116 EC saved to F:\NPI_results\bs_50\EC_Sub_116.mat
+2026-02-02 12:15:36,307 [INFO]  Sub 117 FC correlation: r = 0.8086469736133466, p = 0.0
+2026-02-02 12:15:36,308 [INFO] Calculating EC for Sub 117...
+2026-02-02 12:15:37,797 [INFO] Sub 117 EC saved to F:\NPI_results\bs_50\EC_Sub_117.mat
+2026-02-02 12:15:38,459 [INFO]  Sub 118 FC correlation: r = 0.7865451218492391, p = 0.0
+2026-02-02 12:15:38,460 [INFO] Calculating EC for Sub 118...
+2026-02-02 12:15:39,939 [INFO] Sub 118 EC saved to F:\NPI_results\bs_50\EC_Sub_118.mat
+2026-02-02 12:15:40,620 [INFO]  Sub 119 FC correlation: r = 0.8280201402997456, p = 0.0
+2026-02-02 12:15:40,620 [INFO] Calculating EC for Sub 119...
+2026-02-02 12:15:42,070 [INFO] Sub 119 EC saved to F:\NPI_results\bs_50\EC_Sub_119.mat
+2026-02-02 12:15:42,740 [INFO]  Sub 120 FC correlation: r = 0.8762758341615505, p = 0.0
+2026-02-02 12:15:42,741 [INFO] Calculating EC for Sub 120...
+2026-02-02 12:15:44,215 [INFO] Sub 120 EC saved to F:\NPI_results\bs_50\EC_Sub_120.mat
+2026-02-02 12:15:44,878 [INFO]  Sub 121 FC correlation: r = 0.8580994680482291, p = 0.0
+2026-02-02 12:15:44,879 [INFO] Calculating EC for Sub 121...
+2026-02-02 12:15:46,363 [INFO] Sub 121 EC saved to F:\NPI_results\bs_50\EC_Sub_121.mat
+2026-02-02 12:15:47,029 [INFO]  Sub 122 FC correlation: r = 0.856911316260138, p = 0.0
+2026-02-02 12:15:47,029 [INFO] Calculating EC for Sub 122...
+2026-02-02 12:15:48,491 [INFO] Sub 122 EC saved to F:\NPI_results\bs_50\EC_Sub_122.mat
+2026-02-02 12:15:49,156 [INFO]  Sub 123 FC correlation: r = 0.7765802459997005, p = 0.0
+2026-02-02 12:15:49,157 [INFO] Calculating EC for Sub 123...
+2026-02-02 12:15:50,621 [INFO] Sub 123 EC saved to F:\NPI_results\bs_50\EC_Sub_123.mat
+2026-02-02 12:15:51,294 [INFO]  Sub 124 FC correlation: r = 0.8344630676781397, p = 0.0
+2026-02-02 12:15:51,295 [INFO] Calculating EC for Sub 124...
+2026-02-02 12:15:52,757 [INFO] Sub 124 EC saved to F:\NPI_results\bs_50\EC_Sub_124.mat
+2026-02-02 12:15:53,425 [INFO]  Sub 125 FC correlation: r = 0.8734256310267163, p = 0.0
+2026-02-02 12:15:53,426 [INFO] Calculating EC for Sub 125...
+2026-02-02 12:15:54,888 [INFO] Sub 125 EC saved to F:\NPI_results\bs_50\EC_Sub_125.mat
+2026-02-02 12:15:55,546 [INFO]  Sub 126 FC correlation: r = 0.8670668851659985, p = 0.0
+2026-02-02 12:15:55,547 [INFO] Calculating EC for Sub 126...
+2026-02-02 12:15:57,038 [INFO] Sub 126 EC saved to F:\NPI_results\bs_50\EC_Sub_126.mat
+2026-02-02 12:15:57,709 [INFO]  Sub 127 FC correlation: r = 0.7038166582749764, p = 0.0
+2026-02-02 12:15:57,709 [INFO] Calculating EC for Sub 127...
+2026-02-02 12:15:59,181 [INFO] Sub 127 EC saved to F:\NPI_results\bs_50\EC_Sub_127.mat
+2026-02-02 12:15:59,868 [INFO]  Sub 128 FC correlation: r = 0.8916763561453618, p = 0.0
+2026-02-02 12:15:59,869 [INFO] Calculating EC for Sub 128...
+2026-02-02 12:16:01,325 [INFO] Sub 128 EC saved to F:\NPI_results\bs_50\EC_Sub_128.mat
+2026-02-02 12:16:01,994 [INFO]  Sub 129 FC correlation: r = 0.845394725800736, p = 0.0
+2026-02-02 12:16:01,995 [INFO] Calculating EC for Sub 129...
+2026-02-02 12:16:03,460 [INFO] Sub 129 EC saved to F:\NPI_results\bs_50\EC_Sub_129.mat
+2026-02-02 12:16:04,131 [INFO]  Sub 130 FC correlation: r = 0.41847907311890037, p = 0.0
+2026-02-02 12:16:04,131 [INFO] Calculating EC for Sub 130...
+2026-02-02 12:16:05,624 [INFO] Sub 130 EC saved to F:\NPI_results\bs_50\EC_Sub_130.mat
+2026-02-02 12:16:06,290 [INFO]  Sub 131 FC correlation: r = 0.7334466904370335, p = 0.0
+2026-02-02 12:16:06,291 [INFO] Calculating EC for Sub 131...
+2026-02-02 12:16:07,762 [INFO] Sub 131 EC saved to F:\NPI_results\bs_50\EC_Sub_131.mat
+2026-02-02 12:16:08,436 [INFO]  Sub 132 FC correlation: r = 0.8427340454491363, p = 0.0
+2026-02-02 12:16:08,437 [INFO] Calculating EC for Sub 132...
+2026-02-02 12:16:09,905 [INFO] Sub 132 EC saved to F:\NPI_results\bs_50\EC_Sub_132.mat
+2026-02-02 12:16:10,568 [INFO]  Sub 133 FC correlation: r = 0.8849980489208441, p = 0.0
+2026-02-02 12:16:10,568 [INFO] Calculating EC for Sub 133...
+2026-02-02 12:16:12,041 [INFO] Sub 133 EC saved to F:\NPI_results\bs_50\EC_Sub_133.mat
+2026-02-02 12:16:12,701 [INFO]  Sub 134 FC correlation: r = 0.8448616744509245, p = 0.0
+2026-02-02 12:16:12,701 [INFO] Calculating EC for Sub 134...
+2026-02-02 12:16:14,213 [INFO] Sub 134 EC saved to F:\NPI_results\bs_50\EC_Sub_134.mat
+2026-02-02 12:16:14,880 [INFO]  Sub 135 FC correlation: r = 0.8631475102893784, p = 0.0
+2026-02-02 12:16:14,881 [INFO] Calculating EC for Sub 135...
+2026-02-02 12:16:16,414 [INFO] Sub 135 EC saved to F:\NPI_results\bs_50\EC_Sub_135.mat
+2026-02-02 12:16:17,102 [INFO]  Sub 136 FC correlation: r = 0.8695351879104305, p = 0.0
+2026-02-02 12:16:17,103 [INFO] Calculating EC for Sub 136...
+2026-02-02 12:16:18,617 [INFO] Sub 136 EC saved to F:\NPI_results\bs_50\EC_Sub_136.mat
+2026-02-02 12:16:19,278 [INFO]  Sub 137 FC correlation: r = 0.8442502352090278, p = 0.0
+2026-02-02 12:16:19,279 [INFO] Calculating EC for Sub 137...
+2026-02-02 12:16:20,804 [INFO] Sub 137 EC saved to F:\NPI_results\bs_50\EC_Sub_137.mat
+2026-02-02 12:16:21,469 [INFO]  Sub 138 FC correlation: r = 0.8481541995172726, p = 0.0
+2026-02-02 12:16:21,469 [INFO] Calculating EC for Sub 138...
+2026-02-02 12:16:22,941 [INFO] Sub 138 EC saved to F:\NPI_results\bs_50\EC_Sub_138.mat
+2026-02-02 12:16:23,624 [INFO]  Sub 139 FC correlation: r = 0.8491729001300103, p = 0.0
+2026-02-02 12:16:23,624 [INFO] Calculating EC for Sub 139...
+2026-02-02 12:16:25,142 [INFO] Sub 139 EC saved to F:\NPI_results\bs_50\EC_Sub_139.mat
+2026-02-02 12:16:25,809 [INFO]  Sub 140 FC correlation: r = 0.7100743687246036, p = 0.0
+2026-02-02 12:16:25,810 [INFO] Calculating EC for Sub 140...
+2026-02-02 12:16:27,318 [INFO] Sub 140 EC saved to F:\NPI_results\bs_50\EC_Sub_140.mat
+2026-02-02 12:16:28,006 [INFO]  Sub 141 FC correlation: r = 0.8081743858933668, p = 0.0
+2026-02-02 12:16:28,007 [INFO] Calculating EC for Sub 141...
+2026-02-02 12:16:29,477 [INFO] Sub 141 EC saved to F:\NPI_results\bs_50\EC_Sub_141.mat
+2026-02-02 12:16:30,147 [INFO]  Sub 142 FC correlation: r = 0.808431496421325, p = 0.0
+2026-02-02 12:16:30,147 [INFO] Calculating EC for Sub 142...
+2026-02-02 12:16:31,671 [INFO] Sub 142 EC saved to F:\NPI_results\bs_50\EC_Sub_142.mat
+2026-02-02 12:16:32,376 [INFO]  Sub 143 FC correlation: r = 0.7477191115968167, p = 0.0
+2026-02-02 12:16:32,377 [INFO] Calculating EC for Sub 143...
+2026-02-02 12:16:33,942 [INFO] Sub 143 EC saved to F:\NPI_results\bs_50\EC_Sub_143.mat
+2026-02-02 12:16:34,620 [INFO]  Sub 144 FC correlation: r = 0.8193036144739277, p = 0.0
+2026-02-02 12:16:34,621 [INFO] Calculating EC for Sub 144...
+2026-02-02 12:16:36,160 [INFO] Sub 144 EC saved to F:\NPI_results\bs_50\EC_Sub_144.mat
+2026-02-02 12:16:36,829 [INFO]  Sub 145 FC correlation: r = 0.8465020387652179, p = 0.0
+2026-02-02 12:16:36,830 [INFO] Calculating EC for Sub 145...
+2026-02-02 12:16:38,417 [INFO] Sub 145 EC saved to F:\NPI_results\bs_50\EC_Sub_145.mat
+2026-02-02 12:16:39,094 [INFO]  Sub 146 FC correlation: r = 0.7294748733615706, p = 0.0
+2026-02-02 12:16:39,095 [INFO] Calculating EC for Sub 146...
+2026-02-02 12:16:40,660 [INFO] Sub 146 EC saved to F:\NPI_results\bs_50\EC_Sub_146.mat
+2026-02-02 12:16:41,349 [INFO]  Sub 147 FC correlation: r = 0.8588271320473565, p = 0.0
+2026-02-02 12:16:41,350 [INFO] Calculating EC for Sub 147...
+2026-02-02 12:16:42,895 [INFO] Sub 147 EC saved to F:\NPI_results\bs_50\EC_Sub_147.mat
+2026-02-02 12:16:43,571 [INFO]  Sub 148 FC correlation: r = 0.8335035353330775, p = 0.0
+2026-02-02 12:16:43,572 [INFO] Calculating EC for Sub 148...
+2026-02-02 12:16:45,157 [INFO] Sub 148 EC saved to F:\NPI_results\bs_50\EC_Sub_148.mat
+2026-02-02 12:16:45,858 [INFO]  Sub 149 FC correlation: r = 0.7740416488178488, p = 0.0
+2026-02-02 12:16:45,859 [INFO] Calculating EC for Sub 149...
+2026-02-02 12:16:47,412 [INFO] Sub 149 EC saved to F:\NPI_results\bs_50\EC_Sub_149.mat
+2026-02-02 12:16:48,124 [INFO]  Sub 150 FC correlation: r = 0.7912279825522944, p = 0.0
+2026-02-02 12:16:48,125 [INFO] Calculating EC for Sub 150...
+2026-02-02 12:16:49,697 [INFO] Sub 150 EC saved to F:\NPI_results\bs_50\EC_Sub_150.mat
+2026-02-02 12:16:50,365 [INFO]  Sub 151 FC correlation: r = 0.8309909845532347, p = 0.0
+2026-02-02 12:16:50,366 [INFO] Calculating EC for Sub 151...
+2026-02-02 12:16:51,883 [INFO] Sub 151 EC saved to F:\NPI_results\bs_50\EC_Sub_151.mat
+2026-02-02 12:16:52,555 [INFO]  Sub 152 FC correlation: r = 0.859229075089736, p = 0.0
+2026-02-02 12:16:52,556 [INFO] Calculating EC for Sub 152...
+2026-02-02 12:16:54,089 [INFO] Sub 152 EC saved to F:\NPI_results\bs_50\EC_Sub_152.mat
+2026-02-02 12:16:54,772 [INFO]  Sub 153 FC correlation: r = 0.7978052307428581, p = 0.0
+2026-02-02 12:16:54,773 [INFO] Calculating EC for Sub 153...
+2026-02-02 12:16:56,285 [INFO] Sub 153 EC saved to F:\NPI_results\bs_50\EC_Sub_153.mat
+2026-02-02 12:16:56,960 [INFO]  Sub 154 FC correlation: r = 0.8628574524618019, p = 0.0
+2026-02-02 12:16:56,961 [INFO] Calculating EC for Sub 154...
+2026-02-02 12:16:58,451 [INFO] Sub 154 EC saved to F:\NPI_results\bs_50\EC_Sub_154.mat
+2026-02-02 12:16:59,141 [INFO]  Sub 155 FC correlation: r = 0.696640220771193, p = 0.0
+2026-02-02 12:16:59,142 [INFO] Calculating EC for Sub 155...
+2026-02-02 12:17:00,638 [INFO] Sub 155 EC saved to F:\NPI_results\bs_50\EC_Sub_155.mat
+2026-02-02 12:17:01,304 [INFO]  Sub 156 FC correlation: r = 0.835797434957934, p = 0.0
+2026-02-02 12:17:01,305 [INFO] Calculating EC for Sub 156...
+2026-02-02 12:17:02,810 [INFO] Sub 156 EC saved to F:\NPI_results\bs_50\EC_Sub_156.mat
+2026-02-02 12:17:03,497 [INFO]  Sub 157 FC correlation: r = 0.8490274419575363, p = 0.0
+2026-02-02 12:17:03,498 [INFO] Calculating EC for Sub 157...
+2026-02-02 12:17:04,983 [INFO] Sub 157 EC saved to F:\NPI_results\bs_50\EC_Sub_157.mat
+2026-02-02 12:17:05,657 [INFO]  Sub 158 FC correlation: r = 0.835558646581882, p = 0.0
+2026-02-02 12:17:05,658 [INFO] Calculating EC for Sub 158...
+2026-02-02 12:17:07,196 [INFO] Sub 158 EC saved to F:\NPI_results\bs_50\EC_Sub_158.mat
+2026-02-02 12:17:07,862 [INFO]  Sub 159 FC correlation: r = 0.8278323058146978, p = 0.0
+2026-02-02 12:17:07,863 [INFO] Calculating EC for Sub 159...
+2026-02-02 12:17:09,331 [INFO] Sub 159 EC saved to F:\NPI_results\bs_50\EC_Sub_159.mat
+2026-02-02 12:17:09,999 [INFO]  Sub 160 FC correlation: r = 0.8425475274741104, p = 0.0
+2026-02-02 12:17:10,000 [INFO] Calculating EC for Sub 160...
+2026-02-02 12:17:11,517 [INFO] Sub 160 EC saved to F:\NPI_results\bs_50\EC_Sub_160.mat
+2026-02-02 12:17:12,192 [INFO]  Sub 161 FC correlation: r = 0.8113528978608007, p = 0.0
+2026-02-02 12:17:12,193 [INFO] Calculating EC for Sub 161...
+2026-02-02 12:17:13,705 [INFO] Sub 161 EC saved to F:\NPI_results\bs_50\EC_Sub_161.mat
+2026-02-02 12:17:14,380 [INFO]  Sub 162 FC correlation: r = 0.8678837742688307, p = 0.0
+2026-02-02 12:17:14,381 [INFO] Calculating EC for Sub 162...
+2026-02-02 12:17:15,896 [INFO] Sub 162 EC saved to F:\NPI_results\bs_50\EC_Sub_162.mat
+2026-02-02 12:17:16,571 [INFO]  Sub 163 FC correlation: r = 0.8022473560705479, p = 0.0
+2026-02-02 12:17:16,572 [INFO] Calculating EC for Sub 163...
+2026-02-02 12:17:18,058 [INFO] Sub 163 EC saved to F:\NPI_results\bs_50\EC_Sub_163.mat
+2026-02-02 12:17:18,724 [INFO]  Sub 164 FC correlation: r = 0.8085214719698335, p = 0.0
+2026-02-02 12:17:18,725 [INFO] Calculating EC for Sub 164...
+2026-02-02 12:17:20,236 [INFO] Sub 164 EC saved to F:\NPI_results\bs_50\EC_Sub_164.mat
+2026-02-02 12:17:20,925 [INFO]  Sub 165 FC correlation: r = 0.8765480863270682, p = 0.0
+2026-02-02 12:17:20,926 [INFO] Calculating EC for Sub 165...
+2026-02-02 12:17:22,451 [INFO] Sub 165 EC saved to F:\NPI_results\bs_50\EC_Sub_165.mat
+2026-02-02 12:17:23,130 [INFO]  Sub 166 FC correlation: r = 0.6838489181406467, p = 0.0
+2026-02-02 12:17:23,130 [INFO] Calculating EC for Sub 166...
+2026-02-02 12:17:24,672 [INFO] Sub 166 EC saved to F:\NPI_results\bs_50\EC_Sub_166.mat
+2026-02-02 12:17:25,343 [INFO]  Sub 167 FC correlation: r = 0.8739874569309067, p = 0.0
+2026-02-02 12:17:25,343 [INFO] Calculating EC for Sub 167...
+2026-02-02 12:17:26,878 [INFO] Sub 167 EC saved to F:\NPI_results\bs_50\EC_Sub_167.mat
+2026-02-02 12:17:27,538 [INFO]  Sub 168 FC correlation: r = 0.8031281972284966, p = 0.0
+2026-02-02 12:17:27,539 [INFO] Calculating EC for Sub 168...
+2026-02-02 12:17:29,048 [INFO] Sub 168 EC saved to F:\NPI_results\bs_50\EC_Sub_168.mat
+2026-02-02 12:17:29,711 [INFO]  Sub 169 FC correlation: r = 0.7726254091035346, p = 0.0
+2026-02-02 12:17:29,711 [INFO] Calculating EC for Sub 169...
+2026-02-02 12:17:31,231 [INFO] Sub 169 EC saved to F:\NPI_results\bs_50\EC_Sub_169.mat
+2026-02-02 12:17:31,894 [INFO]  Sub 170 FC correlation: r = 0.8408543830854234, p = 0.0
+2026-02-02 12:17:31,894 [INFO] Calculating EC for Sub 170...
+2026-02-02 12:17:33,373 [INFO] Sub 170 EC saved to F:\NPI_results\bs_50\EC_Sub_170.mat
+2026-02-02 12:17:34,026 [INFO]  Sub 171 FC correlation: r = 0.8227622715876075, p = 0.0
+2026-02-02 12:17:34,027 [INFO] Calculating EC for Sub 171...
+2026-02-02 12:17:35,501 [INFO] Sub 171 EC saved to F:\NPI_results\bs_50\EC_Sub_171.mat
+2026-02-02 12:17:36,181 [INFO]  Sub 172 FC correlation: r = 0.860279141551879, p = 0.0
+2026-02-02 12:17:36,182 [INFO] Calculating EC for Sub 172...
+2026-02-02 12:17:37,676 [INFO] Sub 172 EC saved to F:\NPI_results\bs_50\EC_Sub_172.mat
+2026-02-02 12:17:38,354 [INFO]  Sub 173 FC correlation: r = 0.866144070726177, p = 0.0
+2026-02-02 12:17:38,355 [INFO] Calculating EC for Sub 173...
+2026-02-02 12:17:39,883 [INFO] Sub 173 EC saved to F:\NPI_results\bs_50\EC_Sub_173.mat
+2026-02-02 12:17:40,553 [INFO]  Sub 174 FC correlation: r = 0.7084970900656883, p = 0.0
+2026-02-02 12:17:40,553 [INFO] Calculating EC for Sub 174...
+2026-02-02 12:17:42,084 [INFO] Sub 174 EC saved to F:\NPI_results\bs_50\EC_Sub_174.mat
+2026-02-02 12:17:42,792 [INFO]  Sub 175 FC correlation: r = 0.7713156448136385, p = 0.0
+2026-02-02 12:17:42,793 [INFO] Calculating EC for Sub 175...
+2026-02-02 12:17:44,436 [INFO] Sub 175 EC saved to F:\NPI_results\bs_50\EC_Sub_175.mat
+2026-02-02 12:17:45,112 [INFO]  Sub 176 FC correlation: r = 0.8111591679229281, p = 0.0
+2026-02-02 12:17:45,113 [INFO] Calculating EC for Sub 176...
+2026-02-02 12:17:46,635 [INFO] Sub 176 EC saved to F:\NPI_results\bs_50\EC_Sub_176.mat
+2026-02-02 12:17:46,642 [INFO] 
+统计结果已保存至: F:\NPI_results\bs_50\NPI_Statistics_Summary.csv
+2026-02-02 15:43:42,701 [INFO] ============================== FC and EC START ==============================
+2026-02-02 15:43:42,702 [INFO] ================================================================================
+2026-02-02 15:43:43,835 [INFO]  Sub 0 FC correlation: r = 0.8511669451927095, p = 0.0
+2026-02-02 15:43:43,836 [INFO] Calculating EC for Sub 0...
+2026-02-02 15:43:45,565 [INFO] Sub 0 EC saved to F:\NPI_results\bs_50\EC_Sub_0.mat
+2026-02-02 15:43:46,276 [INFO]  Sub 1 FC correlation: r = 0.7510043664665316, p = 0.0
+2026-02-02 15:43:46,277 [INFO] Calculating EC for Sub 1...
+2026-02-02 15:43:47,742 [INFO] Sub 1 EC saved to F:\NPI_results\bs_50\EC_Sub_1.mat
+2026-02-02 15:43:48,406 [INFO]  Sub 2 FC correlation: r = 0.6315772748919398, p = 0.0
+2026-02-02 15:43:48,406 [INFO] Calculating EC for Sub 2...
+2026-02-02 15:43:49,892 [INFO] Sub 2 EC saved to F:\NPI_results\bs_50\EC_Sub_2.mat
+2026-02-02 15:43:50,569 [INFO]  Sub 3 FC correlation: r = 0.893883248761048, p = 0.0
+2026-02-02 15:43:50,570 [INFO] Calculating EC for Sub 3...
+2026-02-02 15:43:52,035 [INFO] Sub 3 EC saved to F:\NPI_results\bs_50\EC_Sub_3.mat
+2026-02-02 15:43:52,695 [INFO]  Sub 4 FC correlation: r = 0.7940426964095952, p = 0.0
+2026-02-02 15:43:52,696 [INFO] Calculating EC for Sub 4...
+2026-02-02 15:43:54,179 [INFO] Sub 4 EC saved to F:\NPI_results\bs_50\EC_Sub_4.mat
+2026-02-02 15:43:54,185 [INFO] 
+统计结果已保存至: F:\NPI_results\bs_50\NPI_Statistics_Summary_20260202_154354.csv
+2026-02-02 15:49:42,723 [INFO] ============================== FC and EC START ==============================
+2026-02-02 15:49:42,724 [INFO] ================================================================================
+2026-02-02 15:49:43,792 [INFO]  Sub 0 FC correlation: r = 0.8065765030271329, p = 0.0
+2026-02-02 15:49:43,793 [INFO] Calculating EC for Sub 0...
+2026-02-02 15:49:45,432 [INFO] Sub 0 EC saved to F:\NPI_results\bs_50\EC_Sub_0.mat
+2026-02-02 15:49:46,109 [INFO]  Sub 1 FC correlation: r = 0.6833633293344458, p = 0.0
+2026-02-02 15:49:46,110 [INFO] Calculating EC for Sub 1...
+2026-02-02 15:49:47,581 [INFO] Sub 1 EC saved to F:\NPI_results\bs_50\EC_Sub_1.mat
+2026-02-02 15:49:48,249 [INFO]  Sub 2 FC correlation: r = 0.6042982839354141, p = 0.0
+2026-02-02 15:49:48,251 [INFO] Calculating EC for Sub 2...
+2026-02-02 15:49:49,695 [INFO] Sub 2 EC saved to F:\NPI_results\bs_50\EC_Sub_2.mat
+2026-02-02 15:49:50,361 [INFO]  Sub 3 FC correlation: r = 0.8891296683862275, p = 0.0
+2026-02-02 15:49:50,362 [INFO] Calculating EC for Sub 3...
+2026-02-02 15:49:51,810 [INFO] Sub 3 EC saved to F:\NPI_results\bs_50\EC_Sub_3.mat
+2026-02-02 15:49:52,475 [INFO]  Sub 4 FC correlation: r = 0.7972433993293957, p = 0.0
+2026-02-02 15:49:52,476 [INFO] Calculating EC for Sub 4...
+2026-02-02 15:49:53,941 [INFO] Sub 4 EC saved to F:\NPI_results\bs_50\EC_Sub_4.mat
+2026-02-02 15:49:54,608 [INFO]  Sub 5 FC correlation: r = 0.6236695673418502, p = 0.0
+2026-02-02 15:49:54,609 [INFO] Calculating EC for Sub 5...
+2026-02-02 15:49:56,209 [INFO] Sub 5 EC saved to F:\NPI_results\bs_50\EC_Sub_5.mat
+2026-02-02 15:49:56,876 [INFO]  Sub 6 FC correlation: r = 0.7042935812053169, p = 0.0
+2026-02-02 15:49:56,877 [INFO] Calculating EC for Sub 6...
+2026-02-02 15:49:58,333 [INFO] Sub 6 EC saved to F:\NPI_results\bs_50\EC_Sub_6.mat
+2026-02-02 15:49:58,997 [INFO]  Sub 7 FC correlation: r = 0.8351012639761477, p = 0.0
+2026-02-02 15:49:58,998 [INFO] Calculating EC for Sub 7...
+2026-02-02 15:50:00,446 [INFO] Sub 7 EC saved to F:\NPI_results\bs_50\EC_Sub_7.mat
+2026-02-02 15:50:00,452 [INFO] 
+统计结果已保存至: F:\NPI_results\bs_50\NPI_Statistics_Summary_20260202_155000.csv
+2026-02-02 15:55:08,732 [INFO] ============================== FC and EC START ==============================
+2026-02-02 15:55:08,733 [INFO] ================================================================================
+2026-02-02 15:55:09,614 [INFO]  Sub 0 FC correlation: r = 0.7485106800652588, p = 0.0
+2026-02-02 15:55:09,615 [INFO] Calculating EC for Sub 0...
+2026-02-02 15:55:11,502 [INFO] Sub 0 EC saved to F:\NPI_results\bs_50\EC_Sub_0.mat
+2026-02-02 15:55:12,258 [INFO]  Sub 1 FC correlation: r = 0.7252225012855301, p = 0.0
+2026-02-02 15:55:12,259 [INFO] Calculating EC for Sub 1...
+2026-02-02 15:55:14,092 [INFO] Sub 1 EC saved to F:\NPI_results\bs_50\EC_Sub_1.mat
+2026-02-02 15:55:14,834 [INFO]  Sub 2 FC correlation: r = 0.6244593165871983, p = 0.0
+2026-02-02 15:55:14,835 [INFO] Calculating EC for Sub 2...
+2026-02-02 15:55:16,624 [INFO] Sub 2 EC saved to F:\NPI_results\bs_50\EC_Sub_2.mat
+2026-02-02 15:55:17,363 [INFO]  Sub 3 FC correlation: r = 0.8874607643671827, p = 0.0
+2026-02-02 15:55:17,364 [INFO] Calculating EC for Sub 3...
+2026-02-02 15:55:19,198 [INFO] Sub 3 EC saved to F:\NPI_results\bs_50\EC_Sub_3.mat
+2026-02-02 15:55:19,940 [INFO]  Sub 4 FC correlation: r = 0.8053509624017439, p = 0.0
+2026-02-02 15:55:19,941 [INFO] Calculating EC for Sub 4...
+2026-02-02 15:55:21,714 [INFO] Sub 4 EC saved to F:\NPI_results\bs_50\EC_Sub_4.mat
+2026-02-02 15:55:22,446 [INFO]  Sub 5 FC correlation: r = 0.6166126806963289, p = 0.0
+2026-02-02 15:55:22,447 [INFO] Calculating EC for Sub 5...
+2026-02-02 15:55:24,235 [INFO] Sub 5 EC saved to F:\NPI_results\bs_50\EC_Sub_5.mat
+2026-02-02 15:55:24,971 [INFO]  Sub 6 FC correlation: r = 0.6917090586103888, p = 0.0
+2026-02-02 15:55:24,972 [INFO] Calculating EC for Sub 6...
+2026-02-02 15:55:26,714 [INFO] Sub 6 EC saved to F:\NPI_results\bs_50\EC_Sub_6.mat
+2026-02-02 15:55:27,473 [INFO]  Sub 7 FC correlation: r = 0.8345603096164166, p = 0.0
+2026-02-02 15:55:27,473 [INFO] Calculating EC for Sub 7...
+2026-02-02 15:55:29,225 [INFO] Sub 7 EC saved to F:\NPI_results\bs_50\EC_Sub_7.mat
+2026-02-02 15:55:29,230 [INFO] 
+统计结果已保存至: F:\NPI_results\bs_50\NPI_Statistics_Summary_20260202_155529.csv
+2026-02-02 16:01:46,727 [INFO] ============================== FC and EC START ==============================
+2026-02-02 16:01:46,728 [INFO] ================================================================================
+2026-02-02 16:01:47,584 [INFO]  Sub 0 FC correlation: r = 0.8162419599092191, p = 0.0
+2026-02-02 16:01:47,584 [INFO] Calculating EC for Sub 0...
+2026-02-02 16:01:49,493 [INFO] Sub 0 EC saved to F:\NPI_results\bs_50\EC_Sub_0.mat
+2026-02-02 16:01:50,220 [INFO]  Sub 1 FC correlation: r = 0.8040989235405567, p = 0.0
+2026-02-02 16:01:50,221 [INFO] Calculating EC for Sub 1...
+2026-02-02 16:01:52,078 [INFO] Sub 1 EC saved to F:\NPI_results\bs_50\EC_Sub_1.mat
+2026-02-02 16:01:52,084 [INFO] 
+统计结果已保存至: F:\NPI_results\bs_50\NPI_Statistics_Summary_20260202_160152.csv
+2026-02-02 16:05:15,306 [INFO] ============================== FC and EC START ==============================
+2026-02-02 16:05:15,307 [INFO] ================================================================================
+2026-02-02 16:05:16,346 [INFO]  Sub 0 FC correlation: r = 0.8398534966856813, p = 0.0
+2026-02-02 16:05:16,348 [INFO] Calculating EC for Sub 0...
+2026-02-02 16:05:18,030 [INFO] Sub 0 EC saved to F:\NPI_results\bs_50\EC_Sub_0.mat
+2026-02-02 16:05:18,699 [INFO]  Sub 1 FC correlation: r = 0.8737851272244205, p = 0.0
+2026-02-02 16:05:18,699 [INFO] Calculating EC for Sub 1...
+2026-02-02 16:05:20,129 [INFO] Sub 1 EC saved to F:\NPI_results\bs_50\EC_Sub_1.mat
+2026-02-02 16:05:20,133 [INFO] 
+统计结果已保存至: F:\NPI_results\bs_50\NPI_Statistics_Summary_20260202_160520.csv
+2026-02-02 16:09:00,859 [INFO] ============================== FC and EC START ==============================
+2026-02-02 16:09:00,861 [INFO] ================================================================================
+2026-02-02 16:09:03,009 [INFO]  Sub 0 FC correlation: r = 0.7993152532063071, p = 0.0
+2026-02-02 16:09:03,010 [INFO] Calculating EC for Sub 0...
+2026-02-02 16:09:04,934 [INFO] Sub 0 EC saved to F:\NPI_results\bs_50\EC_Sub_0.mat
+2026-02-02 16:09:05,755 [INFO]  Sub 1 FC correlation: r = 0.8047410757620738, p = 0.0
+2026-02-02 16:09:05,756 [INFO] Calculating EC for Sub 1...
+2026-02-02 16:09:07,682 [INFO] Sub 1 EC saved to F:\NPI_results\bs_50\EC_Sub_1.mat
+2026-02-02 16:09:07,691 [INFO] 
+统计结果已保存至: F:\NPI_results\bs_50\NPI_Statistics_Summary_20260202_160907.csv
+2026-02-02 16:10:14,959 [INFO] ============================== FC and EC START ==============================
+2026-02-02 16:10:14,961 [INFO] ================================================================================
+2026-02-02 16:10:41,400 [INFO] ============================== FC and EC START ==============================
+2026-02-02 16:10:41,402 [INFO] ================================================================================
+2026-02-02 16:21:34,421 [INFO] ============================== FC and EC START ==============================
+2026-02-02 16:21:34,422 [INFO] ================================================================================
+2026-02-02 16:21:36,303 [INFO]  Sub 0 FC correlation: r = 0.7993152532063071, p = 0.0
+2026-02-02 16:21:36,304 [INFO] Calculating EC for Sub 0...
+2026-02-02 16:21:37,711 [INFO] Sub 0 EC saved to F:\NPI_results\bs_50\EC_Sub_0.mat
+2026-02-02 16:21:38,370 [INFO]  Sub 1 FC correlation: r = 0.8047410757620738, p = 0.0
+2026-02-02 16:21:38,371 [INFO] Calculating EC for Sub 1...
+2026-02-02 16:21:39,764 [INFO] Sub 1 EC saved to F:\NPI_results\bs_50\EC_Sub_1.mat
+2026-02-02 16:21:39,771 [INFO] 
+统计结果已保存至: F:\NPI_results\bs_50\NPI_Statistics_Summary_20260202_162139.csv
+2026-02-02 16:21:42,328 [INFO] ============================== FC and EC START ==============================
+2026-02-02 16:21:42,328 [INFO] ================================================================================
+2026-02-02 16:21:42,999 [INFO]  Sub 0 FC correlation: r = 0.7993152532063071, p = 0.0
+2026-02-02 16:21:43,000 [INFO] Calculating EC for Sub 0...
+2026-02-02 16:21:44,610 [INFO] Sub 0 EC saved to F:\NPI_results\bs_50\EC_Sub_0.mat
+2026-02-02 16:21:45,276 [INFO]  Sub 1 FC correlation: r = 0.8047410757620738, p = 0.0
+2026-02-02 16:21:45,277 [INFO] Calculating EC for Sub 1...
+2026-02-02 16:21:46,694 [INFO] Sub 1 EC saved to F:\NPI_results\bs_50\EC_Sub_1.mat
+2026-02-02 16:21:46,699 [INFO] 
+统计结果已保存至: F:\NPI_results\bs_50\NPI_Statistics_Summary_20260202_162146.csv
+2026-02-02 16:22:11,005 [INFO] ============================== FC and EC START ==============================
+2026-02-02 16:22:11,006 [INFO] ================================================================================
+2026-02-02 16:22:11,754 [INFO]  Sub 0 FC correlation: r = 0.7993152532063071, p = 0.0
+2026-02-02 16:22:11,755 [INFO] Calculating EC for Sub 0...
+2026-02-02 16:22:13,555 [INFO] Sub 0 EC saved to F:\NPI_results\bs_50\EC_Sub_0.mat
+2026-02-02 16:22:14,308 [INFO]  Sub 1 FC correlation: r = 0.8047410757620738, p = 0.0
+2026-02-02 16:22:14,310 [INFO] Calculating EC for Sub 1...
+2026-02-02 16:22:16,074 [INFO] Sub 1 EC saved to F:\NPI_results\bs_50\EC_Sub_1.mat
+2026-02-02 16:22:16,831 [INFO]  Sub 2 FC correlation: r = 0.6093804087651385, p = 0.0
+2026-02-02 16:22:16,832 [INFO] Calculating EC for Sub 2...
+2026-02-02 16:22:18,603 [INFO] Sub 2 EC saved to F:\NPI_results\bs_50\EC_Sub_2.mat
+2026-02-02 16:22:19,363 [INFO]  Sub 3 FC correlation: r = 0.8906006139154076, p = 0.0
+2026-02-02 16:22:19,364 [INFO] Calculating EC for Sub 3...
+2026-02-02 16:22:21,138 [INFO] Sub 3 EC saved to F:\NPI_results\bs_50\EC_Sub_3.mat
+2026-02-02 16:22:21,904 [INFO]  Sub 4 FC correlation: r = 0.8188163757999628, p = 0.0
+2026-02-02 16:22:21,905 [INFO] Calculating EC for Sub 4...
+2026-02-02 16:22:23,680 [INFO] Sub 4 EC saved to F:\NPI_results\bs_50\EC_Sub_4.mat
+2026-02-02 16:22:24,453 [INFO]  Sub 5 FC correlation: r = 0.6623356885694002, p = 0.0
+2026-02-02 16:22:24,453 [INFO] Calculating EC for Sub 5...
+2026-02-02 16:22:26,224 [INFO] Sub 5 EC saved to F:\NPI_results\bs_50\EC_Sub_5.mat
+2026-02-02 16:22:26,230 [INFO] 
+统计结果已保存至: F:\NPI_results\bs_50\NPI_Statistics_Summary_20260202_162226.csv
+2026-02-02 16:38:33,839 [INFO] ============================== FC and EC START ==============================
+2026-02-02 16:38:33,841 [INFO] ================================================================================
+2026-02-02 16:38:34,827 [INFO]  Sub 0 FC correlation: r = 0.7993152532063071, p = 0.0
+2026-02-02 16:38:34,828 [INFO] Calculating EC for Sub 0...
+2026-02-02 16:38:36,620 [INFO] Sub 0 EC saved to F:\NPI_results\bs_50\EC_Sub_0.mat
+2026-02-02 16:38:37,370 [INFO]  Sub 1 FC correlation: r = 0.8047410757620738, p = 0.0
+2026-02-02 16:38:37,371 [INFO] Calculating EC for Sub 1...
+2026-02-02 16:38:39,178 [INFO] Sub 1 EC saved to F:\NPI_results\bs_50\EC_Sub_1.mat
+2026-02-02 16:38:39,931 [INFO]  Sub 2 FC correlation: r = 0.6093804087651385, p = 0.0
+2026-02-02 16:38:39,932 [INFO] Calculating EC for Sub 2...
+2026-02-02 16:38:41,772 [INFO] Sub 2 EC saved to F:\NPI_results\bs_50\EC_Sub_2.mat
+2026-02-02 16:38:42,526 [INFO]  Sub 3 FC correlation: r = 0.8906006139154076, p = 0.0
+2026-02-02 16:38:42,527 [INFO] Calculating EC for Sub 3...
+2026-02-02 16:38:44,273 [INFO] Sub 3 EC saved to F:\NPI_results\bs_50\EC_Sub_3.mat
+2026-02-02 16:38:45,017 [INFO]  Sub 4 FC correlation: r = 0.8188163757999628, p = 0.0
+2026-02-02 16:38:45,018 [INFO] Calculating EC for Sub 4...
+2026-02-02 16:38:46,825 [INFO] Sub 4 EC saved to F:\NPI_results\bs_50\EC_Sub_4.mat
+2026-02-02 16:38:47,570 [INFO]  Sub 5 FC correlation: r = 0.6623356885694002, p = 0.0
+2026-02-02 16:38:47,571 [INFO] Calculating EC for Sub 5...
+2026-02-02 16:38:49,371 [INFO] Sub 5 EC saved to F:\NPI_results\bs_50\EC_Sub_5.mat
+2026-02-02 16:38:50,095 [INFO]  Sub 6 FC correlation: r = 0.6951401898240774, p = 0.0
+2026-02-02 16:38:50,096 [INFO] Calculating EC for Sub 6...
+2026-02-02 16:38:51,835 [INFO] Sub 6 EC saved to F:\NPI_results\bs_50\EC_Sub_6.mat
+2026-02-02 16:38:52,588 [INFO]  Sub 7 FC correlation: r = 0.8553855034998391, p = 0.0
+2026-02-02 16:38:52,590 [INFO] Calculating EC for Sub 7...
+2026-02-02 16:38:54,345 [INFO] Sub 7 EC saved to F:\NPI_results\bs_50\EC_Sub_7.mat
+2026-02-02 16:38:55,090 [INFO]  Sub 8 FC correlation: r = 0.7572040588046203, p = 0.0
+2026-02-02 16:38:55,091 [INFO] Calculating EC for Sub 8...
+2026-02-02 16:38:56,844 [INFO] Sub 8 EC saved to F:\NPI_results\bs_50\EC_Sub_8.mat
+2026-02-02 16:38:57,588 [INFO]  Sub 9 FC correlation: r = 0.9117646238011606, p = 0.0
+2026-02-02 16:38:57,589 [INFO] Calculating EC for Sub 9...
+2026-02-02 16:38:59,342 [INFO] Sub 9 EC saved to F:\NPI_results\bs_50\EC_Sub_9.mat
+2026-02-02 16:39:00,098 [INFO]  Sub 10 FC correlation: r = 0.7240220646308598, p = 0.0
+2026-02-02 16:39:00,098 [INFO] Calculating EC for Sub 10...
+2026-02-02 16:39:01,865 [INFO] Sub 10 EC saved to F:\NPI_results\bs_50\EC_Sub_10.mat
+2026-02-02 16:39:02,615 [INFO]  Sub 11 FC correlation: r = 0.8916805380495021, p = 0.0
+2026-02-02 16:39:02,615 [INFO] Calculating EC for Sub 11...
+2026-02-02 16:39:04,376 [INFO] Sub 11 EC saved to F:\NPI_results\bs_50\EC_Sub_11.mat
+2026-02-02 16:39:05,115 [INFO]  Sub 12 FC correlation: r = 0.895515603588553, p = 0.0
+2026-02-02 16:39:05,116 [INFO] Calculating EC for Sub 12...
+2026-02-02 16:39:06,872 [INFO] Sub 12 EC saved to F:\NPI_results\bs_50\EC_Sub_12.mat
+2026-02-02 16:39:07,641 [INFO]  Sub 13 FC correlation: r = 0.8381187104730388, p = 0.0
+2026-02-02 16:39:07,642 [INFO] Calculating EC for Sub 13...
+2026-02-02 16:39:09,385 [INFO] Sub 13 EC saved to F:\NPI_results\bs_50\EC_Sub_13.mat
+2026-02-02 16:39:10,142 [INFO]  Sub 14 FC correlation: r = 0.5934900552801228, p = 0.0
+2026-02-02 16:39:10,143 [INFO] Calculating EC for Sub 14...
+2026-02-02 16:39:11,888 [INFO] Sub 14 EC saved to F:\NPI_results\bs_50\EC_Sub_14.mat
+2026-02-02 16:39:12,622 [INFO]  Sub 15 FC correlation: r = 0.8397642883377987, p = 0.0
+2026-02-02 16:39:12,623 [INFO] Calculating EC for Sub 15...
+2026-02-02 16:39:14,378 [INFO] Sub 15 EC saved to F:\NPI_results\bs_50\EC_Sub_15.mat
+2026-02-02 16:39:15,123 [INFO]  Sub 16 FC correlation: r = 0.7803772603386171, p = 0.0
+2026-02-02 16:39:15,124 [INFO] Calculating EC for Sub 16...
+2026-02-02 16:39:16,853 [INFO] Sub 16 EC saved to F:\NPI_results\bs_50\EC_Sub_16.mat
+2026-02-02 16:39:17,598 [INFO]  Sub 17 FC correlation: r = 0.8166660169617767, p = 0.0
+2026-02-02 16:39:17,599 [INFO] Calculating EC for Sub 17...
+2026-02-02 16:39:19,351 [INFO] Sub 17 EC saved to F:\NPI_results\bs_50\EC_Sub_17.mat
+2026-02-02 16:39:20,087 [INFO]  Sub 18 FC correlation: r = 0.7916164988054155, p = 0.0
+2026-02-02 16:39:20,088 [INFO] Calculating EC for Sub 18...
+2026-02-02 16:39:21,874 [INFO] Sub 18 EC saved to F:\NPI_results\bs_50\EC_Sub_18.mat
+2026-02-02 16:39:22,628 [INFO]  Sub 19 FC correlation: r = 0.723555030739173, p = 0.0
+2026-02-02 16:39:22,629 [INFO] Calculating EC for Sub 19...
+2026-02-02 16:39:24,399 [INFO] Sub 19 EC saved to F:\NPI_results\bs_50\EC_Sub_19.mat
+2026-02-02 16:39:25,170 [INFO]  Sub 20 FC correlation: r = 0.30164272766985256, p = 0.0
+2026-02-02 16:39:25,171 [INFO] Calculating EC for Sub 20...
+2026-02-02 16:39:26,912 [INFO] Sub 20 EC saved to F:\NPI_results\bs_50\EC_Sub_20.mat
+2026-02-02 16:39:27,663 [INFO]  Sub 21 FC correlation: r = 0.884360602612573, p = 0.0
+2026-02-02 16:39:27,664 [INFO] Calculating EC for Sub 21...
+2026-02-02 16:39:29,405 [INFO] Sub 21 EC saved to F:\NPI_results\bs_50\EC_Sub_21.mat
+2026-02-02 16:39:30,156 [INFO]  Sub 22 FC correlation: r = 0.7692655114331208, p = 0.0
+2026-02-02 16:39:30,157 [INFO] Calculating EC for Sub 22...
+2026-02-02 16:39:31,924 [INFO] Sub 22 EC saved to F:\NPI_results\bs_50\EC_Sub_22.mat
+2026-02-02 16:39:32,662 [INFO]  Sub 23 FC correlation: r = 0.8051711883104603, p = 0.0
+2026-02-02 16:39:32,663 [INFO] Calculating EC for Sub 23...
+2026-02-02 16:39:34,435 [INFO] Sub 23 EC saved to F:\NPI_results\bs_50\EC_Sub_23.mat
+2026-02-02 16:39:35,184 [INFO]  Sub 24 FC correlation: r = 0.8755481053797547, p = 0.0
+2026-02-02 16:39:35,184 [INFO] Calculating EC for Sub 24...
+2026-02-02 16:39:36,917 [INFO] Sub 24 EC saved to F:\NPI_results\bs_50\EC_Sub_24.mat
+2026-02-02 16:39:37,649 [INFO]  Sub 25 FC correlation: r = 0.8078482437735549, p = 0.0
+2026-02-02 16:39:37,650 [INFO] Calculating EC for Sub 25...
+2026-02-02 16:39:39,420 [INFO] Sub 25 EC saved to F:\NPI_results\bs_50\EC_Sub_25.mat
+2026-02-02 16:39:40,141 [INFO]  Sub 26 FC correlation: r = 0.7754082876175717, p = 0.0
+2026-02-02 16:39:40,142 [INFO] Calculating EC for Sub 26...
+2026-02-02 16:39:41,904 [INFO] Sub 26 EC saved to F:\NPI_results\bs_50\EC_Sub_26.mat
+2026-02-02 16:39:42,651 [INFO]  Sub 27 FC correlation: r = 0.9176405446700391, p = 0.0
+2026-02-02 16:39:42,651 [INFO] Calculating EC for Sub 27...
+2026-02-02 16:39:44,390 [INFO] Sub 27 EC saved to F:\NPI_results\bs_50\EC_Sub_27.mat
+2026-02-02 16:39:45,129 [INFO]  Sub 28 FC correlation: r = 0.7811156800366336, p = 0.0
+2026-02-02 16:39:45,130 [INFO] Calculating EC for Sub 28...
+2026-02-02 16:39:46,921 [INFO] Sub 28 EC saved to F:\NPI_results\bs_50\EC_Sub_28.mat
+2026-02-02 16:39:47,660 [INFO]  Sub 29 FC correlation: r = 0.8981420092421493, p = 0.0
+2026-02-02 16:39:47,661 [INFO] Calculating EC for Sub 29...
+2026-02-02 16:39:49,407 [INFO] Sub 29 EC saved to F:\NPI_results\bs_50\EC_Sub_29.mat
+2026-02-02 16:39:50,148 [INFO]  Sub 30 FC correlation: r = 0.905117612244926, p = 0.0
+2026-02-02 16:39:50,148 [INFO] Calculating EC for Sub 30...
+2026-02-02 16:39:51,908 [INFO] Sub 30 EC saved to F:\NPI_results\bs_50\EC_Sub_30.mat
+2026-02-02 16:39:52,670 [INFO]  Sub 31 FC correlation: r = 0.8575223726746686, p = 0.0
+2026-02-02 16:39:52,671 [INFO] Calculating EC for Sub 31...
+2026-02-02 16:39:54,400 [INFO] Sub 31 EC saved to F:\NPI_results\bs_50\EC_Sub_31.mat
+2026-02-02 16:39:55,141 [INFO]  Sub 32 FC correlation: r = 0.7813988417837876, p = 0.0
+2026-02-02 16:39:55,142 [INFO] Calculating EC for Sub 32...
+2026-02-02 16:39:56,886 [INFO] Sub 32 EC saved to F:\NPI_results\bs_50\EC_Sub_32.mat
+2026-02-02 16:39:57,643 [INFO]  Sub 33 FC correlation: r = 0.5810577525857558, p = 0.0
+2026-02-02 16:39:57,644 [INFO] Calculating EC for Sub 33...
+2026-02-02 16:39:59,384 [INFO] Sub 33 EC saved to F:\NPI_results\bs_50\EC_Sub_33.mat
+2026-02-02 16:40:00,139 [INFO]  Sub 34 FC correlation: r = 0.8265780057310631, p = 0.0
+2026-02-02 16:40:00,140 [INFO] Calculating EC for Sub 34...
+2026-02-02 16:40:01,886 [INFO] Sub 34 EC saved to F:\NPI_results\bs_50\EC_Sub_34.mat
+2026-02-02 16:40:02,634 [INFO]  Sub 35 FC correlation: r = 0.8647649808009605, p = 0.0
+2026-02-02 16:40:02,635 [INFO] Calculating EC for Sub 35...
+2026-02-02 16:40:04,381 [INFO] Sub 35 EC saved to F:\NPI_results\bs_50\EC_Sub_35.mat
+2026-02-02 16:40:05,113 [ERROR] !!! Sub 36 发生毁灭性错误: array must not contain infs or NaNs
+2026-02-02 16:40:05,865 [INFO]  Sub 37 FC correlation: r = 0.8121870149005592, p = 0.0
+2026-02-02 16:40:05,866 [INFO] Calculating EC for Sub 37...
+2026-02-02 16:40:07,613 [INFO] Sub 37 EC saved to F:\NPI_results\bs_50\EC_Sub_37.mat
+2026-02-02 16:40:08,343 [INFO]  Sub 38 FC correlation: r = 0.8819539043124066, p = 0.0
+2026-02-02 16:40:08,344 [INFO] Calculating EC for Sub 38...
+2026-02-02 16:40:10,079 [INFO] Sub 38 EC saved to F:\NPI_results\bs_50\EC_Sub_38.mat
+2026-02-02 16:40:10,847 [INFO]  Sub 39 FC correlation: r = 0.8149692170435874, p = 0.0
+2026-02-02 16:40:10,848 [INFO] Calculating EC for Sub 39...
+2026-02-02 16:40:12,585 [INFO] Sub 39 EC saved to F:\NPI_results\bs_50\EC_Sub_39.mat
+2026-02-02 16:40:13,330 [INFO]  Sub 40 FC correlation: r = 0.8776747751822154, p = 0.0
+2026-02-02 16:40:13,331 [INFO] Calculating EC for Sub 40...
+2026-02-02 16:40:15,096 [INFO] Sub 40 EC saved to F:\NPI_results\bs_50\EC_Sub_40.mat
+2026-02-02 16:40:15,838 [INFO]  Sub 41 FC correlation: r = 0.9031652251781314, p = 0.0
+2026-02-02 16:40:15,839 [INFO] Calculating EC for Sub 41...
+2026-02-02 16:40:17,597 [INFO] Sub 41 EC saved to F:\NPI_results\bs_50\EC_Sub_41.mat
+2026-02-02 16:40:18,337 [INFO]  Sub 42 FC correlation: r = 0.819685012076645, p = 0.0
+2026-02-02 16:40:18,337 [INFO] Calculating EC for Sub 42...
+2026-02-02 16:40:20,096 [INFO] Sub 42 EC saved to F:\NPI_results\bs_50\EC_Sub_42.mat
+2026-02-02 16:40:20,831 [INFO]  Sub 43 FC correlation: r = 0.8539476600428028, p = 0.0
+2026-02-02 16:40:20,832 [INFO] Calculating EC for Sub 43...
+2026-02-02 16:40:22,578 [INFO] Sub 43 EC saved to F:\NPI_results\bs_50\EC_Sub_43.mat
+2026-02-02 16:40:23,323 [INFO]  Sub 44 FC correlation: r = 0.818792428880172, p = 0.0
+2026-02-02 16:40:23,324 [INFO] Calculating EC for Sub 44...
+2026-02-02 16:40:25,081 [INFO] Sub 44 EC saved to F:\NPI_results\bs_50\EC_Sub_44.mat
+2026-02-02 16:40:25,828 [INFO]  Sub 45 FC correlation: r = 0.903558892581647, p = 0.0
+2026-02-02 16:40:25,829 [INFO] Calculating EC for Sub 45...
+2026-02-02 16:40:27,571 [INFO] Sub 45 EC saved to F:\NPI_results\bs_50\EC_Sub_45.mat
+2026-02-02 16:40:28,333 [INFO]  Sub 46 FC correlation: r = 0.8738486601564674, p = 0.0
+2026-02-02 16:40:28,335 [INFO] Calculating EC for Sub 46...
+2026-02-02 16:40:30,081 [INFO] Sub 46 EC saved to F:\NPI_results\bs_50\EC_Sub_46.mat
+2026-02-02 16:40:30,830 [INFO]  Sub 47 FC correlation: r = 0.7875660934607379, p = 0.0
+2026-02-02 16:40:30,831 [INFO] Calculating EC for Sub 47...
+2026-02-02 16:40:32,572 [INFO] Sub 47 EC saved to F:\NPI_results\bs_50\EC_Sub_47.mat
+2026-02-02 16:40:33,310 [INFO]  Sub 48 FC correlation: r = 0.7105019142588185, p = 0.0
+2026-02-02 16:40:33,311 [INFO] Calculating EC for Sub 48...
+2026-02-02 16:40:35,156 [INFO] Sub 48 EC saved to F:\NPI_results\bs_50\EC_Sub_48.mat
+2026-02-02 16:40:35,924 [INFO]  Sub 49 FC correlation: r = 0.7980948452509229, p = 0.0
+2026-02-02 16:40:35,925 [INFO] Calculating EC for Sub 49...
+2026-02-02 16:40:37,749 [INFO] Sub 49 EC saved to F:\NPI_results\bs_50\EC_Sub_49.mat
+2026-02-02 16:40:38,512 [INFO]  Sub 50 FC correlation: r = 0.6840959327878938, p = 0.0
+2026-02-02 16:40:38,513 [INFO] Calculating EC for Sub 50...
+2026-02-02 16:40:40,367 [INFO] Sub 50 EC saved to F:\NPI_results\bs_50\EC_Sub_50.mat
+2026-02-02 16:40:41,128 [INFO]  Sub 51 FC correlation: r = 0.7647969018841364, p = 0.0
+2026-02-02 16:40:41,129 [INFO] Calculating EC for Sub 51...
+2026-02-02 16:40:42,930 [INFO] Sub 51 EC saved to F:\NPI_results\bs_50\EC_Sub_51.mat
+2026-02-02 16:40:43,669 [INFO]  Sub 52 FC correlation: r = 0.8505540576798912, p = 0.0
+2026-02-02 16:40:43,671 [INFO] Calculating EC for Sub 52...
+2026-02-02 16:40:45,522 [INFO] Sub 52 EC saved to F:\NPI_results\bs_50\EC_Sub_52.mat
+2026-02-02 16:40:46,316 [INFO]  Sub 53 FC correlation: r = 0.8460295596162842, p = 0.0
+2026-02-02 16:40:46,317 [INFO] Calculating EC for Sub 53...
+2026-02-02 16:40:48,130 [INFO] Sub 53 EC saved to F:\NPI_results\bs_50\EC_Sub_53.mat
+2026-02-02 16:40:48,886 [INFO]  Sub 54 FC correlation: r = 0.8781310213254363, p = 0.0
+2026-02-02 16:40:48,887 [INFO] Calculating EC for Sub 54...
+2026-02-02 16:40:50,710 [INFO] Sub 54 EC saved to F:\NPI_results\bs_50\EC_Sub_54.mat
+2026-02-02 16:40:51,447 [INFO]  Sub 55 FC correlation: r = 0.7452187129384034, p = 0.0
+2026-02-02 16:40:51,448 [INFO] Calculating EC for Sub 55...
+2026-02-02 16:40:53,242 [INFO] Sub 55 EC saved to F:\NPI_results\bs_50\EC_Sub_55.mat
+2026-02-02 16:40:53,981 [INFO]  Sub 56 FC correlation: r = 0.8683797566465717, p = 0.0
+2026-02-02 16:40:53,982 [INFO] Calculating EC for Sub 56...
+2026-02-02 16:40:55,804 [INFO] Sub 56 EC saved to F:\NPI_results\bs_50\EC_Sub_56.mat
+2026-02-02 16:40:56,582 [INFO]  Sub 57 FC correlation: r = 0.8644436376913563, p = 0.0
+2026-02-02 16:40:56,582 [INFO] Calculating EC for Sub 57...
+2026-02-02 16:40:58,409 [INFO] Sub 57 EC saved to F:\NPI_results\bs_50\EC_Sub_57.mat
+2026-02-02 16:40:59,180 [INFO]  Sub 58 FC correlation: r = 0.7683942931692127, p = 0.0
+2026-02-02 16:40:59,181 [INFO] Calculating EC for Sub 58...
+2026-02-02 16:41:01,074 [INFO] Sub 58 EC saved to F:\NPI_results\bs_50\EC_Sub_58.mat
+2026-02-02 16:41:01,845 [INFO]  Sub 59 FC correlation: r = 0.8550715880252242, p = 0.0
+2026-02-02 16:41:01,846 [INFO] Calculating EC for Sub 59...
+2026-02-02 16:41:03,576 [INFO] Sub 59 EC saved to F:\NPI_results\bs_50\EC_Sub_59.mat
+2026-02-02 16:41:04,292 [INFO]  Sub 60 FC correlation: r = 0.8646993353347064, p = 0.0
+2026-02-02 16:41:04,292 [INFO] Calculating EC for Sub 60...
+2026-02-02 16:41:06,105 [INFO] Sub 60 EC saved to F:\NPI_results\bs_50\EC_Sub_60.mat
+2026-02-02 16:41:06,916 [INFO]  Sub 61 FC correlation: r = 0.5586552949864424, p = 0.0
+2026-02-02 16:41:06,917 [INFO] Calculating EC for Sub 61...
+2026-02-02 16:41:08,770 [INFO] Sub 61 EC saved to F:\NPI_results\bs_50\EC_Sub_61.mat
+2026-02-02 16:41:09,564 [INFO]  Sub 62 FC correlation: r = 0.5961376660528558, p = 0.0
+2026-02-02 16:41:09,565 [INFO] Calculating EC for Sub 62...
+2026-02-02 16:41:11,390 [INFO] Sub 62 EC saved to F:\NPI_results\bs_50\EC_Sub_62.mat
+2026-02-02 16:41:12,179 [INFO]  Sub 63 FC correlation: r = 0.7001859647231339, p = 0.0
+2026-02-02 16:41:12,180 [INFO] Calculating EC for Sub 63...
+2026-02-02 16:41:13,992 [INFO] Sub 63 EC saved to F:\NPI_results\bs_50\EC_Sub_63.mat
+2026-02-02 16:41:14,732 [INFO]  Sub 64 FC correlation: r = 0.7996006758873444, p = 0.0
+2026-02-02 16:41:14,732 [INFO] Calculating EC for Sub 64...
+2026-02-02 16:41:16,553 [INFO] Sub 64 EC saved to F:\NPI_results\bs_50\EC_Sub_64.mat
+2026-02-02 16:41:17,316 [INFO]  Sub 65 FC correlation: r = 0.8483268259329753, p = 0.0
+2026-02-02 16:41:17,318 [INFO] Calculating EC for Sub 65...
+2026-02-02 16:41:19,108 [INFO] Sub 65 EC saved to F:\NPI_results\bs_50\EC_Sub_65.mat
+2026-02-02 16:41:19,851 [INFO]  Sub 66 FC correlation: r = 0.8412121136286063, p = 0.0
+2026-02-02 16:41:19,852 [INFO] Calculating EC for Sub 66...
+2026-02-02 16:41:21,687 [INFO] Sub 66 EC saved to F:\NPI_results\bs_50\EC_Sub_66.mat
+2026-02-02 16:41:22,419 [INFO]  Sub 67 FC correlation: r = 0.7823328303075082, p = 0.0
+2026-02-02 16:41:22,419 [INFO] Calculating EC for Sub 67...
+2026-02-02 16:41:24,326 [INFO] Sub 67 EC saved to F:\NPI_results\bs_50\EC_Sub_67.mat
+2026-02-02 16:41:25,105 [INFO]  Sub 68 FC correlation: r = 0.8930043326209696, p = 0.0
+2026-02-02 16:41:25,105 [INFO] Calculating EC for Sub 68...
+2026-02-02 16:41:26,977 [INFO] Sub 68 EC saved to F:\NPI_results\bs_50\EC_Sub_68.mat
+2026-02-02 16:41:27,740 [INFO]  Sub 69 FC correlation: r = 0.7902293431667696, p = 0.0
+2026-02-02 16:41:27,741 [INFO] Calculating EC for Sub 69...
+2026-02-02 16:41:29,543 [INFO] Sub 69 EC saved to F:\NPI_results\bs_50\EC_Sub_69.mat
+2026-02-02 16:41:30,308 [INFO]  Sub 70 FC correlation: r = 0.8931785815173375, p = 0.0
+2026-02-02 16:41:30,309 [INFO] Calculating EC for Sub 70...
+2026-02-02 16:41:32,120 [INFO] Sub 70 EC saved to F:\NPI_results\bs_50\EC_Sub_70.mat
+2026-02-02 16:41:32,870 [INFO]  Sub 71 FC correlation: r = 0.86367382467997, p = 0.0
+2026-02-02 16:41:32,871 [INFO] Calculating EC for Sub 71...
+2026-02-02 16:41:34,652 [INFO] Sub 71 EC saved to F:\NPI_results\bs_50\EC_Sub_71.mat
+2026-02-02 16:41:35,342 [INFO]  Sub 72 FC correlation: r = 0.7448503631594191, p = 0.0
+2026-02-02 16:41:35,343 [INFO] Calculating EC for Sub 72...
+2026-02-02 16:41:36,832 [INFO] Sub 72 EC saved to F:\NPI_results\bs_50\EC_Sub_72.mat
+2026-02-02 16:41:37,514 [INFO]  Sub 73 FC correlation: r = 0.8221229506334747, p = 0.0
+2026-02-02 16:41:37,515 [INFO] Calculating EC for Sub 73...
+2026-02-02 16:41:39,145 [INFO] Sub 73 EC saved to F:\NPI_results\bs_50\EC_Sub_73.mat
+2026-02-02 16:41:39,831 [INFO]  Sub 74 FC correlation: r = 0.8557152463382414, p = 0.0
+2026-02-02 16:41:39,831 [INFO] Calculating EC for Sub 74...
+2026-02-02 16:41:41,319 [INFO] Sub 74 EC saved to F:\NPI_results\bs_50\EC_Sub_74.mat
+2026-02-02 16:41:42,013 [INFO]  Sub 75 FC correlation: r = 0.8643523565796271, p = 0.0
+2026-02-02 16:41:42,013 [INFO] Calculating EC for Sub 75...
+2026-02-02 16:41:43,524 [INFO] Sub 75 EC saved to F:\NPI_results\bs_50\EC_Sub_75.mat
+2026-02-02 16:41:44,214 [INFO]  Sub 76 FC correlation: r = 0.6480830401154225, p = 0.0
+2026-02-02 16:41:44,214 [INFO] Calculating EC for Sub 76...
+2026-02-02 16:41:45,718 [INFO] Sub 76 EC saved to F:\NPI_results\bs_50\EC_Sub_76.mat
+2026-02-02 16:41:46,423 [INFO]  Sub 77 FC correlation: r = 0.6694266548632408, p = 0.0
+2026-02-02 16:41:46,423 [INFO] Calculating EC for Sub 77...
+2026-02-02 16:41:47,929 [INFO] Sub 77 EC saved to F:\NPI_results\bs_50\EC_Sub_77.mat
+2026-02-02 16:41:48,680 [INFO]  Sub 78 FC correlation: r = 0.8126799531928273, p = 0.0
+2026-02-02 16:41:48,681 [INFO] Calculating EC for Sub 78...
+2026-02-02 16:41:50,166 [INFO] Sub 78 EC saved to F:\NPI_results\bs_50\EC_Sub_78.mat
+2026-02-02 16:41:50,856 [INFO]  Sub 79 FC correlation: r = 0.8990368904712002, p = 0.0
+2026-02-02 16:41:50,857 [INFO] Calculating EC for Sub 79...
+2026-02-02 16:41:52,345 [INFO] Sub 79 EC saved to F:\NPI_results\bs_50\EC_Sub_79.mat
+2026-02-02 16:41:53,023 [INFO]  Sub 80 FC correlation: r = 0.84111647972908, p = 0.0
+2026-02-02 16:41:53,024 [INFO] Calculating EC for Sub 80...
+2026-02-02 16:41:54,516 [INFO] Sub 80 EC saved to F:\NPI_results\bs_50\EC_Sub_80.mat
+2026-02-02 16:41:55,201 [INFO]  Sub 81 FC correlation: r = 0.867349014589314, p = 0.0
+2026-02-02 16:41:55,202 [INFO] Calculating EC for Sub 81...
+2026-02-02 16:41:56,706 [INFO] Sub 81 EC saved to F:\NPI_results\bs_50\EC_Sub_81.mat
+2026-02-02 16:41:57,388 [INFO]  Sub 82 FC correlation: r = 0.7414417184720057, p = 0.0
+2026-02-02 16:41:57,389 [INFO] Calculating EC for Sub 82...
+2026-02-02 16:41:58,862 [INFO] Sub 82 EC saved to F:\NPI_results\bs_50\EC_Sub_82.mat
+2026-02-02 16:41:59,535 [INFO]  Sub 83 FC correlation: r = 0.9157806290206683, p = 0.0
+2026-02-02 16:41:59,536 [INFO] Calculating EC for Sub 83...
+2026-02-02 16:42:00,999 [INFO] Sub 83 EC saved to F:\NPI_results\bs_50\EC_Sub_83.mat
+2026-02-02 16:42:01,685 [INFO]  Sub 84 FC correlation: r = 0.8874843684165854, p = 0.0
+2026-02-02 16:42:01,686 [INFO] Calculating EC for Sub 84...
+2026-02-02 16:42:03,198 [INFO] Sub 84 EC saved to F:\NPI_results\bs_50\EC_Sub_84.mat
+2026-02-02 16:42:03,876 [INFO]  Sub 85 FC correlation: r = 0.762991196712007, p = 0.0
+2026-02-02 16:42:03,877 [INFO] Calculating EC for Sub 85...
+2026-02-02 16:42:05,410 [INFO] Sub 85 EC saved to F:\NPI_results\bs_50\EC_Sub_85.mat
+2026-02-02 16:42:06,107 [INFO]  Sub 86 FC correlation: r = 0.8868238682711124, p = 0.0
+2026-02-02 16:42:06,108 [INFO] Calculating EC for Sub 86...
+2026-02-02 16:42:07,625 [INFO] Sub 86 EC saved to F:\NPI_results\bs_50\EC_Sub_86.mat
+2026-02-02 16:42:08,296 [INFO]  Sub 87 FC correlation: r = 0.6474459640402092, p = 0.0
+2026-02-02 16:42:08,297 [INFO] Calculating EC for Sub 87...
+2026-02-02 16:42:09,745 [INFO] Sub 87 EC saved to F:\NPI_results\bs_50\EC_Sub_87.mat
+2026-02-02 16:42:10,415 [INFO]  Sub 88 FC correlation: r = 0.7355901931803996, p = 0.0
+2026-02-02 16:42:10,416 [INFO] Calculating EC for Sub 88...
+2026-02-02 16:42:11,922 [INFO] Sub 88 EC saved to F:\NPI_results\bs_50\EC_Sub_88.mat
+2026-02-02 16:42:12,617 [INFO]  Sub 89 FC correlation: r = 0.7733214324348191, p = 0.0
+2026-02-02 16:42:12,618 [INFO] Calculating EC for Sub 89...
+2026-02-02 16:42:14,077 [INFO] Sub 89 EC saved to F:\NPI_results\bs_50\EC_Sub_89.mat
+2026-02-02 16:42:14,750 [INFO]  Sub 90 FC correlation: r = 0.7960334159932934, p = 0.0
+2026-02-02 16:42:14,750 [INFO] Calculating EC for Sub 90...
+2026-02-02 16:42:16,232 [INFO] Sub 90 EC saved to F:\NPI_results\bs_50\EC_Sub_90.mat
+2026-02-02 16:42:16,905 [INFO]  Sub 91 FC correlation: r = 0.8882287246686666, p = 0.0
+2026-02-02 16:42:16,905 [INFO] Calculating EC for Sub 91...
+2026-02-02 16:42:18,382 [INFO] Sub 91 EC saved to F:\NPI_results\bs_50\EC_Sub_91.mat
+2026-02-02 16:42:19,059 [INFO]  Sub 92 FC correlation: r = 0.8479161330666294, p = 0.0
+2026-02-02 16:42:19,059 [INFO] Calculating EC for Sub 92...
+2026-02-02 16:42:20,609 [INFO] Sub 92 EC saved to F:\NPI_results\bs_50\EC_Sub_92.mat
+2026-02-02 16:42:21,284 [INFO]  Sub 93 FC correlation: r = 0.9122434630878106, p = 0.0
+2026-02-02 16:42:21,286 [INFO] Calculating EC for Sub 93...
+2026-02-02 16:42:22,770 [INFO] Sub 93 EC saved to F:\NPI_results\bs_50\EC_Sub_93.mat
+2026-02-02 16:42:23,441 [INFO]  Sub 94 FC correlation: r = 0.7942411834646901, p = 0.0
+2026-02-02 16:42:23,442 [INFO] Calculating EC for Sub 94...
+2026-02-02 16:42:24,946 [INFO] Sub 94 EC saved to F:\NPI_results\bs_50\EC_Sub_94.mat
+2026-02-02 16:42:25,631 [INFO]  Sub 95 FC correlation: r = 0.879754415445573, p = 0.0
+2026-02-02 16:42:25,632 [INFO] Calculating EC for Sub 95...
+2026-02-02 16:42:27,104 [INFO] Sub 95 EC saved to F:\NPI_results\bs_50\EC_Sub_95.mat
+2026-02-02 16:42:27,787 [INFO]  Sub 96 FC correlation: r = 0.8191831765051231, p = 0.0
+2026-02-02 16:42:27,788 [INFO] Calculating EC for Sub 96...
+2026-02-02 16:42:29,296 [INFO] Sub 96 EC saved to F:\NPI_results\bs_50\EC_Sub_96.mat
+2026-02-02 16:42:30,015 [INFO]  Sub 97 FC correlation: r = 0.7699634245335085, p = 0.0
+2026-02-02 16:42:30,016 [INFO] Calculating EC for Sub 97...
+2026-02-02 16:42:31,490 [INFO] Sub 97 EC saved to F:\NPI_results\bs_50\EC_Sub_97.mat
+2026-02-02 16:42:32,169 [INFO]  Sub 98 FC correlation: r = 0.9033647792268571, p = 0.0
+2026-02-02 16:42:32,169 [INFO] Calculating EC for Sub 98...
+2026-02-02 16:42:33,682 [INFO] Sub 98 EC saved to F:\NPI_results\bs_50\EC_Sub_98.mat
+2026-02-02 16:42:34,360 [INFO]  Sub 99 FC correlation: r = 0.6504495782465631, p = 0.0
+2026-02-02 16:42:34,361 [INFO] Calculating EC for Sub 99...
+2026-02-02 16:42:35,806 [INFO] Sub 99 EC saved to F:\NPI_results\bs_50\EC_Sub_99.mat
+2026-02-02 16:42:36,488 [INFO]  Sub 100 FC correlation: r = 0.6077507214054705, p = 0.0
+2026-02-02 16:42:36,489 [INFO] Calculating EC for Sub 100...
+2026-02-02 16:42:37,936 [INFO] Sub 100 EC saved to F:\NPI_results\bs_50\EC_Sub_100.mat
+2026-02-02 16:42:38,616 [INFO]  Sub 101 FC correlation: r = 0.7321384315245949, p = 0.0
+2026-02-02 16:42:38,617 [INFO] Calculating EC for Sub 101...
+2026-02-02 16:42:40,100 [INFO] Sub 101 EC saved to F:\NPI_results\bs_50\EC_Sub_101.mat
+2026-02-02 16:42:40,765 [INFO]  Sub 102 FC correlation: r = 0.8989588649353496, p = 0.0
+2026-02-02 16:42:40,766 [INFO] Calculating EC for Sub 102...
+2026-02-02 16:42:42,227 [INFO] Sub 102 EC saved to F:\NPI_results\bs_50\EC_Sub_102.mat
+2026-02-02 16:42:42,902 [INFO]  Sub 103 FC correlation: r = 0.8917908591383449, p = 0.0
+2026-02-02 16:42:42,903 [INFO] Calculating EC for Sub 103...
+2026-02-02 16:42:44,393 [INFO] Sub 103 EC saved to F:\NPI_results\bs_50\EC_Sub_103.mat
+2026-02-02 16:42:45,065 [INFO]  Sub 104 FC correlation: r = 0.8616730405199552, p = 0.0
+2026-02-02 16:42:45,066 [INFO] Calculating EC for Sub 104...
+2026-02-02 16:42:46,562 [INFO] Sub 104 EC saved to F:\NPI_results\bs_50\EC_Sub_104.mat
+2026-02-02 16:42:47,277 [INFO]  Sub 105 FC correlation: r = 0.8631519717376155, p = 0.0
+2026-02-02 16:42:47,277 [INFO] Calculating EC for Sub 105...
+2026-02-02 16:42:48,756 [INFO] Sub 105 EC saved to F:\NPI_results\bs_50\EC_Sub_105.mat
+2026-02-02 16:42:49,440 [INFO]  Sub 106 FC correlation: r = 0.6727329486907698, p = 0.0
+2026-02-02 16:42:49,441 [INFO] Calculating EC for Sub 106...
+2026-02-02 16:42:50,905 [INFO] Sub 106 EC saved to F:\NPI_results\bs_50\EC_Sub_106.mat
+2026-02-02 16:42:51,591 [INFO]  Sub 107 FC correlation: r = 0.8103815239086358, p = 0.0
+2026-02-02 16:42:51,592 [INFO] Calculating EC for Sub 107...
+2026-02-02 16:42:53,059 [INFO] Sub 107 EC saved to F:\NPI_results\bs_50\EC_Sub_107.mat
+2026-02-02 16:42:53,737 [INFO]  Sub 108 FC correlation: r = 0.8072618997625528, p = 0.0
+2026-02-02 16:42:53,738 [INFO] Calculating EC for Sub 108...
+2026-02-02 16:42:55,200 [INFO] Sub 108 EC saved to F:\NPI_results\bs_50\EC_Sub_108.mat
+2026-02-02 16:42:55,871 [INFO]  Sub 109 FC correlation: r = 0.874380746417452, p = 0.0
+2026-02-02 16:42:55,872 [INFO] Calculating EC for Sub 109...
+2026-02-02 16:42:57,323 [INFO] Sub 109 EC saved to F:\NPI_results\bs_50\EC_Sub_109.mat
+2026-02-02 16:42:57,985 [INFO]  Sub 110 FC correlation: r = 0.8595825399428305, p = 0.0
+2026-02-02 16:42:57,986 [INFO] Calculating EC for Sub 110...
+2026-02-02 16:42:59,462 [INFO] Sub 110 EC saved to F:\NPI_results\bs_50\EC_Sub_110.mat
+2026-02-02 16:43:00,155 [INFO]  Sub 111 FC correlation: r = 0.804667475972551, p = 0.0
+2026-02-02 16:43:00,156 [INFO] Calculating EC for Sub 111...
+2026-02-02 16:43:01,611 [INFO] Sub 111 EC saved to F:\NPI_results\bs_50\EC_Sub_111.mat
+2026-02-02 16:43:02,270 [INFO]  Sub 112 FC correlation: r = 0.8562454545383942, p = 0.0
+2026-02-02 16:43:02,270 [INFO] Calculating EC for Sub 112...
+2026-02-02 16:43:03,716 [INFO] Sub 112 EC saved to F:\NPI_results\bs_50\EC_Sub_112.mat
+2026-02-02 16:43:04,400 [INFO]  Sub 113 FC correlation: r = 0.8407965616997602, p = 0.0
+2026-02-02 16:43:04,401 [INFO] Calculating EC for Sub 113...
+2026-02-02 16:43:05,875 [INFO] Sub 113 EC saved to F:\NPI_results\bs_50\EC_Sub_113.mat
+2026-02-02 16:43:06,555 [INFO]  Sub 114 FC correlation: r = 0.6186061157775421, p = 0.0
+2026-02-02 16:43:06,556 [INFO] Calculating EC for Sub 114...
+2026-02-02 16:43:08,077 [INFO] Sub 114 EC saved to F:\NPI_results\bs_50\EC_Sub_114.mat
+2026-02-02 16:43:08,745 [INFO]  Sub 115 FC correlation: r = 0.8324182246548909, p = 0.0
+2026-02-02 16:43:08,745 [INFO] Calculating EC for Sub 115...
+2026-02-02 16:43:10,198 [INFO] Sub 115 EC saved to F:\NPI_results\bs_50\EC_Sub_115.mat
+2026-02-02 16:43:10,865 [INFO]  Sub 116 FC correlation: r = 0.8314394393636231, p = 0.0
+2026-02-02 16:43:10,865 [INFO] Calculating EC for Sub 116...
+2026-02-02 16:43:12,284 [INFO] Sub 116 EC saved to F:\NPI_results\bs_50\EC_Sub_116.mat
+2026-02-02 16:43:12,927 [INFO]  Sub 117 FC correlation: r = 0.8102602338624783, p = 0.0
+2026-02-02 16:43:12,928 [INFO] Calculating EC for Sub 117...
+2026-02-02 16:43:14,321 [INFO] Sub 117 EC saved to F:\NPI_results\bs_50\EC_Sub_117.mat
+2026-02-02 16:43:14,997 [INFO]  Sub 118 FC correlation: r = 0.7711708384028793, p = 0.0
+2026-02-02 16:43:14,998 [INFO] Calculating EC for Sub 118...
+2026-02-02 16:43:16,534 [INFO] Sub 118 EC saved to F:\NPI_results\bs_50\EC_Sub_118.mat
+2026-02-02 16:43:17,222 [INFO]  Sub 119 FC correlation: r = 0.8407222428837295, p = 0.0
+2026-02-02 16:43:17,223 [INFO] Calculating EC for Sub 119...
+2026-02-02 16:43:18,637 [INFO] Sub 119 EC saved to F:\NPI_results\bs_50\EC_Sub_119.mat
+2026-02-02 16:43:19,294 [INFO]  Sub 120 FC correlation: r = 0.8708773070258253, p = 0.0
+2026-02-02 16:43:19,295 [INFO] Calculating EC for Sub 120...
+2026-02-02 16:43:20,710 [INFO] Sub 120 EC saved to F:\NPI_results\bs_50\EC_Sub_120.mat
+2026-02-02 16:43:21,371 [INFO]  Sub 121 FC correlation: r = 0.8588881652921643, p = 0.0
+2026-02-02 16:43:21,372 [INFO] Calculating EC for Sub 121...
+2026-02-02 16:43:22,797 [INFO] Sub 121 EC saved to F:\NPI_results\bs_50\EC_Sub_121.mat
+2026-02-02 16:43:23,447 [INFO]  Sub 122 FC correlation: r = 0.8494676566237278, p = 0.0
+2026-02-02 16:43:23,448 [INFO] Calculating EC for Sub 122...
+2026-02-02 16:43:24,872 [INFO] Sub 122 EC saved to F:\NPI_results\bs_50\EC_Sub_122.mat
+2026-02-02 16:43:25,537 [INFO]  Sub 123 FC correlation: r = 0.794021641202618, p = 0.0
+2026-02-02 16:43:25,538 [INFO] Calculating EC for Sub 123...
+2026-02-02 16:43:26,949 [INFO] Sub 123 EC saved to F:\NPI_results\bs_50\EC_Sub_123.mat
+2026-02-02 16:43:27,607 [INFO]  Sub 124 FC correlation: r = 0.8313688009224482, p = 0.0
+2026-02-02 16:43:27,608 [INFO] Calculating EC for Sub 124...
+2026-02-02 16:43:29,013 [INFO] Sub 124 EC saved to F:\NPI_results\bs_50\EC_Sub_124.mat
+2026-02-02 16:43:29,671 [INFO]  Sub 125 FC correlation: r = 0.8748237579072301, p = 0.0
+2026-02-02 16:43:29,672 [INFO] Calculating EC for Sub 125...
+2026-02-02 16:43:31,069 [INFO] Sub 125 EC saved to F:\NPI_results\bs_50\EC_Sub_125.mat
+2026-02-02 16:43:31,715 [INFO]  Sub 126 FC correlation: r = 0.8813702777833846, p = 0.0
+2026-02-02 16:43:31,715 [INFO] Calculating EC for Sub 126...
+2026-02-02 16:43:33,315 [INFO] Sub 126 EC saved to F:\NPI_results\bs_50\EC_Sub_126.mat
+2026-02-02 16:43:34,008 [INFO]  Sub 127 FC correlation: r = 0.7173715103787608, p = 0.0
+2026-02-02 16:43:34,009 [INFO] Calculating EC for Sub 127...
+2026-02-02 16:43:35,466 [INFO] Sub 127 EC saved to F:\NPI_results\bs_50\EC_Sub_127.mat
+2026-02-02 16:43:36,130 [INFO]  Sub 128 FC correlation: r = 0.8840767291123236, p = 0.0
+2026-02-02 16:43:36,131 [INFO] Calculating EC for Sub 128...
+2026-02-02 16:43:37,552 [INFO] Sub 128 EC saved to F:\NPI_results\bs_50\EC_Sub_128.mat
+2026-02-02 16:43:38,235 [INFO]  Sub 129 FC correlation: r = 0.8323090304189025, p = 0.0
+2026-02-02 16:43:38,236 [INFO] Calculating EC for Sub 129...
+2026-02-02 16:43:39,679 [INFO] Sub 129 EC saved to F:\NPI_results\bs_50\EC_Sub_129.mat
+2026-02-02 16:43:40,423 [INFO]  Sub 130 FC correlation: r = 0.41956049105217363, p = 0.0
+2026-02-02 16:43:40,424 [INFO] Calculating EC for Sub 130...
+2026-02-02 16:43:41,942 [INFO] Sub 130 EC saved to F:\NPI_results\bs_50\EC_Sub_130.mat
+2026-02-02 16:43:42,591 [INFO]  Sub 131 FC correlation: r = 0.7540749516028932, p = 0.0
+2026-02-02 16:43:42,592 [INFO] Calculating EC for Sub 131...
+2026-02-02 16:43:44,144 [INFO] Sub 131 EC saved to F:\NPI_results\bs_50\EC_Sub_131.mat
+2026-02-02 16:43:44,814 [INFO]  Sub 132 FC correlation: r = 0.8539459567140851, p = 0.0
+2026-02-02 16:43:44,815 [INFO] Calculating EC for Sub 132...
+2026-02-02 16:43:46,257 [INFO] Sub 132 EC saved to F:\NPI_results\bs_50\EC_Sub_132.mat
+2026-02-02 16:43:46,912 [INFO]  Sub 133 FC correlation: r = 0.8882231365757677, p = 0.0
+2026-02-02 16:43:46,913 [INFO] Calculating EC for Sub 133...
+2026-02-02 16:43:48,329 [INFO] Sub 133 EC saved to F:\NPI_results\bs_50\EC_Sub_133.mat
+2026-02-02 16:43:48,992 [INFO]  Sub 134 FC correlation: r = 0.8533889310833405, p = 0.0
+2026-02-02 16:43:48,992 [INFO] Calculating EC for Sub 134...
+2026-02-02 16:43:50,390 [INFO] Sub 134 EC saved to F:\NPI_results\bs_50\EC_Sub_134.mat
+2026-02-02 16:43:51,076 [INFO]  Sub 135 FC correlation: r = 0.8740832190286976, p = 0.0
+2026-02-02 16:43:51,076 [INFO] Calculating EC for Sub 135...
+2026-02-02 16:43:52,509 [INFO] Sub 135 EC saved to F:\NPI_results\bs_50\EC_Sub_135.mat
+2026-02-02 16:43:53,157 [INFO]  Sub 136 FC correlation: r = 0.8809620696845539, p = 0.0
+2026-02-02 16:43:53,158 [INFO] Calculating EC for Sub 136...
+2026-02-02 16:43:54,560 [INFO] Sub 136 EC saved to F:\NPI_results\bs_50\EC_Sub_136.mat
+2026-02-02 16:43:55,222 [INFO]  Sub 137 FC correlation: r = 0.8320261485198, p = 0.0
+2026-02-02 16:43:55,223 [INFO] Calculating EC for Sub 137...
+2026-02-02 16:43:56,616 [INFO] Sub 137 EC saved to F:\NPI_results\bs_50\EC_Sub_137.mat
+2026-02-02 16:43:57,289 [INFO]  Sub 138 FC correlation: r = 0.8492177654262267, p = 0.0
+2026-02-02 16:43:57,290 [INFO] Calculating EC for Sub 138...
+2026-02-02 16:43:58,729 [INFO] Sub 138 EC saved to F:\NPI_results\bs_50\EC_Sub_138.mat
+2026-02-02 16:43:59,388 [INFO]  Sub 139 FC correlation: r = 0.8504082858290134, p = 0.0
+2026-02-02 16:43:59,389 [INFO] Calculating EC for Sub 139...
+2026-02-02 16:44:00,849 [INFO] Sub 139 EC saved to F:\NPI_results\bs_50\EC_Sub_139.mat
+2026-02-02 16:44:01,499 [INFO]  Sub 140 FC correlation: r = 0.7317890270038769, p = 0.0
+2026-02-02 16:44:01,500 [INFO] Calculating EC for Sub 140...
+2026-02-02 16:44:02,922 [INFO] Sub 140 EC saved to F:\NPI_results\bs_50\EC_Sub_140.mat
+2026-02-02 16:44:03,584 [INFO]  Sub 141 FC correlation: r = 0.8171428188283325, p = 0.0
+2026-02-02 16:44:03,585 [INFO] Calculating EC for Sub 141...
+2026-02-02 16:44:05,016 [INFO] Sub 141 EC saved to F:\NPI_results\bs_50\EC_Sub_141.mat
+2026-02-02 16:44:05,676 [INFO]  Sub 142 FC correlation: r = 0.8120471616937228, p = 0.0
+2026-02-02 16:44:05,676 [INFO] Calculating EC for Sub 142...
+2026-02-02 16:44:07,124 [INFO] Sub 142 EC saved to F:\NPI_results\bs_50\EC_Sub_142.mat
+2026-02-02 16:44:07,801 [INFO]  Sub 143 FC correlation: r = 0.7451989858581629, p = 0.0
+2026-02-02 16:44:07,801 [INFO] Calculating EC for Sub 143...
+2026-02-02 16:44:09,217 [INFO] Sub 143 EC saved to F:\NPI_results\bs_50\EC_Sub_143.mat
+2026-02-02 16:44:09,879 [INFO]  Sub 144 FC correlation: r = 0.822864802909309, p = 0.0
+2026-02-02 16:44:09,879 [INFO] Calculating EC for Sub 144...
+2026-02-02 16:44:11,384 [INFO] Sub 144 EC saved to F:\NPI_results\bs_50\EC_Sub_144.mat
+2026-02-02 16:44:12,088 [INFO]  Sub 145 FC correlation: r = 0.8579315801519887, p = 0.0
+2026-02-02 16:44:12,088 [INFO] Calculating EC for Sub 145...
+2026-02-02 16:44:13,572 [INFO] Sub 145 EC saved to F:\NPI_results\bs_50\EC_Sub_145.mat
+2026-02-02 16:44:14,232 [INFO]  Sub 146 FC correlation: r = 0.7509797466353433, p = 0.0
+2026-02-02 16:44:14,233 [INFO] Calculating EC for Sub 146...
+2026-02-02 16:44:15,691 [INFO] Sub 146 EC saved to F:\NPI_results\bs_50\EC_Sub_146.mat
+2026-02-02 16:44:16,367 [INFO]  Sub 147 FC correlation: r = 0.7947045581003239, p = 0.0
+2026-02-02 16:44:16,368 [INFO] Calculating EC for Sub 147...
+2026-02-02 16:44:17,744 [INFO] Sub 147 EC saved to F:\NPI_results\bs_50\EC_Sub_147.mat
+2026-02-02 16:44:18,405 [INFO]  Sub 148 FC correlation: r = 0.8188441085774256, p = 0.0
+2026-02-02 16:44:18,406 [INFO] Calculating EC for Sub 148...
+2026-02-02 16:44:19,837 [INFO] Sub 148 EC saved to F:\NPI_results\bs_50\EC_Sub_148.mat
+2026-02-02 16:44:20,493 [INFO]  Sub 149 FC correlation: r = 0.8289505544368656, p = 0.0
+2026-02-02 16:44:20,494 [INFO] Calculating EC for Sub 149...
+2026-02-02 16:44:21,944 [INFO] Sub 149 EC saved to F:\NPI_results\bs_50\EC_Sub_149.mat
+2026-02-02 16:44:22,609 [INFO]  Sub 150 FC correlation: r = 0.8413120598892603, p = 0.0
+2026-02-02 16:44:22,610 [INFO] Calculating EC for Sub 150...
+2026-02-02 16:44:24,108 [INFO] Sub 150 EC saved to F:\NPI_results\bs_50\EC_Sub_150.mat
+2026-02-02 16:44:24,790 [INFO]  Sub 151 FC correlation: r = 0.8338113658072568, p = 0.0
+2026-02-02 16:44:24,791 [INFO] Calculating EC for Sub 151...
+2026-02-02 16:44:26,206 [INFO] Sub 151 EC saved to F:\NPI_results\bs_50\EC_Sub_151.mat
+2026-02-02 16:44:26,869 [INFO]  Sub 152 FC correlation: r = 0.8091774165005311, p = 0.0
+2026-02-02 16:44:26,869 [INFO] Calculating EC for Sub 152...
+2026-02-02 16:44:28,310 [INFO] Sub 152 EC saved to F:\NPI_results\bs_50\EC_Sub_152.mat
+2026-02-02 16:44:28,957 [INFO]  Sub 153 FC correlation: r = 0.795794606307086, p = 0.0
+2026-02-02 16:44:28,958 [INFO] Calculating EC for Sub 153...
+2026-02-02 16:44:30,407 [INFO] Sub 153 EC saved to F:\NPI_results\bs_50\EC_Sub_153.mat
+2026-02-02 16:44:31,065 [INFO]  Sub 154 FC correlation: r = 0.8604189745593891, p = 0.0
+2026-02-02 16:44:31,066 [INFO] Calculating EC for Sub 154...
+2026-02-02 16:44:32,518 [INFO] Sub 154 EC saved to F:\NPI_results\bs_50\EC_Sub_154.mat
+2026-02-02 16:44:33,200 [INFO]  Sub 155 FC correlation: r = 0.7104939597540416, p = 0.0
+2026-02-02 16:44:33,200 [INFO] Calculating EC for Sub 155...
+2026-02-02 16:44:34,618 [INFO] Sub 155 EC saved to F:\NPI_results\bs_50\EC_Sub_155.mat
+2026-02-02 16:44:35,282 [INFO]  Sub 156 FC correlation: r = 0.8461927621364262, p = 0.0
+2026-02-02 16:44:35,282 [INFO] Calculating EC for Sub 156...
+2026-02-02 16:44:36,704 [INFO] Sub 156 EC saved to F:\NPI_results\bs_50\EC_Sub_156.mat
+2026-02-02 16:44:37,349 [INFO]  Sub 157 FC correlation: r = 0.8434779959917333, p = 0.0
+2026-02-02 16:44:37,350 [INFO] Calculating EC for Sub 157...
+2026-02-02 16:44:38,754 [INFO] Sub 157 EC saved to F:\NPI_results\bs_50\EC_Sub_157.mat
+2026-02-02 16:44:39,412 [INFO]  Sub 158 FC correlation: r = 0.8098395382084067, p = 0.0
+2026-02-02 16:44:39,413 [INFO] Calculating EC for Sub 158...
+2026-02-02 16:44:40,810 [INFO] Sub 158 EC saved to F:\NPI_results\bs_50\EC_Sub_158.mat
+2026-02-02 16:44:41,465 [INFO]  Sub 159 FC correlation: r = 0.8027047115225083, p = 0.0
+2026-02-02 16:44:41,465 [INFO] Calculating EC for Sub 159...
+2026-02-02 16:44:42,871 [INFO] Sub 159 EC saved to F:\NPI_results\bs_50\EC_Sub_159.mat
+2026-02-02 16:44:43,528 [INFO]  Sub 160 FC correlation: r = 0.8457830784278949, p = 0.0
+2026-02-02 16:44:43,529 [INFO] Calculating EC for Sub 160...
+2026-02-02 16:44:44,954 [INFO] Sub 160 EC saved to F:\NPI_results\bs_50\EC_Sub_160.mat
+2026-02-02 16:44:45,617 [INFO]  Sub 161 FC correlation: r = 0.8221565173837945, p = 0.0
+2026-02-02 16:44:45,619 [INFO] Calculating EC for Sub 161...
+2026-02-02 16:44:47,056 [INFO] Sub 161 EC saved to F:\NPI_results\bs_50\EC_Sub_161.mat
+2026-02-02 16:44:47,789 [INFO]  Sub 162 FC correlation: r = 0.8547516914256547, p = 0.0
+2026-02-02 16:44:47,790 [INFO] Calculating EC for Sub 162...
+2026-02-02 16:44:49,274 [INFO] Sub 162 EC saved to F:\NPI_results\bs_50\EC_Sub_162.mat
+2026-02-02 16:44:50,031 [INFO]  Sub 163 FC correlation: r = 0.8175243427778298, p = 0.0
+2026-02-02 16:44:50,032 [INFO] Calculating EC for Sub 163...
+2026-02-02 16:44:51,616 [INFO] Sub 163 EC saved to F:\NPI_results\bs_50\EC_Sub_163.mat
+2026-02-02 16:44:52,286 [INFO]  Sub 164 FC correlation: r = 0.7979107522871247, p = 0.0
+2026-02-02 16:44:52,287 [INFO] Calculating EC for Sub 164...
+2026-02-02 16:44:53,693 [INFO] Sub 164 EC saved to F:\NPI_results\bs_50\EC_Sub_164.mat
+2026-02-02 16:44:54,357 [INFO]  Sub 165 FC correlation: r = 0.866247823295055, p = 0.0
+2026-02-02 16:44:54,357 [INFO] Calculating EC for Sub 165...
+2026-02-02 16:44:55,804 [INFO] Sub 165 EC saved to F:\NPI_results\bs_50\EC_Sub_165.mat
+2026-02-02 16:44:56,462 [INFO]  Sub 166 FC correlation: r = 0.696172151024904, p = 0.0
+2026-02-02 16:44:56,462 [INFO] Calculating EC for Sub 166...
+2026-02-02 16:44:57,892 [INFO] Sub 166 EC saved to F:\NPI_results\bs_50\EC_Sub_166.mat
+2026-02-02 16:44:58,545 [INFO]  Sub 167 FC correlation: r = 0.8745415020087592, p = 0.0
+2026-02-02 16:44:58,546 [INFO] Calculating EC for Sub 167...
+2026-02-02 16:44:59,959 [INFO] Sub 167 EC saved to F:\NPI_results\bs_50\EC_Sub_167.mat
+2026-02-02 16:45:00,632 [INFO]  Sub 168 FC correlation: r = 0.8076079346848442, p = 0.0
+2026-02-02 16:45:00,633 [INFO] Calculating EC for Sub 168...
+2026-02-02 16:45:02,077 [INFO] Sub 168 EC saved to F:\NPI_results\bs_50\EC_Sub_168.mat
+2026-02-02 16:45:02,730 [INFO]  Sub 169 FC correlation: r = 0.7752060590908422, p = 0.0
+2026-02-02 16:45:02,731 [INFO] Calculating EC for Sub 169...
+2026-02-02 16:45:04,148 [INFO] Sub 169 EC saved to F:\NPI_results\bs_50\EC_Sub_169.mat
+2026-02-02 16:45:04,826 [INFO]  Sub 170 FC correlation: r = 0.8575232750948175, p = 0.0
+2026-02-02 16:45:04,827 [INFO] Calculating EC for Sub 170...
+2026-02-02 16:45:06,225 [INFO] Sub 170 EC saved to F:\NPI_results\bs_50\EC_Sub_170.mat
+2026-02-02 16:45:06,882 [INFO]  Sub 171 FC correlation: r = 0.84078421438098, p = 0.0
+2026-02-02 16:45:06,882 [INFO] Calculating EC for Sub 171...
+2026-02-02 16:45:08,235 [INFO] Sub 171 EC saved to F:\NPI_results\bs_50\EC_Sub_171.mat
+2026-02-02 16:45:08,878 [INFO]  Sub 172 FC correlation: r = 0.8768568048621455, p = 0.0
+2026-02-02 16:45:08,878 [INFO] Calculating EC for Sub 172...
+2026-02-02 16:45:10,242 [INFO] Sub 172 EC saved to F:\NPI_results\bs_50\EC_Sub_172.mat
+2026-02-02 16:45:10,894 [INFO]  Sub 173 FC correlation: r = 0.8659196632596371, p = 0.0
+2026-02-02 16:45:10,894 [INFO] Calculating EC for Sub 173...
+2026-02-02 16:45:12,260 [INFO] Sub 173 EC saved to F:\NPI_results\bs_50\EC_Sub_173.mat
+2026-02-02 16:45:12,907 [INFO]  Sub 174 FC correlation: r = 0.719244997138286, p = 0.0
+2026-02-02 16:45:12,907 [INFO] Calculating EC for Sub 174...
+2026-02-02 16:45:14,312 [INFO] Sub 174 EC saved to F:\NPI_results\bs_50\EC_Sub_174.mat
+2026-02-02 16:45:14,985 [INFO]  Sub 175 FC correlation: r = 0.8075099112189639, p = 0.0
+2026-02-02 16:45:14,986 [INFO] Calculating EC for Sub 175...
+2026-02-02 16:45:16,422 [INFO] Sub 175 EC saved to F:\NPI_results\bs_50\EC_Sub_175.mat
+2026-02-02 16:45:17,082 [INFO]  Sub 176 FC correlation: r = 0.7999384323034212, p = 0.0
+2026-02-02 16:45:17,083 [INFO] Calculating EC for Sub 176...
+2026-02-02 16:45:18,505 [INFO] Sub 176 EC saved to F:\NPI_results\bs_50\EC_Sub_176.mat
+2026-02-02 16:45:18,510 [INFO] 
+统计结果已保存至: F:\NPI_results\bs_50\NPI_Statistics_Summary_177_20260202_164518.csv
