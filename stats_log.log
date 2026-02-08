@@ -1,0 +1,229 @@
+2026-02-03 22:04:32,393 [INFO] start
+2026-02-05 19:48:55,279 [INFO] start
+2026-02-05 21:19:42,816 [INFO] start
+2026-02-05 21:20:51,446 [INFO] start
+2026-02-05 21:27:20,643 [INFO] start
+2026-02-05 21:29:04,216 [INFO] 数据已保存！
+原始文件：F:\NPI_results\bs_50\reidx\stats_result\EC_All_Subjects_Raw.csv
+校正后文件：F:\NPI_results\bs_50\reidx\stats_result\EC_All_Subjects_Regressed.csv
+2026-02-05 21:55:04,415 [INFO] start
+2026-02-05 21:56:11,380 [INFO] 数据已保存！
+原始文件：F:\NPI_results\bs_50\reidx\stats_result\EC_All_Subjects_Raw.csv
+校正后文件：F:\NPI_results\bs_50\reidx\stats_result\EC_All_Subjects_Regressed.csv
+2026-02-05 21:58:24,061 [INFO] Can't find sub 1's EC file!
+2026-02-05 21:58:24,061 [INFO] Can't find sub 2's EC file!
+2026-02-05 21:58:24,062 [INFO] Can't find sub 3's EC file!
+2026-02-05 21:58:24,063 [INFO] Can't find sub 4's EC file!
+2026-02-05 21:58:24,063 [INFO] Can't find sub 5's EC file!
+2026-02-05 21:58:24,064 [INFO] Can't find sub 6's EC file!
+2026-02-05 21:58:24,064 [INFO] Can't find sub 7's EC file!
+2026-02-05 21:58:24,065 [INFO] Can't find sub 8's EC file!
+2026-02-05 21:58:24,066 [INFO] Can't find sub 9's EC file!
+2026-02-05 21:58:24,067 [INFO] Can't find sub 10's EC file!
+2026-02-05 21:58:24,068 [INFO] Can't find sub 11's EC file!
+2026-02-05 21:58:24,068 [INFO] Can't find sub 12's EC file!
+2026-02-05 21:58:24,069 [INFO] Can't find sub 13's EC file!
+2026-02-05 21:58:24,070 [INFO] Can't find sub 14's EC file!
+2026-02-05 21:58:24,070 [INFO] Can't find sub 15's EC file!
+2026-02-05 21:58:24,071 [INFO] Can't find sub 16's EC file!
+2026-02-05 21:58:24,072 [INFO] Can't find sub 17's EC file!
+2026-02-05 21:58:24,072 [INFO] Can't find sub 18's EC file!
+2026-02-05 21:58:24,073 [INFO] Can't find sub 19's EC file!
+2026-02-05 21:58:24,074 [INFO] Can't find sub 20's EC file!
+2026-02-05 21:58:24,074 [INFO] Can't find sub 21's EC file!
+2026-02-05 21:58:24,075 [INFO] Can't find sub 22's EC file!
+2026-02-05 21:58:24,075 [INFO] Can't find sub 23's EC file!
+2026-02-05 21:58:24,076 [INFO] Can't find sub 24's EC file!
+2026-02-05 21:58:24,076 [INFO] Can't find sub 25's EC file!
+2026-02-05 21:58:24,077 [INFO] Can't find sub 26's EC file!
+2026-02-05 21:58:24,078 [INFO] Can't find sub 27's EC file!
+2026-02-05 21:58:24,078 [INFO] Can't find sub 28's EC file!
+2026-02-05 21:58:24,079 [INFO] Can't find sub 29's EC file!
+2026-02-05 21:58:24,079 [INFO] Can't find sub 30's EC file!
+2026-02-05 21:58:24,080 [INFO] Can't find sub 31's EC file!
+2026-02-05 21:58:24,081 [INFO] Can't find sub 32's EC file!
+2026-02-05 21:58:24,081 [INFO] Can't find sub 33's EC file!
+2026-02-05 21:58:24,082 [INFO] Can't find sub 34's EC file!
+2026-02-05 21:58:24,083 [INFO] Can't find sub 35's EC file!
+2026-02-05 21:58:24,083 [INFO] Can't find sub 36's EC file!
+2026-02-05 21:58:24,084 [INFO] Can't find sub 38's EC file!
+2026-02-05 21:58:24,085 [INFO] Can't find sub 39's EC file!
+2026-02-05 21:58:24,085 [INFO] Can't find sub 40's EC file!
+2026-02-05 21:58:24,086 [INFO] Can't find sub 41's EC file!
+2026-02-05 21:58:24,087 [INFO] Can't find sub 42's EC file!
+2026-02-05 21:58:24,087 [INFO] Can't find sub 43's EC file!
+2026-02-05 21:58:24,088 [INFO] Can't find sub 44's EC file!
+2026-02-05 21:58:24,088 [INFO] Can't find sub 45's EC file!
+2026-02-05 21:58:24,089 [INFO] Can't find sub 46's EC file!
+2026-02-05 21:58:24,090 [INFO] Can't find sub 47's EC file!
+2026-02-05 21:58:24,090 [INFO] Can't find sub 48's EC file!
+2026-02-05 21:58:24,091 [INFO] Can't find sub 49's EC file!
+2026-02-05 21:58:24,091 [INFO] Can't find sub 50's EC file!
+2026-02-05 21:58:24,092 [INFO] Can't find sub 51's EC file!
+2026-02-05 21:58:24,093 [INFO] Can't find sub 52's EC file!
+2026-02-05 21:58:24,093 [INFO] Can't find sub 53's EC file!
+2026-02-05 21:58:24,094 [INFO] Can't find sub 54's EC file!
+2026-02-05 21:58:24,094 [INFO] Can't find sub 55's EC file!
+2026-02-05 21:58:24,095 [INFO] Can't find sub 56's EC file!
+2026-02-05 21:58:24,096 [INFO] Can't find sub 57's EC file!
+2026-02-05 21:58:24,096 [INFO] Can't find sub 58's EC file!
+2026-02-05 21:58:24,097 [INFO] Can't find sub 59's EC file!
+2026-02-05 21:58:24,097 [INFO] Can't find sub 60's EC file!
+2026-02-05 21:58:24,098 [INFO] Can't find sub 61's EC file!
+2026-02-05 21:58:24,099 [INFO] Can't find sub 62's EC file!
+2026-02-05 21:58:24,100 [INFO] Can't find sub 63's EC file!
+2026-02-05 21:58:24,100 [INFO] Can't find sub 64's EC file!
+2026-02-05 21:58:24,101 [INFO] Can't find sub 65's EC file!
+2026-02-05 21:58:24,102 [INFO] Can't find sub 66's EC file!
+2026-02-05 21:58:24,102 [INFO] Can't find sub 67's EC file!
+2026-02-05 21:58:24,103 [INFO] Can't find sub 68's EC file!
+2026-02-05 21:58:24,104 [INFO] Can't find sub 69's EC file!
+2026-02-05 21:58:24,104 [INFO] Can't find sub 70's EC file!
+2026-02-05 21:58:24,105 [INFO] Can't find sub 71's EC file!
+2026-02-05 21:58:24,105 [INFO] Can't find sub 72's EC file!
+2026-02-05 21:58:24,106 [INFO] Can't find sub 73's EC file!
+2026-02-05 21:58:24,107 [INFO] Can't find sub 74's EC file!
+2026-02-05 21:58:24,107 [INFO] Can't find sub 75's EC file!
+2026-02-05 21:58:24,108 [INFO] Can't find sub 76's EC file!
+2026-02-05 21:58:24,109 [INFO] Can't find sub 77's EC file!
+2026-02-05 21:58:24,109 [INFO] Can't find sub 78's EC file!
+2026-02-05 21:58:24,110 [INFO] Can't find sub 79's EC file!
+2026-02-05 21:58:24,111 [INFO] Can't find sub 80's EC file!
+2026-02-05 21:58:24,111 [INFO] Can't find sub 81's EC file!
+2026-02-05 21:58:24,112 [INFO] Can't find sub 82's EC file!
+2026-02-05 21:58:24,112 [INFO] Can't find sub 83's EC file!
+2026-02-05 21:58:24,113 [INFO] Can't find sub 84's EC file!
+2026-02-05 21:58:24,113 [INFO] Can't find sub 85's EC file!
+2026-02-05 21:58:24,114 [INFO] Can't find sub 86's EC file!
+2026-02-05 21:58:24,115 [INFO] Can't find sub 87's EC file!
+2026-02-05 21:58:24,115 [INFO] Can't find sub 88's EC file!
+2026-02-05 21:58:24,116 [INFO] Can't find sub 89's EC file!
+2026-02-05 21:58:24,117 [INFO] Can't find sub 90's EC file!
+2026-02-05 21:58:24,117 [INFO] Can't find sub 91's EC file!
+2026-02-05 21:58:24,118 [INFO] Can't find sub 92's EC file!
+2026-02-05 21:58:24,119 [INFO] Can't find sub 93's EC file!
+2026-02-05 21:58:24,119 [INFO] Can't find sub 94's EC file!
+2026-02-05 21:58:24,120 [INFO] Can't find sub 95's EC file!
+2026-02-05 21:58:24,120 [INFO] Can't find sub 96's EC file!
+2026-02-05 21:58:24,121 [INFO] Can't find sub 97's EC file!
+2026-02-05 21:58:24,122 [INFO] Can't find sub 98's EC file!
+2026-02-05 21:58:24,122 [INFO] Can't find sub 99's EC file!
+2026-02-05 21:58:24,123 [INFO] Can't find sub 100's EC file!
+2026-02-05 21:58:24,123 [INFO] Can't find sub 101's EC file!
+2026-02-05 21:58:24,124 [INFO] Can't find sub 102's EC file!
+2026-02-05 21:58:24,125 [INFO] Can't find sub 103's EC file!
+2026-02-05 21:58:24,125 [INFO] Can't find sub 104's EC file!
+2026-02-05 21:58:24,126 [INFO] Can't find sub 105's EC file!
+2026-02-05 21:58:24,127 [INFO] Can't find sub 106's EC file!
+2026-02-05 21:58:24,127 [INFO] Can't find sub 107's EC file!
+2026-02-05 21:58:24,128 [INFO] Can't find sub 108's EC file!
+2026-02-05 21:58:24,128 [INFO] Can't find sub 109's EC file!
+2026-02-05 21:58:24,129 [INFO] Can't find sub 110's EC file!
+2026-02-05 21:58:24,130 [INFO] Can't find sub 111's EC file!
+2026-02-05 21:58:24,130 [INFO] Can't find sub 112's EC file!
+2026-02-05 21:58:24,131 [INFO] Can't find sub 113's EC file!
+2026-02-05 21:58:24,131 [INFO] Can't find sub 114's EC file!
+2026-02-05 21:58:24,132 [INFO] Can't find sub 115's EC file!
+2026-02-05 21:58:24,133 [INFO] Can't find sub 116's EC file!
+2026-02-05 21:58:24,133 [INFO] Can't find sub 117's EC file!
+2026-02-05 21:58:24,134 [INFO] Can't find sub 118's EC file!
+2026-02-05 21:58:24,135 [INFO] Can't find sub 119's EC file!
+2026-02-05 21:58:24,135 [INFO] Can't find sub 120's EC file!
+2026-02-05 21:58:24,136 [INFO] Can't find sub 121's EC file!
+2026-02-05 21:58:24,136 [INFO] Can't find sub 122's EC file!
+2026-02-05 21:58:24,137 [INFO] Can't find sub 123's EC file!
+2026-02-05 21:58:24,138 [INFO] Can't find sub 124's EC file!
+2026-02-05 21:58:24,139 [INFO] Can't find sub 125's EC file!
+2026-02-05 21:58:24,139 [INFO] Can't find sub 126's EC file!
+2026-02-05 21:58:24,140 [INFO] Can't find sub 127's EC file!
+2026-02-05 21:58:24,141 [INFO] Can't find sub 128's EC file!
+2026-02-05 21:58:24,141 [INFO] Can't find sub 129's EC file!
+2026-02-05 21:58:24,142 [INFO] Can't find sub 130's EC file!
+2026-02-05 21:58:24,142 [INFO] Can't find sub 131's EC file!
+2026-02-05 21:58:24,143 [INFO] Can't find sub 132's EC file!
+2026-02-05 21:58:24,143 [INFO] Can't find sub 133's EC file!
+2026-02-05 21:58:24,144 [INFO] Can't find sub 134's EC file!
+2026-02-05 21:58:24,144 [INFO] Can't find sub 135's EC file!
+2026-02-05 21:58:24,146 [INFO] Can't find sub 136's EC file!
+2026-02-05 21:58:24,148 [INFO] Can't find sub 137's EC file!
+2026-02-05 21:58:24,150 [INFO] Can't find sub 138's EC file!
+2026-02-05 21:58:24,152 [INFO] Can't find sub 139's EC file!
+2026-02-05 21:58:24,153 [INFO] Can't find sub 140's EC file!
+2026-02-05 21:58:24,154 [INFO] Can't find sub 141's EC file!
+2026-02-05 21:58:24,154 [INFO] Can't find sub 142's EC file!
+2026-02-05 21:58:24,155 [INFO] Can't find sub 143's EC file!
+2026-02-05 21:58:24,156 [INFO] Can't find sub 144's EC file!
+2026-02-05 21:58:24,157 [INFO] Can't find sub 145's EC file!
+2026-02-05 21:58:24,158 [INFO] Can't find sub 146's EC file!
+2026-02-05 21:58:24,159 [INFO] Can't find sub 147's EC file!
+2026-02-05 21:58:24,159 [INFO] Can't find sub 148's EC file!
+2026-02-05 21:58:24,160 [INFO] Can't find sub 149's EC file!
+2026-02-05 21:58:24,161 [INFO] Can't find sub 150's EC file!
+2026-02-05 21:58:24,162 [INFO] Can't find sub 151's EC file!
+2026-02-05 21:58:24,163 [INFO] Can't find sub 152's EC file!
+2026-02-05 21:58:24,164 [INFO] Can't find sub 153's EC file!
+2026-02-05 21:58:24,165 [INFO] Can't find sub 154's EC file!
+2026-02-05 21:58:24,166 [INFO] Can't find sub 155's EC file!
+2026-02-05 21:58:24,167 [INFO] Can't find sub 156's EC file!
+2026-02-05 21:58:24,168 [INFO] Can't find sub 157's EC file!
+2026-02-05 21:58:24,169 [INFO] Can't find sub 158's EC file!
+2026-02-05 21:58:24,170 [INFO] Can't find sub 159's EC file!
+2026-02-05 21:58:24,171 [INFO] Can't find sub 160's EC file!
+2026-02-05 21:58:24,172 [INFO] Can't find sub 161's EC file!
+2026-02-05 21:58:24,172 [INFO] Can't find sub 162's EC file!
+2026-02-05 21:58:24,173 [INFO] Can't find sub 163's EC file!
+2026-02-05 21:58:24,174 [INFO] Can't find sub 164's EC file!
+2026-02-05 21:58:24,175 [INFO] Can't find sub 165's EC file!
+2026-02-05 21:58:24,175 [INFO] Can't find sub 166's EC file!
+2026-02-05 21:58:24,176 [INFO] Can't find sub 167's EC file!
+2026-02-05 21:58:24,177 [INFO] Can't find sub 168's EC file!
+2026-02-05 21:58:24,178 [INFO] Can't find sub 169's EC file!
+2026-02-05 21:58:24,178 [INFO] Can't find sub 170's EC file!
+2026-02-05 21:58:24,179 [INFO] Can't find sub 171's EC file!
+2026-02-05 21:58:24,180 [INFO] Can't find sub 172's EC file!
+2026-02-05 21:58:24,181 [INFO] Can't find sub 173's EC file!
+2026-02-05 21:58:24,181 [INFO] Can't find sub 174's EC file!
+2026-02-05 21:58:24,182 [INFO] Can't find sub 175's EC file!
+2026-02-05 21:58:24,184 [INFO] Can't find sub 176's EC file!
+2026-02-05 21:58:24,185 [INFO] Can't find sub 177's EC file!
+2026-02-05 22:06:25,043 [INFO] stat start
+2026-02-05 22:06:50,306 [INFO] 数据已保存！
+原始文件：F:\NPI_results\bs_50\reidx\stats_result\EC_All_Subjects_Raw.csv
+校正后文件：F:\NPI_results\bs_50\reidx\stats_result\EC_All_Subjects_Regressed.csv
+2026-02-05 22:06:53,537 [INFO] 统计分析完成！显著差异连接已存入 CSV。
+2026-02-05 22:31:58,713 [INFO] 统计分析完成！显著差异连接已存入 CSV。
+2026-02-06 10:18:04,888 [INFO] stat start
+2026-02-06 10:32:38,325 [INFO] 数据已保存！
+原始文件：F:\NPI_results\bs_50\reidx\stats_result\EC_All_Subjects_Raw.csv
+校正后文件：F:\NPI_results\bs_50\reidx\stats_result\EC_All_Subjects_Regressed.csv
+2026-02-06 10:36:32,439 [INFO] 统计分析完成！显著差异连接已存入 CSV。
+2026-02-06 12:00:01,529 [INFO] stat start
+2026-02-06 12:01:40,862 [INFO] 177人全量 EC 矩阵已保存至: F:\NPI_results\bs_50\reidx\stats_result\EC_Raw_Full_177.npy
+2026-02-07 20:31:37,824 [INFO] stat start
+2026-02-07 20:31:42,264 [ERROR] 找不到 Final_Screening_Report.csv，请先运行择优脚本
+2026-02-07 20:33:01,769 [INFO] stat start
+2026-02-07 20:33:04,169 [ERROR] 找不到 Final_Screening_Report.csv，请先运行择优脚本
+2026-02-07 20:33:35,571 [INFO] stat start
+2026-02-07 21:21:15,286 [INFO] 
+>>>> Running: Group -> VAN_to_DMN_EC_Raw -> DMN_SP <<<<
+2026-02-07 21:21:17,327 [ERROR] Error modeling VAN_to_DMN_EC_Raw -> DMN_SP: index 0 is out of bounds for axis 0 with size 0
+2026-02-07 21:21:17,328 [INFO] 
+>>>> Running: Group -> VAN_to_DMN_EC_Exc -> DMN_SP <<<<
+2026-02-07 21:21:19,294 [ERROR] Error modeling VAN_to_DMN_EC_Exc -> DMN_SP: index 0 is out of bounds for axis 0 with size 0
+2026-02-07 21:21:19,295 [INFO] 
+>>>> Running: Group -> VAN_to_DMN_EC_Inh -> DMN_SP <<<<
+2026-02-07 21:21:21,272 [ERROR] Error modeling VAN_to_DMN_EC_Inh -> DMN_SP: index 0 is out of bounds for axis 0 with size 0
+2026-02-07 21:21:21,273 [INFO] 
+>>>> Running: Group -> VAN_to_DMN_EC_Raw -> VAN_to_DMN_Steps <<<<
+2026-02-07 21:21:23,249 [ERROR] Error modeling VAN_to_DMN_EC_Raw -> VAN_to_DMN_Steps: index 0 is out of bounds for axis 0 with size 0
+2026-02-07 21:21:23,250 [INFO] 
+>>>> Running: Group -> VAN_to_DMN_EC_Exc -> VAN_to_DMN_Steps <<<<
+2026-02-07 21:21:25,249 [ERROR] Error modeling VAN_to_DMN_EC_Exc -> VAN_to_DMN_Steps: index 0 is out of bounds for axis 0 with size 0
+2026-02-07 21:21:25,250 [INFO] 
+>>>> Running: Group -> VAN_to_DMN_EC_Inh -> VAN_to_DMN_Steps <<<<
+2026-02-07 21:21:27,252 [ERROR] Error modeling VAN_to_DMN_EC_Inh -> VAN_to_DMN_Steps: index 0 is out of bounds for axis 0 with size 0
+2026-02-07 21:21:27,253 [INFO] 
+==================================================
+2026-02-07 21:21:27,254 [INFO] 所有模型分析结束，汇总报表已生成。
+2026-02-08 17:31:53,185 [INFO] stat start
+2026-02-08 17:50:26,773 [INFO] 正在执行协变量回归...
